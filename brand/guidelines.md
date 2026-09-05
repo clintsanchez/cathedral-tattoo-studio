@@ -1,6 +1,6 @@
 # Brand Guidelines — Cathedral Tattoo Studio
 
-## ⛔ Not written. Blocked on the vector logo.
+## ⛔ Not written. Blocked on the logo redraw.
 
 *2026-09-05.*
 
@@ -36,7 +36,9 @@ Most of the book is already written and only needs assembling:
 | Brand story | `story.md` | ⛔ interview required |
 
 ## Sequence
-1. Roger sends the vector, or it is retraced to the brief in `identity.md` §02.
+1. **Commission the tiered redraw** per `identity.md` §02 and
+   `06-Reports/logo-source-analysis.md`. ⚠️ Roger will almost certainly not have a
+   vector to send, and tracing the raster will not produce one.
 2. Identify the blackletter face.
 3. Resample the real hex values; update `DESIGN.md` and `css-tokens.css` **together**.
 4. Run `brand-guidelines`, assembling the table above.

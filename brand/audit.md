@@ -140,12 +140,14 @@ generic competitor holding 168 reviews ③.
 
 ## What's not working
 
-**1. No vector logo. 🔴 Highest priority.**
-*Evidence:* the largest asset is a 1242px raster; the palette in `DESIGN.md` is
-sampled from a JPEG.
-*Impact:* blocks the favicon, OG card, print, signage, merchandise and the real colour
-tokens. Blocks `brand-guidelines` entirely (`CLAUDE.md`). Every other identity task
-queues behind this one.
+**1. The logo is unusable below ~64px and has no vector behind it. 🔴 Highest priority.**
+*Evidence:* `06-Reports/logo-source-analysis.md`. 70% of ink differs from its own
+mirror, 129,764 unique colours, and the reduction test is a smear at 32px and a blob
+at 16px.
+*Impact:* blocks the favicon, OG card, print, signage, merchandise and real colour
+tokens. Blocks `brand-guidelines` (`CLAUDE.md`).
+*Fix:* **a tiered redraw, not a trace and not a client ask.** ~1.5 days of vector
+illustration. This is the highest-value production task in the project.
 
 **2. ~~Three unresolved addresses.~~ ✅ Resolved 2026-09-05. 🟢**
 *Evidence:* GBP/FB showed Denham Springs, the SoS filing shows Baton Rouge, and an

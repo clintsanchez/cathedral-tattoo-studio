@@ -82,8 +82,21 @@ or Facebook.
   reverence / commissioned work, tagline "Work worth carrying"
   (`brand/positioning.md`, `brand/messaging.md`).
 
-## Consequence of the Cathedral decision
-The studio's own mark exists only as a raster. Every asset that needs to *lead*
-with Cathedral — favicon, OG card, header lockup, print — needs the vector.
-That makes ask #4 (vector logo files) the single highest-value client ask,
-ahead of the address.
+## 🚨 The logo has to be redrawn (2026-09-05)
+`06-Reports/logo-source-analysis.md`. The mark is a flat raster with nothing behind
+it: **70% of its ink differs from its own mirror image**, 129,764 unique colours, and
+it is an unreadable smear below about 64px. Either AI-generated or a Photoshop
+illustration with layer effects; we cannot tell and it does not matter, because both
+mean the same thing.
+
+**No vector exists, none is coming, and tracing will not produce one** — tracing
+cannot fix a mark that simply carries more detail than a logo can carry.
+
+This flips the plan. The vector stops being a client ask we wait on and becomes a
+**tiered redraw we commission**: full lockup, simplified lockup, badge, and a favicon
+glyph (the rose window or the cross alone). Roughly a day and a half of vector
+illustration. It is now the highest-value production task in the project.
+
+⚠️ Also raised: if the artwork was AI-generated it may not be registrable, so the mark
+may not be defensible. Added as **R-27** — who made it, with what tool, anything in
+writing.

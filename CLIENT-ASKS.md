@@ -13,10 +13,14 @@ arrive.
 
 ## Priority order
 
-**R-02 (address) is answered.** If Roger only answers one more thing, it should be
-**R-01, the vector logo** — it now stands alone as the single largest blocker. If he
-only does one thing at all, it should be **the phone call (R-13)**: the only ask that
-cannot be worked around, and the only one that unlocks a whole document.
+**R-02 (address) is answered, and R-01 is no longer a blocker** — there is almost
+certainly no vector to send (`06-Reports/logo-source-analysis.md`), so the logo is now
+a job we commission rather than an ask we wait on.
+
+That leaves **the phone call (R-13)** as the single most valuable thing Roger can give
+us: the only ask that cannot be worked around, and the only one that unlocks a whole
+document. After that, **R-03 (ownership language)** and **R-04 (licensing numbers)**,
+which between them gate the About page and every trust claim.
 
 ---
 
@@ -24,7 +28,7 @@ cannot be worked around, and the only one that unlocks a whole document.
 
 | ID | Ask | Status | Unblocks |
 |---|---|---|---|
-| **R-01** | **Vector logo files** (.ai / .eps / .svg, or the original layered file). If he doesn't have them, who made the mark? | ⬜ | The entire identity system: favicon, OG card, print, signage, merch, real colour tokens, and `brand-guidelines` in full |
+| **R-01** | **Any source file for the logo** — .ai/.eps/.svg, or a layered PSD/Procreate file. ⚠️ **Assume there is none.** `06-Reports/logo-source-analysis.md` shows the mark is a flat raster with no vector behind it. Ask, but do not wait: the fix is a redraw we commission | ⬜ | A source file would *assist* the redraw. It is no longer a blocker |
 | **R-02** | ~~Which address is the studio?~~ **✅ ANSWERED 2026-09-05 (Clint): 1318 Florida Ave SW, Denham Springs, LA 70726.** Follow-up still open: **when is the move, and to where?** | ✅ / ⬜ | ✅ Unblocked: location page, LocalBusiness schema, citations, GBP, print. ⬜ Still pending: move date and new address |
 | **R-03** | **How should we describe your role?** The LLC names Mikayla Paul as sole member. Not a challenge — we need to know what's accurate before anything says "owner" | ⬜ | About page, bios, brand story, recruitment copy. Guardrail 1 |
 | **R-04** | **Shop body-art facility permit number, and each artist's operator registration number.** LDH has no public registry, so it can only come from him | ⬜ | Any trust, licensing, sterilisation or compliance claim at all. Guardrail 4 |
@@ -42,6 +46,7 @@ work, the customer, and the shop.
 | **R-15** | Growth intent: one chair or a roster? | ⬜ | Site architecture, artist pages, governance in `brand/architecture.md` |
 | **R-16** | Why the name Cathedral, and who chose it | ⬜ | Story, and whether the ecclesiastical register is his intent or our read |
 | **R-17** | How he wants his previous shop handled, if at all. Our default is not to mention it | ⬜ | Story, About page. ⚠️ Pairs with **B-01** |
+| **R-27** | **Who made the logo, with what tool, and is there anything in writing transferring rights?** ⚠️ If it was AI-generated it may not be registrable, meaning the mark may not be defensible against a competitor copying it. A flag, not legal advice | ⬜ | Whether the mark can be protected; informs the redraw brief |
 
 ## C. Operational — needed before the site can be finished
 
@@ -97,6 +102,7 @@ the document the answer unblocks.
 
 | Date | ID | Answer | Files updated |
 |---|---|---|---|
+| 2026-09-05 | **R-01** | Not answered, but **superseded by analysis.** The mark is a flat raster with no vector behind it: 70% of ink differs from its own mirror, 129,764 unique colours, illegible below ~64px. No vector will be forthcoming and tracing will not produce one. Downgraded from blocker to assist; a tiered redraw is now the plan | `06-Reports/logo-source-analysis.md` (new), `brand/identity.md`, `brand/guidelines.md`, `brand/audit.md`, `DESIGN.md`, `HANDOFF.md`, `CLAUDE.md` |
 | 2026-09-05 | **R-02** | **1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio. Confirmed by Clint. Tier: stated by BSC account lead, same standing as the Roger-as-owner statement — not a client-signed document. ⚠️ The 2026-08-27 relocation post still stands, so a move may still come; NAP will need updating if it does. Move date and new address remain open | `CLAUDE.md`, `README.md`, `HANDOFF.md`, `00-CLIENT-BRIEF.md`, `06-Reports/records-check.md`, `brand/context.md`, `brand/strategy.md`, `brand/audit.md`, `brand/identity.md`, `brand/messaging.md` |
 
 ## Where these came from

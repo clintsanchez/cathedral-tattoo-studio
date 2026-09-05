@@ -81,6 +81,8 @@ Full analysis _TBD_.
 - ⚠️ Metallic gradient. No single true hex until the vector arrives.
 
 **Marks:** Cathedral lockup · CTS gold badge · Roger's personal RC frame monogram.
+**Brand decision (Clint, 2026-09-04): Cathedral fronts everything.** RC is artist
+attribution on portfolio work only.
 
 **Voice:** _TBD_. Observable register ④: gothic, reverent, craft-led. Their own
 posts are plain and direct, not edgy.

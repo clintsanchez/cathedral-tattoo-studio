@@ -17,6 +17,7 @@ fulfilment starts. **It silently produces wrong output when a field is missing.*
 | Asset library paths | `../05-Photos/`, `../04-Content-Library/` | ✅ |
 | Money page IDs | _TBD_ — no site | ❌ |
 | Founder identity | Roger Cazares, owner | ✅ |
+| Front-facing brand | **Cathedral** — featured images, OG cards and social cards use the Cathedral lockup, never RC | ✅ decided 2026-09-04 |
 
 Universal conventions (no em dashes, banned-word list, ≤4-line paragraphs,
 3 CTA modules, 3–6 internal links, no invented stats) live in

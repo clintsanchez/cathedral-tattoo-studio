@@ -37,8 +37,17 @@ Ave SW. **No location page, schema, or citation work until Roger confirms.**
 9. Instagram and TikTok handles
 10. Do you want `cathedraltattoostudio.com`? It was unregistered as of 2026-09-04
 
+## Decided
+- **Cathedral is the brand** (Clint, 2026-09-04). Site, GBP, social, OG cards and
+  print all front Cathedral. RC stays on portfolio photos as artist attribution
+  only — never as site chrome, favicon or a logo slot.
+
 ## Open decisions for BSC
-- **Cathedral or RC?** Nearly every portfolio photo carries Roger's personal RC
-  monogram, not the studio mark. Decide which brand the site fronts.
-- **How to handle Tattootopia.** It's his prior shop, one mile up the same street,
-  and it's also a BSC pro-bono client.
+- **How to handle Tattootopia.** It's Roger's prior shop, one mile up the same
+  street, and a BSC pro-bono client. Affects bio copy and the "about" story.
+
+## Consequence of the Cathedral decision
+The studio's own mark exists only as a raster. Every asset that needs to *lead*
+with Cathedral — favicon, OG card, header lockup, print — needs the vector.
+That makes ask #4 (vector logo files) the single highest-value client ask,
+ahead of the address.

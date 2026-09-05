@@ -37,7 +37,14 @@ Three marks exist and are NOT interchangeable:
 - **Cathedral lockup** — the studio's primary mark
 - **"CTS" gold badge** — studio secondary
 - **"RC" gothic frame monogram** — Roger's personal artist watermark, burned into
-  nearly every portfolio photo. Decide early whether the site fronts Cathedral or RC.
+  nearly every portfolio photo.
+
+**Decision (Clint, 2026-09-04): the brand is CATHEDRAL.** Cathedral fronts the
+site, the GBP, social handles, OG cards, email and print. RC is demoted to
+**artist attribution only** — it stays on portfolio photos as Roger's signature
+(normal in the trade, and pointless to strip from his own work), but it never
+appears as site chrome, favicon, or a logo slot. Where both would compete in one
+frame, Cathedral wins.
 
 Assets: `../01-Brand-Assets/`. Use the `brand-guidelines` skill once the vector lands.
 

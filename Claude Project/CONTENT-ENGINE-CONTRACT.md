@@ -1,0 +1,25 @@
+# Cathedral Tattoo Studio — Content Engine Contract
+
+What `blaksheep-creative-content-generation-engine` needs before monthly
+fulfilment starts. **It silently produces wrong output when a field is missing.**
+
+| Field | Value | Status |
+|---|---|---|
+| CSS class prefix | `cts-` | ✅ assigned 2026-09-04 — renders `cts-cta`, `cts-tldr`, `cts-table` |
+| Brand colours | #856430 / #A68439 / #E5C14B on near-black | ⚠️ raster-sampled, needs vector |
+| Fonts | _TBD_ — blackletter display + clean sans body, unconfirmed | ❌ |
+| Logo files | raster only (`../01-Brand-Assets/`) | ⚠️ vector needed for headless render |
+| Phone as tel: | `tel:+12253019527` | ✅ |
+| WP author user ID | _TBD_ — no site exists yet | ❌ |
+| Brand voice | _TBD_ | ❌ |
+| Audience | _TBD_ | ❌ |
+| Geography | Denham Springs, LA — ⚠️ address in flux | ⚠️ |
+| Asset library paths | `../05-Photos/`, `../04-Content-Library/` | ✅ |
+| Money page IDs | _TBD_ — no site | ❌ |
+| Founder identity | Roger Cazares, owner | ✅ |
+
+Universal conventions (no em dashes, banned-word list, ≤4-line paragraphs,
+3 CTA modules, 3–6 internal links, no invented stats) live in
+`_blaksheep-conventions/CLAUDE.md`.
+
+**Blocked on:** the website. Half this table cannot be filled until the site exists.

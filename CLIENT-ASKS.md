@@ -46,7 +46,7 @@ work, the customer, and the shop.
 | **R-15** | Growth intent: one chair or a roster? | ⬜ | Site architecture, artist pages, governance in `brand/architecture.md` |
 | **R-16** | Why the name Cathedral, and who chose it | ⬜ | Story, and whether the ecclesiastical register is his intent or our read |
 | **R-17** | How he wants his previous shop handled, if at all. Our default is not to mention it | ⬜ | Story, About page. ⚠️ Pairs with **B-01** |
-| **R-27** | **Who made the logo, with what tool, and is there anything in writing transferring rights?** ⚠️ If it was AI-generated it may not be registrable, meaning the mark may not be defensible against a competitor copying it. A flag, not legal advice | ⬜ | Whether the mark can be protected; informs the redraw brief |
+| **R-27** | **Who made the logo, with what tool, and is there anything in writing transferring rights?** ⚠️ If it was AI-generated it may not be registrable. **Compounded 2026-09-05:** "Cathedral Tattoo" is also used by shops in UT, AZ and KY, so the *name* would likely be contested too — between them the studio may have little that is exclusively defensible. A flag, not legal advice; worth a lawyer's fifteen minutes before signage spend | ⬜ | Whether anything about the brand can be protected |
 
 ## C. Operational — needed before the site can be finished
 
@@ -57,8 +57,10 @@ work, the customer, and the shop.
 | **R-07** | Service list and shop minimum. **Is piercing actually live**, or is that for the new place? | ⬜ | Service pages, keyword map, GBP services. FB claims piercing; nothing confirms it |
 | **R-08** | Unwatermarked originals of the older portfolio photos | ⬜ | 8 files still carrying a competitor watermark (`WATERMARK-REMOVAL.md`) |
 | **R-09** | Artist and piercer roster as people are hired | ⬜ | Artist pages, schema `employee`, attribution rule at point of hire |
-| **R-10** | Instagram and TikTok handles | ⬜ | Social links, `sameAs` schema. ⚠️ The fine-line audience is unreachable without these |
-| **R-11** | Does he want `cathedraltattoostudio.com`? Unregistered as of 2026-09-04 | ⬜ | Everything downstream of hosting |
+| **R-10** | ~~Instagram and TikTok handles~~ **✅ PARTLY ANSWERED by research 2026-09-05.** Roger is **`@rc_tattoos` — 6,667 followers, 2,029 posts**. TikTok still unknown (could not be verified; check by hand) | ✅ / ⬜ | Social links, `sameAs` schema. ⚠️ Instagram is **not** missing — it is the business's largest audience, 30× the Facebook page |
+| **R-28** | 🚨 **Does the studio own the Instagram handle `@cathedraltattoostudio`?** It exists but is empty: 6 followers, 0 posts, no display name. If it is yours, we need the login. If not, a squatter holds the obvious handle | ⬜ | Social handle strategy, `sameAs` schema. ⚠️ **Time-sensitive** |
+| **R-29** | Confirm the TikTok handle by hand — automated checks could not resolve it | ⬜ | Social links |
+| **R-11** | Does he want `cathedraltattoostudio.com`? ✅ **Re-verified available 2026-09-05 by whois.** ~$15. **Recommend registering now** — `cathedraltattoo.com` is already taken and multiple out-of-state shops share the name (`brand/naming.md`) | ⬜ | Everything downstream of hosting |
 | **R-12** | **Walk-ins: are they live?** Promised for the new location, not confirmed | ⬜ | Hero copy, GBP attributes. Guardrail 6 |
 
 ## D. Approvals — he has to see these before they ship
@@ -102,6 +104,8 @@ the document the answer unblocks.
 
 | Date | ID | Answer | Files updated |
 |---|---|---|---|
+| 2026-09-05 | **R-10** | **Roger is `@rc_tattoos` on Instagram: 6,667 followers, 2,029 posts** — confirmed against the handle burned into our own portfolio watermarks. Roughly 30× the studio Facebook page. Instagram was never missing; it just is not Cathedral's. TikTok unverified | `brand/naming.md` (new), `brand/audience.md`, `brand/architecture.md`, `brand/audit.md` |
+| 2026-09-05 | **R-11** | `cathedraltattoostudio.com` **re-verified available** by whois. `cathedraltattoo.com` is taken. Recommend registering immediately | `brand/naming.md` |
 | 2026-09-05 | **R-01** | **Closed by decision (Clint): use the logo as it is.** No redraw commissioned. A derived digital set was cut from the existing artwork, with the cross as the favicon glyph since it is the only element legible at 16px. Residual gaps recorded: no embroidery/foil art, no large signage art, no light-background variant, colour tokens stay interim | `01-Brand-Assets/derived/` (new), `01-Brand-Assets/derived/README.md`, `brand/identity.md`, `brand/guidelines.md`, `brand/audit.md` |
 | 2026-09-05 | **R-01** | *(prior)* **Superseded by analysis.** The mark is a flat raster with no vector behind it: 70% of ink differs from its own mirror, 129,764 unique colours, illegible below ~64px. No vector will be forthcoming and tracing will not produce one. Downgraded from blocker to assist; a tiered redraw is now the plan | `06-Reports/logo-source-analysis.md` (new), `brand/identity.md`, `brand/guidelines.md`, `brand/audit.md`, `DESIGN.md`, `HANDOFF.md`, `CLAUDE.md` |
 | 2026-09-05 | **R-02** | **1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio. Confirmed by Clint. Tier: stated by BSC account lead, same standing as the Roger-as-owner statement — not a client-signed document. ⚠️ The 2026-08-27 relocation post still stands, so a move may still come; NAP will need updating if it does. Move date and new address remain open | `CLAUDE.md`, `README.md`, `HANDOFF.md`, `00-CLIENT-BRIEF.md`, `06-Reports/records-check.md`, `brand/context.md`, `brand/strategy.md`, `brand/audit.md`, `brand/identity.md`, `brand/messaging.md` |

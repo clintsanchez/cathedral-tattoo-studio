@@ -120,8 +120,10 @@ atmosphere — the shop has to feel clean, calm and unintimidating.
   atmosphere.
 - **Triggers:** dotwork and fine-line portfolio depth, clean interior photos.
   **Hesitates at:** an aggressive or gatekeeping vibe.
-- **Channels:** Instagram and TikTok primarily. ⚠️ Cathedral has neither handle on
-  file — this persona is currently unreachable (ask #11).
+- **Channels:** Instagram and TikTok primarily. ✅ **Correction 2026-09-05: this
+  persona is reachable today.** Roger's `@rc_tattoos` has 6,667 followers and 2,029
+  posts (`brand/naming.md`). The reach exists; it sits on the artist account rather
+  than the studio one.
 - **How Cathedral solves it:** the fine-line dotwork body of work is genuinely strong
   ①, and the gold-on-black brand reads considered rather than aggressive.
 
@@ -171,9 +173,10 @@ brand-poetic language.
 specific thing they want. Portrait people need portrait proof; fine-line people need
 fine-line proof. Segment the portfolio by what the piece *is*, not by style jargon.
 
-**Channel** — Facebook is where they already are and where the shop already has 217
-followers ①. Instagram and TikTok are missing entirely and are the only route to the
-Hailey persona (ask #11). Google is the intent channel and Cathedral is invisible
+**Channel** — ⚠️ **Revised 2026-09-05.** Instagram, not Facebook, is the real
+channel: `@rc_tattoos` carries 6,667 followers and 2,029 posts against the studio
+Facebook page's 217 ① (`brand/naming.md`). Plan around Instagram first and treat
+Facebook as secondary. TikTok remains unverified. Google is the intent channel and Cathedral is invisible
 there — no website, no reviews. ⚠️ Local search work is gated on the address.
 
 **Voice** — plain, warm, direct, unhurried. Match the register of the client's own

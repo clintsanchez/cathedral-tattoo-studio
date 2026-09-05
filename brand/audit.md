@@ -93,10 +93,15 @@ move.
 
 ### Dimension 5 — Audience alignment: 2/5 🔴
 
-The brand is **not positioned where its audience is looking.** The audience research
-says people find an artist through Instagram and TikTok, then validate on Google
-(`audience.md`). Cathedral has **no Instagram or TikTok on file** and is effectively
-absent from Google: no website, zero reviews, one published day of hours ①.
+⚠️ **Revised 2026-09-05.** The audience research says people find an artist through
+Instagram, then validate on Google. **The Instagram audience exists — it is just not
+the studio's.** `@rc_tattoos` carries 6,667 followers and 2,029 posts, roughly 30× the
+studio Facebook page (`brand/naming.md`). Cathedral remains effectively absent from
+Google: no website, zero reviews, one published day of hours ①.
+
+The score stays at 2/5, but for a changed reason: not *absence* of a channel, but a
+**channel that belongs to the artist rather than the brand.** That is a more valuable
+position to be in and a more fragile one.
 
 It does use the audience's language in the one place it speaks — "now booking",
 "available", open dates ② — and the portfolio genuinely matches what the inferred
@@ -177,10 +182,16 @@ nearly every portfolio image.
 *Impact:* dilutes a brand that is only four months old. `architecture.md` resolves it
 on paper; nothing is applied live.
 
-**6. Unreachable on the audience's primary channels. 🟡**
-*Evidence:* no Instagram or TikTok handle on file.
-*Impact:* the fine-line persona is unreachable, and tattoo discovery is
-Instagram-first.
+**6. The audience belongs to the artist, not the studio. 🟡**
+*Evidence:* `@rc_tattoos` 6,667 followers / 2,029 posts vs. the studio Facebook page's
+217 ①. The studio Instagram handle `@cathedraltattoostudio` exists but is empty — 6
+followers, 0 posts — and we do not know who controls it (**R-28**).
+*Impact:* a ~30:1 asymmetry. Tattoo discovery is Instagram-first, so effectively all
+of the business's reach currently sits under the artist mark. **This is business
+continuity, not just branding.**
+*Fix:* migrate, do not switch. Keep Roger posting, credit Cathedral in bio and
+captions, cross-post, grow the studio account off his. Recover the studio handle first
+(**R-28**).
 
 ## Priority recommendations
 
@@ -204,7 +215,10 @@ Instagram-first.
 - Complete the GBP: real hours, services, photos, and the website link once it exists.
 - **Start review generation the week the address settles.** Highest-leverage
   non-brand action available.
-- Claim the Instagram and TikTok handles; claim `cathedraltattoostudio.com`.
+- 🚨 **Register `cathedraltattoostudio.com` this week** — verified available
+  2026-09-05, ~$15, and multiple out-of-state shops share the name (`brand/naming.md`).
+- 🚨 **Resolve `@cathedraltattoostudio` (R-28)** — the handle is claimed but empty.
+- Verify the TikTok handle by hand (R-29).
 
 **Long-term (strategic)**
 - Get the positioning approved and *lived* — reverence proven through process

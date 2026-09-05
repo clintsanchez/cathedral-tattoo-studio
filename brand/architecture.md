@@ -19,7 +19,7 @@ artists and piercers ②. So this needs deciding now, before there is a roster.
 |---|---|---|---|---|
 | **Cathedral lockup** | Gothic facade, rose window, cross; blackletter "Cathedral" over "· Tattoo Studio ·" | The shop's public | Primary | **Developing.** Months old, 217 followers, zero reviews ① |
 | **CTS gold badge** | Gold gothic monogram | Same | Studio secondary | Minimal — little published use |
-| **RC gothic frame monogram** | Roger's personal artist mark | Roger's own following (@rc_tattoos) | Artist attribution | **Strongest of the three in practice** — on ~97 portfolio photos ① |
+| **RC gothic frame monogram** | Roger's personal artist mark | **`@rc_tattoos` — 6,667 IG followers, 2,029 posts** ① | Artist attribution | 🚨 **Overwhelmingly the strongest.** On ~97 portfolio photos, and carrying ~30× the studio page's audience |
 | **"RC Tattoos" skull sketch** | Legacy mark | — | Retired | Legacy only |
 | *(future artist marks)* | Whatever the new hires bring | Their own followings | **Undefined — this doc defines it** | Unknown |
 
@@ -27,6 +27,18 @@ The uncomfortable read: **RC currently has more visible equity than Cathedral**,
 purely because it is stamped on the entire body of work while Cathedral has a
 months-old page and no website. The decision below deliberately spends down that
 asymmetry in the shop's favor.
+
+🚨 **Quantified 2026-09-05 (`brand/naming.md`): the asymmetry is roughly 30 to 1.**
+`@rc_tattoos` has 6,667 followers against the studio Facebook page's 217. That is not
+a branding inconvenience, it is a **business-continuity exposure** — if Roger left, the
+audience goes with him, and there is currently nothing else.
+
+It also constrains *how* the Cathedral-first decision gets executed. **Do not ask Roger
+to stop posting to his own account.** Starving the only channel that reaches people to
+feed a 217-follower page would be self-harm. The migration is: keep posting there,
+credit Cathedral in the bio and captions, cross-post to the studio account, and let the
+studio grow off the back of his. Cathedral wins the *chrome* immediately and the
+*audience* gradually.
 
 ## 02 — Architecture recommendation
 

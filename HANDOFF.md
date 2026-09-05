@@ -71,6 +71,23 @@ or Facebook.
   print all front Cathedral. RC stays on portfolio photos as artist attribution
   only — never as site chrome, favicon or a logo slot.
 
+## 🚨 Roger has 6,667 Instagram followers (found 2026-09-05)
+`@rc_tattoos` — 6,667 followers, 2,029 posts, confirmed against the handle in our own
+portfolio watermarks. The studio Facebook page has **217** ①. That is a **~30:1
+asymmetry**, and it means effectively all of the business's audience sits under the
+artist mark rather than the studio brand.
+
+It does not reverse the Cathedral-first decision — it is the clearest argument *for*
+it — but it changes execution: **migrate, do not switch.** Keep Roger posting to his
+own account, credit Cathedral in bio and captions, cross-post, and grow the studio
+account off the back of his. `brand/naming.md`.
+
+⚠️ Also: `@cathedraltattoostudio` on Instagram **exists but is empty** (6 followers, 0
+posts). We do not know if it is theirs or a squatter's — **R-28**, time-sensitive.
+
+⚠️ And `cathedraltattoostudio.com` is **still available** as of 2026-09-05. ~$15.
+Register it.
+
 ## Open decisions for BSC
 - 🚨 **How to handle Tattootopia — now blocking more than it was.** It's Roger's prior
   shop, one mile up the same street, and a BSC pro-bono client. **BSC is advising two

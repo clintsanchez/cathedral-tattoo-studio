@@ -19,6 +19,8 @@ serving the Denham Springs and Baton Rouge area.
 
 - **Position:** premium commissioned work. Where a tattoo is treated as something with
   weight, not a purchase.
+  ⚠️ **Open tension:** there is no shop minimum. See `context.md` — premium currently
+  has no price floor supporting it, and rests entirely on restraint and selectivity.
 - **In one sentence:** *Cathedral is where people in Livingston Parish go when the
   tattoo has to mean something.*
 - **Tagline (proposed):** **Work worth carrying.**
@@ -177,7 +179,7 @@ Honest about limits · Unhurried · Selective · Attributive.**
 | 5 | No reviews, ratings or social proof. There are none | ⛔ until reviews exist |
 | 6 | No "walk-ins welcome" | ⛔ until R-12 |
 | 7 | Differentiator | ✅ adopted internally; ⛔ not as Roger's claim until R-18 |
-| 8 | **No price claims** | ⛔ until R-07 |
+| 8 | **No price claims** | ⚠️ **No minimum exists.** Nothing to publish. Do not invent a "from" price |
 
 ---
 

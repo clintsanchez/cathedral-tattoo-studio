@@ -76,7 +76,12 @@ an honest answer about what will and will not work on skin.
 *Proof:* ⚠️ **currently unevidenced.** This is a promise, not a proof, until reviews
 or a documented consult process exist. Use sparingly and never as a boast.
 
-**Level 4 — Proof point bank**
+⚠️ **Note on price (2026-09-05):** there is no shop minimum, so **no price floor exists
+to cite** — "large work starts at $X" is not currently available as a proof, and it was
+the strongest premium signal on offer. Until that changes, premium rests entirely on
+restraint, selectivity and the portfolio.
+
+**Level 4 — Proof point bank
 
 Usable today:
 1. 97 portfolio pieces on file, spanning six or more distinct styles ①.

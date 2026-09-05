@@ -105,10 +105,42 @@ event, not a style problem.
     them. Convenience is Safe Voyage's territory 200 yards away, and premium and
     walk-in volume pull against each other.
 
-  ⚠️ Still no pricing, shop minimum or rate on file (**R-07 — now urgent**). Premium
-  positioning with unknown prices is unfinished: the shop minimum is the single most
-  load-bearing number in a premium tattoo brand. **Publish no price claim** until it
-  exists.
+  ✅ **R-07 answered 2026-09-05 (Clint): there is no shop minimum.** The studio is open
+  and trading.
+
+  🚨 **This is the largest single threat to the premium position, and it is worth
+  saying plainly.** Zero reviews is a problem that time fixes. No minimum is a problem
+  only a decision fixes, and it is a decision that has already been made by default.
+
+  **Two different things must not be confused:**
+  - **No published price list — fine, and arguably premium.** Serious custom studios
+    quote per piece. Cathedral should not publish a rate card.
+  - **No minimum at all — not premium.** A minimum is not a price, it is a *filter*. It
+    is what stops the calendar filling with £40 walk-in butterflies that consume chair
+    time, generate no portfolio, and quietly reposition the shop as cheap. A studio
+    that will tattoo anything at any price is, by definition, a volume shop. That is a
+    perfectly good business — it is simply not the one the rest of this package
+    describes.
+
+  **Recommendation (BSC): institute a minimum.** It is the cheapest, fastest premium
+  lever available and it is operational rather than cosmetic. Local anchor ③: a
+  comparable Baton Rouge shop runs **$100 minimum / $150 hourly**.
+  - **$100** — market-standard. Filters the smallest work without deterring anyone
+    serious. The safe choice.
+  - **$150** — sits deliberately above the local floor and signals the position
+    honestly. The choice that matches the brand.
+  - Pair it with a **deposit** taken at booking and applied to the piece. The deposit
+    does more work than the number: it converts enquiries into commitments and stops
+    no-shows, which is what actually costs a small studio money.
+
+  ⚠️ **Pricing is Roger's decision, not ours.** Our job is to say what the brand
+  requires and let him weigh it against his cost base and chair time.
+
+  **If he will not set a minimum**, premium has to be carried entirely by other
+  mechanics, and this must be deliberate rather than accidental:
+  consult-gated booking · deposits · project-only work · declining small flash ·
+  publishing fewer, larger pieces · waiting lists rather than availability.
+  ⚠️ It is achievable, but it is harder, slower, and every one of those has to hold.
 
 ## Brand Personality
 - **Personality Words**: gothic, reverent, craft-led, dark, considered ④ — read off

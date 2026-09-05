@@ -123,11 +123,20 @@ known), reviews (zero), sterility/licensing (unverified), "premier" (unfalsifiab
 and Tattootopia's line), and **"premium" itself** — the position is demonstrated, not
 asserted.
 
-🚨 **The premium position has one missing proof: a price floor.** A premium brand with
-no published minimum is unfinished, because the number is what makes the position
-credible without ever using the word. **R-07 is now the most important open ask after
-the phone call.** A simple "large work starts at $X" does more premium signalling than
-any adjective.
+🚨 **R-07 answered 2026-09-05: there is no shop minimum.** This is the sharpest
+tension in the package and it should not be smoothed over.
+
+A minimum is a **filter, not a price.** Without one, the calendar fills with the
+smallest, cheapest work, which consumes the chair time that large commissioned pieces
+need and generates nothing for the portfolio. The positioning above — considered,
+selective, unhurried, appointment-led — describes a studio that *chooses its work*. No
+minimum describes a studio that takes what comes. Both are viable businesses; only one
+of them is this one.
+
+**BSC recommends instituting a minimum** ($100 market-standard, $150 to match the
+position; local anchor ③), paired with a booking deposit. **Pricing is Roger's call.**
+If he declines, premium must be carried entirely by consult-gating, deposits and
+refusal of small work — achievable, but harder and less forgiving (`context.md`).
 
 ## 06 — What this brand refuses to be
 

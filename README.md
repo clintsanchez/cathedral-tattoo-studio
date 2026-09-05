@@ -9,7 +9,7 @@ the Facebook page. Tier is marked on every fact.
 | Field | Value | Source |
 |---|---|---|
 | Business name | Cathedral Tattoo Studio (FB casing: "Cathedral Tattoo studio") | GBP + FB |
-| Owner | Roger Cazares | confirmed by Clint 2026-09-04 |
+| Owner | Roger Cazares ⚠️ *LLC names Mikayla Paul as sole member — see 06-Reports/records-check.md* | stated by Clint 2026-09-04 |
 | Address | 1318 Florida Ave SW, Denham Springs, LA 70726 ⚠️ see below | GBP + FB (identical) |
 | Phone | (225) 301-9527 → `tel:+12253019527` | GBP only |
 | Category | Tattoo shop (GBP) / Tattoo & Piercing Shop (FB) | both |

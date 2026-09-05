@@ -25,17 +25,30 @@ site are not started, and the address is unconfirmed.
 The 2026-08-27 post announces a relocation. Both listings still show 1318 Florida
 Ave SW. **No location page, schema, or citation work until Roger confirms.**
 
+## 🚨 Records check changed the picture (2026-09-04)
+`../06-Reports/records-check.md`. Two findings that gate copy:
+1. **CATHEDRAL TATTOO STUDIO LLC (47032261K)** is registered to **Mikayla Paul**
+   as sole member — Roger is not on the filing. Publish no ownership language
+   for anyone until he confirms.
+2. **Three addresses now conflict**: Denham Springs (GBP/FB), Baton Rouge
+   (7550 Bluebonnet Blvd Ste 101, the SoS domicile, and a June 22 FB check-in),
+   and an unnamed "bigger location" from the move post.
+Also: entity registered 5/21/2026, so the business is **months old** — never
+imply established status. Zero reviews on both platforms.
+
 ## Client asks — send these to Roger
-1. New address and move date
-2. Real weekly hours once you're in the new space
-3. Best email, and how you want bookings to come in
-4. Vector logo files (AI, EPS or SVG)
-5. Unwatermarked originals of the older portfolio photos
-6. Service list and shop minimum; is piercing live yet
-7. Artist roster after hiring
-8. Louisiana shop and artist license numbers
-9. Instagram and TikTok handles
-10. Do you want `cathedraltattoostudio.com`? It was unregistered as of 2026-09-04
+1. New address and move date — and which of the three is the studio
+2. Are you the owner? The LLC lists Mikayla Paul as sole member
+3. Shop body-art facility permit number and each artist's operator registration
+   (LDH has no public registry, so this can only come from you)
+4. Real weekly hours once you're in the new space
+5. Best email, and how you want bookings to come in
+6. Vector logo files (AI, EPS or SVG) — **highest value ask**
+7. Unwatermarked originals of the older portfolio photos
+8. Service list and shop minimum; is piercing live yet
+9. Artist roster after hiring
+10. Instagram and TikTok handles
+11. Do you want `cathedraltattoostudio.com`? It was unregistered as of 2026-09-04
 
 ## Decided
 - **Cathedral is the brand** (Clint, 2026-09-04). Site, GBP, social, OG cards and

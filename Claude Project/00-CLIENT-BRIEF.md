@@ -1,6 +1,6 @@
 # Cathedral Tattoo Studio — Client Brief
 
-**Owner / Contact:** Roger Cazares
+**Contact:** Roger Cazares — ⚠️ *stated as owner by Clint; the LLC names Mikayla Paul as sole member. See `../06-Reports/records-check.md`.*
 **Company:** Cathedral Tattoo Studio
 **Email:** _TBD_
 **Phone:** (225) 301-9527 · `tel:+12253019527`
@@ -21,7 +21,8 @@
 - **What they do:** tattooing and piercing. GBP category "Tattoo shop"; Facebook
   category "Tattoo & Piercing Shop". ①
 - **Whether piercing is actually live:** _TBD_ — the category claims it, no post confirms it.
-- **Founded:** _TBD_. Facebook page created **June 9, 2026** ①; grand-opening
+- **Legal entity:** CATHEDRAL TATTOO STUDIO LLC, charter 47032261K, registered **5/21/2026**, active and in good standing ①
+- **Founded:** May 2026. Months old — never imply established status. Facebook page created **June 9, 2026** ①; grand-opening
   flash event graphic dated **6-28-26** ①. The business is months old, not years.
 - **Differentiator:** _TBD_ ⚠️ nothing published states one. Do not invent it.
   The gothic/ecclesiastical brand and Roger's black-and-grey religious and

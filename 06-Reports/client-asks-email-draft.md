@@ -17,8 +17,16 @@ Three things in this draft are sensitive and were worded deliberately:
 3. **Licensing.** Asked for as a records item, not a compliance audit. Louisiana has
    no public registry, so this can only come from him.
 
+4. **The origin interview (ask 13) is a phone call, not an email answer.** It is
+   listed here so it gets scheduled, but do not expect it in writing. Fifteen minutes
+   recorded is worth more than a paragraph typed. Questions are in `brand/story.md`.
+
 The two asks that unblock the most work are the **vector logo** and the **address**.
 Everything else can wait a round if he is slow to reply.
+
+**Added 2026-09-05** after running the brand pipeline: asks 13 and 14. The brand
+strategy cannot state a vision, mission or set of values without them, and BSC will
+not author those on a client's behalf (`brand/strategy.md` §§02–04).
 
 ---
 
@@ -92,6 +100,16 @@ branding.
 **12. The domain.** `cathedraltattoostudio.com` was still available when I checked.
 Say the word and I'll register it before someone else does.
 
+**13. Fifteen minutes on the phone.** This is the one I can't work around. I can pull
+your work, your hours and your paperwork off the internet, but I can't get why you
+opened Cathedral, why you chose that name, or what you want the new place to feel like
+when somebody walks in. That's the part that makes the website sound like you instead
+of like every other shop. Pick a time and I'll call you.
+
+**14. Where do you want this in a few years?** One chair, or a shop full of artists?
+I'm asking because it changes what I build now. A site built for one artist and a site
+built for a roster are different sites, and it's cheaper to decide today.
+
 Nothing here is urgent except the logo files and the address — those two are what
 I'm actually waiting on. The rest you can send as you get to it.
 
@@ -115,3 +133,5 @@ Clint
 | 10. Originals | 8 blocked portfolio files, removes reconstruction risk |
 | 11. Handles | Social links, `sameAs` schema |
 | 12. Domain | Everything downstream of hosting |
+| 13. The interview | `brand/story.md`, the About page, brand vision/mission/values |
+| 14. Growth intent | Site architecture, artist pages, `brand/architecture.md` governance |

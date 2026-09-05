@@ -9,6 +9,13 @@ Profile and the Facebook page. The asset library is done; the brand package and
 site are not started, and the address is unconfirmed.
 
 ## Done
+- **Brand package built 2026-09-05** (`brand/`) using the `cofoundy/brand-skills`
+  pipeline: `brand.yaml` manifest plus context, architecture, competitors, audience,
+  positioning, voice, messaging, strategy, identity and audit. Three are deliberately
+  **blocked**: `story.md` (no origin interview, ownership unresolved), `guidelines.md`
+  (no vector), and vision/mission/values in `strategy.md` (client input required).
+  Competitor research is live and real; audience work is entirely inferred.
+  Baseline brand audit scores the **live** brand 12/30.
 - Client folder + git repo → `github.com/clintsanchez/cathedral-tattoo-studio` (private)
 - 187 images filed with SEO filenames; third-party IP and personal photos quarantined
 - 54 of 60 prior-shop photos cleaned of the Tattootopia watermark (8 still flagged)
@@ -16,8 +23,9 @@ site are not started, and the address is unconfirmed.
 - CSS prefix assigned: `cts-`
 
 ## Not done
-- Brand package (`brand-init` → `brand-context` → `brand-guidelines`) — waiting on the vector logo
-- Records check
+- `brand-guidelines` — waiting on the vector logo (see `brand/guidelines.md`)
+- Brand story — waiting on a 15-minute call with Roger (`brand/story.md`)
+- Vision, mission, values — waiting on the same call (`brand/strategy.md` §§02–04)
 - Design system / tokens / site
 - AiB vault entry, Trello board
 
@@ -61,8 +69,15 @@ worded deliberately). No email address on file; may have to go by text or FB.
   only — never as site chrome, favicon or a logo slot.
 
 ## Open decisions for BSC
-- **How to handle Tattootopia.** It's Roger's prior shop, one mile up the same
-  street, and a BSC pro-bono client. Affects bio copy and the "about" story.
+- 🚨 **How to handle Tattootopia — now blocking more than it was.** It's Roger's prior
+  shop, one mile up the same street, and a BSC pro-bono client. **BSC is advising two
+  competing shops on the same street.** It gates the brand story, the About page and
+  any competitive copy (`brand/competitors.md` §07, `brand/story.md`).
+  Live research 2026-09-05 also found **Roger is no longer listed on Tattootopia's
+  artist page** — worth knowing before that conversation.
+- **Approve or reject the proposed positioning and tagline** before they go to Roger:
+  reverence / commissioned work, tagline "Work worth carrying"
+  (`brand/positioning.md`, `brand/messaging.md`).
 
 ## Consequence of the Cathedral decision
 The studio's own mark exists only as a raster. Every asset that needs to *lead*

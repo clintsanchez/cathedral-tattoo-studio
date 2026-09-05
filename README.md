@@ -37,6 +37,13 @@ Two marks exist and are NOT the same thing:
 - **"RC" gothic monogram** — Roger's personal artist watermark, on nearly every
   portfolio photo. There is also a legacy "RC Tattoos" skull sketch.
 
+## Brand package (`brand/`)
+Built 2026-09-05 with the [`cofoundy/brand-skills`](https://github.com/cofoundy/brand-skills)
+pipeline. `brand.yaml` is the manifest; each `*.md` is one skill's output.
+`brand/context.md` carries the seven publishing guardrails and is read first by every
+brand skill. Three outputs are deliberately blocked rather than invented — see
+`story.md`, `guidelines.md`, and `strategy.md` §§02–04.
+
 ## Repo layout
 
 This repo is the client's working project **and** the asset library. The docs

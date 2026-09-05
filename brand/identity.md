@@ -53,54 +53,37 @@ already sits at the limit of what survives reduction.
    avatar. Borrow the *reduction logic*: what detail survives at 32px, and what gets
    cut. Directly applicable to the CTS badge.
 
-### 🚨 The redraw brief (the actual job)
+### ✅ Decision: use the logo as it is (Clint, 2026-09-05)
 
-⚠️ **Superseded 2026-09-05.** This section previously briefed a *vectorization*. It
-now briefs a **redraw**, because `06-Reports/logo-source-analysis.md` established
-there is nothing to vectorize: the mark is a flat raster with 70% of its ink differing
-from its own mirror image, 129,764 unique colours, and no legibility below ~64px.
-**Do not auto-trace it.** Tracing chases gradient banding into thousands of paths and
-still leaves a mark that cannot be a favicon, because the problem is detail density,
-not file format.
+**No redraw.** The mark ships as the existing raster. A derived digital asset set has
+been cut from it — see `01-Brand-Assets/derived/README.md`.
 
-**Redraw the concept faithfully.** Facade, rose window, cross, blackletter wordmark,
-gold on black. The concept is the equity and none of it changes.
+**What was produced, all from the existing artwork:**
 
-**Four tiers, because one drawing cannot serve 16px and a shop sign**
-
-| Tier | Use | Direction |
+| Asset | Element used | Floor |
 |---|---|---|
-| **Full lockup** | Header, print, signage, hero | Faithful redraw. True symmetry. Flat or two-tone gold, with an optional gradient layer for large reproduction only |
-| **Simplified** | Social header, letterhead, ~200–600px | Fewer spires, tracery reduced, wordmark weight increased |
-| **Badge** | Avatar, stamp, embroidery, sticker, ~64–200px | Facade silhouette plus rose window. Wordmark dropped, or reduced to CTS |
-| **Glyph** | Favicon, app icon, ≤32px | **Rose window alone, or the cross.** A design decision, not a resize |
+| Site header, email, OG card, square social | Full lockup | **≥128px** |
+| Social avatars | Rose window | **≥64px** |
+| Favicon, app icon, stamps, stickers | **The cross** | **≥16px** |
 
-**Settle the asymmetry deliberately.** Someone must choose which spire arrangement is
-canonical and mirror it. Do not inherit the render's accident.
+**Minimum sizes are measured, not guessed** (`06-Reports/logo-source-analysis.md`).
+The full lockup is mush at 64px and a blob at 16px, so the cross carries the small
+sizes. That is a substitution — a piece of the existing mark used where the whole mark
+cannot go — not a redraw.
 
-**Redraw from** `...-gold-gothic-logo-lockup-on-black.jpg` (1122×1402) — it holds more
-of the outer spires than the square 1242px crop.
+**What this does not cover.** Every digital surface is handled. Four things are not,
+and they matter only when something gets physically produced:
+- **Embroidery and foil** need flat spot colour; this artwork has 129,764 colours.
+- **Large-format signage** above roughly a metre will show the raster.
+- **Light backgrounds** have no variant at all — gold on white fails at 2.95:1 and no
+  single-colour black version exists.
+- **Colour tokens stay interim**, sampled from gradient stops rather than flat fills.
 
-**Deliverables**
-- Master vector `.ai` or `.svg`, all four tiers, paths outlined.
-- `.eps` and `.pdf` for print vendors; optimised `.svg` for web.
-- PNG exports: 2048 / 1024 / 512 / 192 / 64 / 32.
-- Reversed and single-colour variants of each tier: black on gold, and solid black on
-  white. ⚠️ **Gold on white fails contrast at 2.95:1** (`DESIGN.md`) — the
-  light-background variant is not the gold one.
-- **Flat gold** for small, embroidered and single-colour use, plus a spot
-  recommendation for print (metallic PMS 871/872 is the natural family; confirm
-  against final artwork before committing a vendor).
-- Real hex values sampled from the **flat fills**, replacing the gradient stops
-  currently in `DESIGN.md` and `website/css-tokens.css`.
+⚠️ These resurface **at the move**, when signage is ordered. Flag it then rather than
+now.
 
-**Also identify the blackletter face.** Nobody has. It determines whether the wordmark
-can ever be reset for a sub-lockup or a new artist's name. See §04. ⚠️ If the artwork
-is generative, the letterforms may not correspond to any real typeface at all, in
-which case the redraw should standardise on a chosen face.
-
-**Effort:** roughly a day for the full lockup, half a day for the three reductions.
-Real design work, not a file conversion.
+⚠️ `CLIENT-ASKS.md` **R-27** stays open: who made the mark, with what tool, and
+whether anything transfers rights.
 
 ## 03 — Colour palette
 
@@ -260,8 +243,8 @@ and lit rather than printed flat. Budget for it as part of the move, not after.
 **Stickers, stamps, embroidery.** CTS badge only. Single flat gold, no gradient.
 
 ## Dependencies before any of this is executed
-1. **The tiered redraw** — blocks the entire system. A commissioned job, not a client
-   ask (`06-Reports/logo-source-analysis.md`).
+1. ~~The redraw~~ ✅ **closed — logo ships as-is.** Digital assets are in
+   `01-Brand-Assets/derived/`.
 2. Blackletter face identified.
 3. Real hex values resampled from the vector; `DESIGN.md` and `css-tokens.css` updated
    together.

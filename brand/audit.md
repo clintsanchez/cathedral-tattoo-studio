@@ -146,8 +146,11 @@ mirror, 129,764 unique colours, and the reduction test is a smear at 32px and a 
 at 16px.
 *Impact:* blocks the favicon, OG card, print, signage, merchandise and real colour
 tokens. Blocks `brand-guidelines` (`CLAUDE.md`).
-*Fix:* **a tiered redraw, not a trace and not a client ask.** ~1.5 days of vector
-illustration. This is the highest-value production task in the project.
+*Decision (Clint, 2026-09-05):* **use the logo as it is. No redraw.** A derived
+digital set was cut from the existing artwork (`01-Brand-Assets/derived/`), with the
+cross serving as the favicon glyph. **Digital surfaces are unblocked.**
+*Residual:* no embroidery, foil, or large signage art; no light-background variant;
+colour tokens stay interim. These resurface at the move, when signage is ordered.
 
 **2. ~~Three unresolved addresses.~~ ✅ Resolved 2026-09-05. 🟢**
 *Evidence:* GBP/FB showed Denham Springs, the SoS filing shows Baton Rouge, and an

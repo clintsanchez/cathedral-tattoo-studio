@@ -82,7 +82,18 @@ or Facebook.
   reverence / commissioned work, tagline "Work worth carrying"
   (`brand/positioning.md`, `brand/messaging.md`).
 
-## 🚨 The logo has to be redrawn (2026-09-05)
+## ✅ Logo: shipping as-is (Clint, 2026-09-05)
+
+**Decision: use the existing logo, no redraw.** A derived digital asset set is in
+`01-Brand-Assets/derived/` — favicon (the cross), avatars (rose window), header
+lockups, OG card. Minimum sizes are measured, not guessed. **Every digital surface is
+unblocked.**
+
+Residual gaps, which only bite at physical production: no embroidery/foil art, no
+large signage art, no light-background variant, colour tokens stay interim.
+⚠️ Raise these when signage is ordered at the move.
+
+### Why this came up
 `06-Reports/logo-source-analysis.md`. The mark is a flat raster with nothing behind
 it: **70% of its ink differs from its own mirror image**, 129,764 unique colours, and
 it is an unreadable smear below about 64px. Either AI-generated or a Photoshop

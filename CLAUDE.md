@@ -55,9 +55,9 @@ site, the GBP, social handles, OG cards, email and print. RC is demoted to
 appears as site chrome, favicon, or a logo slot. Where both would compete in one
 frame, Cathedral wins.
 
-Assets: `01-Brand-Assets/`. ⚠️ **The mark is raster-only and must be redrawn, not
-traced** — see `06-Reports/logo-source-analysis.md`. Run `brand-guidelines` once the
-redrawn vector exists.
+Assets: `01-Brand-Assets/`, derived set in `01-Brand-Assets/derived/`. The mark is
+raster-only and **ships that way by decision**; see `06-Reports/logo-source-analysis.md`
+for measured minimum sizes. `brand-guidelines` can now be written for digital.
 
 ## Asset library
 - `05-Photos/portfolio-roger-cazares/` — 37 tattoos pulled from Facebook
@@ -82,8 +82,8 @@ CTAs rewritten because this was skipped.
 1. Send Roger the client asks — **all of them live in `CLIENT-ASKS.md`**, which is
    the single source of truth. Vector logo and address are the blockers; the
    15-minute call is the ask with no workaround.
-2. **Commission the tiered logo redraw** (`06-Reports/logo-source-analysis.md`) —
-   there is no vector and tracing will not make one. Then sample real hex from flat
-   fills → `DESIGN.md` / `css-tokens.css` / `brand-style-guide.md`.
+2. ✅ **Logo ships as-is** (Clint, 2026-09-05). Derived digital assets in
+   `01-Brand-Assets/derived/`. Colour tokens stay interim. ⚠️ Physical production
+   (embroidery, foil, signage, anything on white) is not covered — raise at the move.
 3. Assign the CSS prefix + blog CTA standard.
 4. Records check → GBP optimization (no website link exists yet) → site build.

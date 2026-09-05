@@ -1,6 +1,11 @@
 # Brand Guidelines — Cathedral Tattoo Studio
 
-## ⛔ Not written. Blocked on the logo redraw.
+## 🟡 Mostly unblocked — a digital brand book can now be written.
+
+**Update 2026-09-05:** Clint decided to use the logo as it is. A derived asset set and
+**empirically measured minimum sizes** now exist, which were the two things a brand
+book actually needed from the artwork. A **digital** guidelines document can be
+assembled today. Only the print and spot-colour sections stay unavailable.
 
 *2026-09-05.*
 
@@ -29,16 +34,15 @@ Most of the book is already written and only needs assembling:
 | Design principles | `identity.md` §07 | ✅ drafted |
 | Colour tokens | `DESIGN.md`, `website/css-tokens.css` | ⚠️ interim, raster-sampled |
 | Typography | `identity.md` §04 | ⚠️ recommendations only; blackletter unidentified |
-| **Logo usage and variants** | — | ⛔ **needs the vector** |
-| **Clear space and minimum sizes** | — | ⛔ **needs the vector** |
-| **Favicon reduction** | `identity.md` §02 | ⛔ a design decision, not a resize |
-| **Print and spot colour** | — | ⛔ needs the artwork |
+| **Logo usage and variants** | `01-Brand-Assets/derived/README.md` | ✅ **digital variants exist** |
+| **Minimum sizes** | `06-Reports/logo-source-analysis.md` | ✅ **measured empirically**: full lockup ≥128px, rose ≥64px, cross ≥16px |
+| **Favicon reduction** | `01-Brand-Assets/derived/` | ✅ resolved — the cross |
+| **Clear space** | — | 🟡 derivable from the raster; not yet specified |
+| **Print and spot colour** | — | ⛔ not available from this artwork |
 | Brand story | `story.md` | ⛔ interview required |
 
 ## Sequence
-1. **Commission the tiered redraw** per `identity.md` §02 and
-   `06-Reports/logo-source-analysis.md`. ⚠️ Roger will almost certainly not have a
-   vector to send, and tracing the raster will not produce one.
+1. ~~Commission the redraw.~~ ✅ **Closed by decision: use the logo as it is.**
 2. Identify the blackletter face.
 3. Resample the real hex values; update `DESIGN.md` and `css-tokens.css` **together**.
 4. Run `brand-guidelines`, assembling the table above.

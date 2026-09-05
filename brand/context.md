@@ -76,14 +76,39 @@ event, not a style problem.
   and Roger's prior shop ⚠️ also a BSC pro-bono client), Faithful Tattoo Studio
   (105 N Range Ave), Burning Lotus, Safe Voyage, Cipher ③. Full analysis pending
   `competitor-branding`.
-- **Market Position**: **mid-to-premium**, niche/custom, appointment-led.
-  ✅ Set by Clint 2026-09-05. Positions above the walk-in shops, competing on work
-  rather than rate. Supported by local review evidence ③ that this market already pays
-  above the cheapest option (Faithful's reviews repeatedly say "not the cheapest but
-  worth it").
-  ⚠️ Still no pricing, shop minimum or rate on file (R-07), so **publish no price
-  claim, no "affordable", and no comparative value language.** This sets the register,
-  not a number.
+- **Market Position**: **premium.** ✅ Set by Clint 2026-09-05.
+  The top of the local market, not a mid-market shop that charges a bit more. Cathedral
+  is the considered, expensive-feeling choice: appointment-led, selective, unhurried.
+  Supported by local review evidence ③ that this market already pays above the cheapest
+  option (Faithful's reviews repeatedly say "not the cheapest but worth it").
+
+  🚨 **The governing rule: premium is expressed, never claimed.**
+  Cathedral has zero reviews, no published prices and a four-month-old entity. A shop
+  in that position that *announces* it is premium reads as pretension, and it would
+  land as a direct answer to Tattootopia's "premier" and "utopia" — the one fight
+  `positioning.md` says not to pick. Premium therefore shows up in **restraint,
+  selectivity, craft evidence and pace**, never in adjectives.
+  - ❌ Never: "premium", "luxury", "high-end", "elite", "exclusive", "bespoke",
+    "the best in the parish". Add these to the `voice.md` never-say list.
+  - ✅ Instead: fewer, larger pieces of work shown. More black, less content. Named
+    artists. Visible process. Waiting lists rather than discounts.
+
+  **What premium now forbids operationally:**
+  - **No discounting, no promos, no flash-sale urgency.** ⚠️ Tension to resolve: their
+    grand opening was a *flash event* ① and the availability posts function as
+    promos ②. Flash days are a volume mechanic and sit awkwardly under premium.
+    Not a blocker — but decide deliberately whether flash days continue, rather than
+    letting the two positions collide in public.
+  - **A deposit and a consult should gate booking.** That is the clearest premium
+    signal available to a tattoo studio and it costs nothing.
+  - **Do not chase walk-ins as a growth strategy** even once the new location allows
+    them. Convenience is Safe Voyage's territory 200 yards away, and premium and
+    walk-in volume pull against each other.
+
+  ⚠️ Still no pricing, shop minimum or rate on file (**R-07 — now urgent**). Premium
+  positioning with unknown prices is unfinished: the shop minimum is the single most
+  load-bearing number in a premium tattoo brand. **Publish no price claim** until it
+  exists.
 
 ## Brand Personality
 - **Personality Words**: gothic, reverent, craft-led, dark, considered ④ — read off

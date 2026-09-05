@@ -54,7 +54,7 @@ work, the customer, and the shop.
 |---|---|---|---|
 | **R-05** | Real weekly hours after the move (GBP publishes only Friday 10–7) | ⬜ | GBP completion, schema `openingHours` |
 | **R-06** | Best email address, and how he wants bookings to arrive (form / phone / DM) | ⬜ | Primary CTA, conversion model, content-engine contact fields |
-| **R-07** | Service list and shop minimum. **Is piercing actually live**, or is that for the new place? | ⬜ | Service pages, keyword map, GBP services. FB claims piercing; nothing confirms it |
+| **R-07** | 🚨 **Service list and shop minimum — now urgent.** Premium positioning (2026-09-05) makes the shop minimum the most load-bearing number in the brand. Also: **is piercing actually live**, or is that for the new place? | ⬜ | Service pages, keyword map, GBP services, and whether the premium position is credible. FB claims piercing; nothing confirms it |
 | **R-08** | Unwatermarked originals of the older portfolio photos | ⬜ | 8 files still carrying a competitor watermark (`WATERMARK-REMOVAL.md`) |
 | **R-09** | Artist and piercer roster as people are hired | ⬜ | Artist pages, schema `employee`, attribution rule at point of hire |
 | **R-10** | ~~Instagram and TikTok handles~~ **✅ PARTLY ANSWERED by research 2026-09-05.** Roger is **`@rc_tattoos` — 6,667 followers, 2,029 posts**. TikTok still unknown (could not be verified; check by hand) | ✅ / ⬜ | Social links, `sameAs` schema. ⚠️ Instagram is **not** missing — it is the business's largest audience, 30× the Facebook page |
@@ -131,5 +131,5 @@ something Roger said.
 | 2026-09-05 | Operating address | 1318 Florida Ave SW, Denham Springs | Stated by Clint |
 | 2026-09-05 | Logo | Ship as-is, no redraw | BSC decision |
 | 2026-09-05 | Differentiator | Reverence / commissioned work — **adopted as working**, still ④ in origin. Not published as Roger's claim until R-18 | BSC-adopted inference |
-| 2026-09-05 | Market position | Mid-to-premium, competing on work not rate. ⚠️ No price claim publishable (R-07 open) | BSC decision |
+| 2026-09-05 | Market position | **Premium** — top of the local market. Expressed through restraint, selectivity and craft evidence, **never claimed in adjectives**. ⚠️ No price claim publishable while R-07 is open, and R-07 is now urgent: the shop minimum is the load-bearing number in a premium brand | BSC decision |
 | 2026-09-05 | 12-month engagement goals | 1. Get found online 2. Build review volume | BSC decision |

@@ -34,6 +34,16 @@ shows in restraint, selectivity and craft evidence. The adjectives are on the ne
 list, and **R-07 (shop minimum) is now urgent** — a price floor is what makes premium
 credible without the word.
 
+**Copy deck v1 written** (`brand/copy-deck.md`) — GBP description, Instagram bios and
+first nine posts, homepage, an ownership-safe artist page, booking copy, a review
+request, and an aftercare card. Every line scrubbed against the eight guardrails.
+**The GBP description can go live the day Roger approves it.**
+
+🚨 **No shop minimum** (Clint, 2026-09-05). The sharpest tension in the package: a
+minimum is a filter, not a price, and without one the calendar fills with small work
+that premium positioning cannot survive. BSC recommends $150 plus booking deposits
+(**R-30**). Roger's call.
+
 **Audit v2: 13/30 live, but ready to build.** Only one point moved, correctly: the rule
 is score what is *live*, not what is filed, and almost nothing has shipped. The package
 itself is build-ready — nothing in it blocks the site or the GBP.

@@ -42,10 +42,31 @@ Two marks exist and are NOT the same thing:
 
 ## Brand package (`brand/`)
 Built 2026-09-05 with the [`cofoundy/brand-skills`](https://github.com/cofoundy/brand-skills)
-pipeline. `brand.yaml` is the manifest; each `*.md` is one skill's output.
-`brand/context.md` carries the seven publishing guardrails and is read first by every
-brand skill. Three outputs are deliberately blocked rather than invented — see
-`story.md`, `guidelines.md`, and `strategy.md` §§02–04.
+pipeline. All 15 skills run. `brand.yaml` is the manifest.
+
+| File | What it is |
+|---|---|
+| `context.md` | **Read first.** Brand DNA + the 8 publishing guardrails every other doc inherits |
+| `strategy.md` | The synthesis |
+| `positioning.md` | Premium commissioned work, and why it is defensible |
+| `competitors.md` | Live research on 5 local shops |
+| `audience.md` | 3 personas ⚠️ inferred, not researched |
+| `architecture.md` | Cathedral vs artist marks, and which account leads on social |
+| `voice.md` | 7 voice qualities, vocabulary, never-say list |
+| `messaging.md` | Core message, tagline options, hierarchy |
+| `identity.md` | Visual brief |
+| `naming.md` | Domain + handle availability, prior art |
+| `guidelines.md` | **Digital brand book v1** |
+| `copy-deck.md` | **Deployable copy.** GBP, IG, site, artist page, review request, aftercare |
+| `audit.md` | Brand health. v2: 13/30 live |
+| `story.md` | ⛔ Blocked. Interview guide only |
+
+**Decisions taken 2026-09-05:** address confirmed · logo ships as-is · differentiator
+adopted · **position set to premium** · goals set to *get found online* + *build review
+volume* · `@rc_tattoos` leads social while the studio account grows.
+
+Still blocked and deliberately not invented: the brand story, and vision/mission/values
+(`strategy.md` §§02–04). Both need 15 minutes with Roger.
 
 ## Repo layout
 

@@ -27,3 +27,4 @@ artifacts:
   story: false  # blocked - scaffold only, see story.md
   guidelines: true
   audit: true
+  copy_deck: true

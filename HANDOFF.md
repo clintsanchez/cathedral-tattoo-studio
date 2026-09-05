@@ -37,6 +37,11 @@ Also: entity registered 5/21/2026, so the business is **months old** — never
 imply established status. Zero reviews on both platforms.
 
 ## Client asks — send these to Roger
+
+**Drafted and ready to send:** `06-Reports/client-asks-email-draft.md`
+(read the "before sending" note first — ownership, licensing and Tattootopia are
+worded deliberately). No email address on file; may have to go by text or FB.
+
 1. New address and move date — and which of the three is the studio
 2. Are you the owner? The LLC lists Mikayla Paul as sole member
 3. Shop body-art facility permit number and each artist's operator registration

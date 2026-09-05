@@ -123,6 +123,52 @@ work. It gets no chrome. Setting this in the hiring conversation costs nothing;
 retrofitting it onto someone who has been posting under the shop's banner for a year
 costs a relationship.
 
+## 05b — Which account leads on social (decided 2026-09-05)
+
+The 30:1 asymmetry forces a decision the original architecture did not cover: when
+Cathedral and `@rc_tattoos` both exist, which one does the business actually run on?
+
+**Decision: `@rc_tattoos` leads today. The studio account is the destination, not the
+starting point.**
+
+This looks like it contradicts "Cathedral fronts everything." It does not, because the
+rule governs **chrome and ownership**, not **where a person's attention currently is**.
+Cathedral owns the favicon, the site, the GBP, the OG cards, the signage and the
+avatar from day one. What it cannot do is own an audience it does not yet have.
+Starving a 6,667-follower account to feed a 217-follower page is not brand discipline,
+it is throwing away the only distribution the business has.
+
+**The migration, concretely:**
+
+| | `@rc_tattoos` (6,667) | `@cathedraltattoostudio` (studio) |
+|---|---|---|
+| **Now** | Primary. Keep posting exactly as he does | Recover the handle (**R-28**), then set it up properly: avatar, bio, link, first 9 posts |
+| **Bio** | Add "Tattooing at Cathedral Tattoo Studio, Denham Springs" + link | Full studio bio, booking link |
+| **Captions** | Credit the studio naturally, not as a signature block | — |
+| **Content** | Roger's work, his voice, his account | Studio-level: the space, availability, artists, process |
+| **Cross-post** | Post to both where it is shop-level news | Receives; never a mirror of everything |
+| **Over time** | Stays his. Never renamed, never repointed | Grows off his, becomes primary when it can carry the traffic |
+
+**Three rules that keep this from going wrong**
+
+1. **Never rename or repoint `@rc_tattoos`.** It is Roger's personal artist brand, it
+   predates Cathedral, and per this document artist marks keep their own channels. Also
+   the pragmatic reason: rename it and the followers who came for *him* feel switched
+   on, and the equity evaporates.
+2. **The studio account must not be a mirror.** An account that reposts the artist
+   account gives nobody a reason to follow it. It earns its own audience by covering
+   what the artist account cannot: the space, the other artists, availability,
+   aftercare, process.
+3. **Treat the 30:1 as an exposure with a deadline.** Every month the studio account
+   stays empty, the business's dependence on one person's personal following gets more
+   entrenched. This is the strongest argument for the two engagement goals in
+   `context.md`: **a website and a review base are the only assets that cannot walk
+   out of the door.**
+
+⚠️ **Apply the same reasoning at every hire.** A new artist arriving with a following
+is the same situation in miniature. Their account stays theirs; the studio credits
+them; the studio never becomes a repost feed for its staff.
+
 ## 06 — Governance
 
 - **Decision owner:** BSC (Clint) proposes; the studio approves. ⚠️ **Who at the

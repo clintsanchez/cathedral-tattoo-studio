@@ -82,12 +82,22 @@ confirmed as an intention.
 
 ## 05 — Brand goals
 
-Derivable, because the client's own posts state their operational intent ②. Ordered by
-what unblocks the most.
+✅ **BSC's two engagement goals for the next 12 months, set by Clint 2026-09-05:**
+**1. Get found online. 2. Build review volume.**
 
-**Get the identity system out of raster.** The vector logo blocks the favicon, the OG
-card, print, signage and the real colour tokens. It is the highest-value ask in the
-package and the cheapest to fulfil.
+Both are execution goals rather than brand goals, which matches the competitive read:
+two of five local competitors have a broken or absent website, so the opening here is
+competence rather than positioning. They are also the two assets that **cannot walk out
+of the door** — which matters more than it looks, given `brand/naming.md`.
+
+⚠️ **Distinct from the client's own goals ②** — fill the new location, open to walk-ins,
+recruit artists. Ours are the means to his, and should be argued to him that way.
+
+Supporting work, ordered by what unblocks the most.
+
+**✅ Done — identity assets exist.** The logo ships as-is by decision, and a derived
+digital set covers every digital surface (`01-Brand-Assets/derived/`). ⚠️ Print,
+signage, embroidery and light-background use remain uncovered and resurface at the move.
 
 **Settle the record.** ✅ Address confirmed 2026-09-05. Ownership language and
 licensing numbers remain, and until they clear, the About page, bios, story,
@@ -123,8 +133,8 @@ Facebook feed.
 |---|---|
 | **Age** | 25–50, centre 30–40 ④ |
 | **Location** | Denham Springs, Walker, Watson, Livingston, Central, Baton Rouge |
-| **Income** | Working to middle. ⚠️ No pricing data exists |
-| **Spending intent** | Quality-led. Local review evidence shows this market pays above the cheapest option ③ |
+| **Income** | Working to middle, upper end. ⚠️ No pricing data exists (R-07) |
+| **Spending intent** | **Premium.** Saves for the right artist rather than shopping for a rate. Local review evidence shows this market pays above the cheapest option ③ |
 | **Focus** | Single location, ~20-minute drive radius |
 
 Three personas — Danielle (memorial), Marcus (large-scale project), Hailey (fine
@@ -139,7 +149,7 @@ something real.
 
 ## 07 — Brand personality
 
-**Axis summary:** Serious · Warm · Considered · Traditional · Restrained
+**Axis summary:** Serious · Warm · Considered · Traditional · **Restrained (premium)**
 
 **Personality statement.** Cathedral is the quiet one in a loud category. It does not
 announce itself, because the mark and the work already do; it would rather explain
@@ -197,7 +207,17 @@ who can be trusted with a face, a name, or a date. Nobody in the parish is speak
 that customer, and nobody is executing online well enough to be found by them.
 
 **Positioning statement.** Cathedral is where people in Livingston Parish go when the
-tattoo has to mean something: commissioned work, treated with the weight it deserves.
+tattoo has to mean something: **premium commissioned work**, treated with the weight it
+deserves.
+
+**Premium is the sharpened form of this position (Clint, 2026-09-05)** and it is
+defensible for a structural reason: Tattootopia claims authority through tenure, which
+a four-month-old shop cannot contest, but **nobody local claims the selective,
+expensive seat — because taking it means refusing volume, and every shop on Florida Ave
+is built on volume.** Cathedral is small enough to refuse volume and good enough to be
+worth waiting for. That is a real moat, and it closes as soon as the shop grows.
+🚨 The word itself is never used: premium is expressed through restraint, selectivity
+and craft evidence (`context.md`, `voice.md`).
 
 **Map.** *Convenience ← → Considered commission* against *Generic presentation ← →
 Distinct point of view.* Safe Voyage and Burning Lotus hold convenience/generic;
@@ -257,6 +277,7 @@ out loud.
 | 3 | **Ownership language** | About page, bios, story, recruitment copy |
 | 4 | **Licensing numbers** | Any trust or compliance claim |
 | 5 | **Vision, mission, values** | §§02–04 above |
+| 8 | **Shop minimum (R-07) — now urgent** | Makes the premium position credible. A price floor does more premium signalling than any adjective |
 | 6 | **The origin interview** | `story.md`, and §01 above |
 | 7 | **Tattootopia ruling (Clint)** | Story, About page, any competitive copy |
 

@@ -22,6 +22,22 @@ site are not started, and the address is unconfirmed.
 - `README.md` — every fact tiered by source
 - CSS prefix assigned: `cts-`
 
+## Brand package complete (2026-09-05)
+All 15 skills from `cofoundy/brand-skills` are run. `brand/` holds 14 outputs plus the
+manifest. Decisions taken this session: address confirmed, logo ships as-is,
+differentiator adopted, **market position set to premium**, 12-month goals set to
+*get found online* + *build review volume*, and the social lead question settled.
+
+🚨 **Premium is expressed, never claimed.** Zero reviews and a four-month-old entity
+mean announcing it would read as pretension and answer Tattootopia's "premier". It
+shows in restraint, selectivity and craft evidence. The adjectives are on the never-say
+list, and **R-07 (shop minimum) is now urgent** — a price floor is what makes premium
+credible without the word.
+
+**Audit v2: 13/30 live, but ready to build.** Only one point moved, correctly: the rule
+is score what is *live*, not what is filed, and almost nothing has shipped. The package
+itself is build-ready — nothing in it blocks the site or the GBP.
+
 ## Not done
 - `brand-guidelines` — waiting on the vector logo (see `brand/guidelines.md`)
 - Brand story — waiting on a 15-minute call with Roger (`brand/story.md`)

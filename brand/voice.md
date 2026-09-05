@@ -139,7 +139,7 @@ Voice is constant. Tone flexes.
 
 | Channel | Adjustment | Example |
 |---|---|---|
-| Homepage | Calmest, fewest words. The work carries it | "Commissioned tattoo work in the Denham Springs area." ⚠️ address wording per guardrail 2 |
+| Homepage | Calmest, fewest words. The work carries it | "Commissioned tattoo work in Denham Springs." ✅ address confirmed, state it plainly |
 | Service / style pages | Most specific. Explain process, sittings, healing | "Most half sleeves run 3 to 4 sittings, spaced a few weeks apart." |
 | Portfolio captions | Shortest. Name the piece, name the artist | "Memorial portrait, forearm. Roger Cazares." |
 | Facebook / Instagram | Warmest and most direct. Match Roger's existing register ② | "Open dates for October are up. Message me to get on the books." |
@@ -187,7 +187,9 @@ version — it has an on-brand *silence*.
 ## 08 — Things we never say
 
 - **Any ownership claim** for anyone, until the LLC question is settled (guardrail 1).
-- **Any address**, until it is confirmed (guardrail 2).
+- ~~Any address, until it is confirmed.~~ ✅ **Cleared.** 1318 Florida Ave SW may be
+  published. ⚠️ Never publish the Bluebonnet Blvd filing address as the studio, and do
+  not announce the move until there is a date.
 - **Any tenure claim.** No "years of experience", no "established", no "since". The
   business is four months old and Roger's personal years are unknown (guardrail 3).
 - **Any sterility, licensing, safety or compliance claim** (guardrail 4).

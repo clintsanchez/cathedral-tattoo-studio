@@ -45,8 +45,12 @@ is worthless.
 > Work worth carrying.
 
 **Level 2 — Supporting statement**
-> Custom tattoo work in the Denham Springs and Baton Rouge area. Black and grey,
-> fine line, lettering and cover-ups, booked by appointment and planned properly.
+> Custom tattoo work in Denham Springs. Black and grey, fine line, lettering and
+> cover-ups, booked by appointment and planned properly.
+
+*(✅ Address confirmed 2026-09-05, so the location is stated directly rather than
+hedged as a service area. Keep the broader "and the Baton Rouge area" for service-area
+copy where draw radius matters.)*
 
 **Level 3 — Key messages**
 
@@ -125,7 +129,7 @@ of this brand today, and the messaging should not pretend otherwise.
 | Website hero | The tagline plus what and where | Calm, plain | Short |
 | Style / service pages | Literal: name the work | Specific, instructional | Medium |
 | Portfolio captions | Name the piece, name the artist | Minimal | Very short |
-| Google Business Profile | What it is, what it does, how to book | Plain, factual | Short ⚠️ no address until confirmed |
+| Google Business Profile | What it is, what it does, how to book | Plain, factual | Short. ✅ address confirmed, publish 1318 Florida Ave SW |
 | Facebook | Availability and new work | Warm, first person | Short |
 | Instagram bio | Style specialisms, booking route | Compressed, plain | Very short ⚠️ handle unknown |
 | Email | What happens next | Practical | Medium |

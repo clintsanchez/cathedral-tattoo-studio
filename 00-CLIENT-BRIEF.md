@@ -42,7 +42,7 @@ cover-ups, large-scale sleeves and back pieces.
 
 - **Type:** brick-and-mortar, single location
 - **Home base:** Denham Springs, LA (Livingston Parish) ①
-- **Address:** 1318 Florida Ave SW, Denham Springs, LA 70726 ① ⚠️ **relocation announced**
+- **Address:** 1318 Florida Ave SW, Denham Springs, LA 70726 ① ✅ **confirmed operating** (Clint, 2026-09-05) ⚠️ relocation still announced, date unknown
 - **Realistic draw:** Denham Springs, Walker, Watson, Livingston, Baton Rouge, Central,
   Denham/Juban corridor ④ — confirm with Roger
 

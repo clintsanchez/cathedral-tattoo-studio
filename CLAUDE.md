@@ -8,16 +8,22 @@ See `docs/retro-onboard.skill.md` in `bsc-onboarding` for the method.
 ## Who this is
 - **Owner:** Roger Cazares (confirmed by Clint 2026-09-04)
 - **Phone:** (225) 301-9527 → `tel:+12253019527`
-- **Address:** 1318 Florida Ave SW, Denham Springs, LA 70726 — ⚠️ **likely stale**
+- **Address:** 1318 Florida Ave SW, Denham Springs, LA 70726 — ✅ **confirmed as the
+  operating studio by Clint, 2026-09-05**
 - **Facebook:** https://www.facebook.com/profile.php?id=61590624004613
 - **Website:** none yet. `cathedraltattoostudio.com` was unregistered as of 2026-09-04
 - **Category:** Tattoo shop / Tattoo & Piercing Shop
 
-## 🚨 Do not build on the address until it is confirmed
-The 2026-08-27 Facebook post announces a move to a bigger location that will
-allow walk-ins. Neither the GBP nor the FB page has been updated. **No location
-page, LocalBusiness schema, or citation work on 1318 Florida Ave SW** until Roger
-confirms the new address and move date.
+## ✅ Address confirmed — with one caveat
+**1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio (Clint,
+2026-09-05). Location pages, LocalBusiness schema, GBP work and citations are
+**unblocked** and should be built on this address.
+
+⚠️ **The relocation is still live.** The 2026-08-27 post announces a move to a bigger
+location allowing walk-ins, and no move date or new address is known (`CLIENT-ASKS.md`
+R-02). Build the NAP so it can be updated in one place, and keep citation volume
+proportionate until the move resolves. **Walk-ins are still not live** — do not
+publish "walk-ins welcome" (R-12).
 
 ## Source of truth
 - `README.md` — every fact tiered by source. Read first.

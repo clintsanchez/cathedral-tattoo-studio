@@ -19,8 +19,10 @@ event, not a style problem.
 
 1. **No ownership language.** The LLC names Mikayla Paul as sole member; Roger is
    not on the filing. Safe form: "tattoo artist at Cathedral Tattoo Studio."
-2. **No address.** Three conflict (Denham Springs, Baton Rouge, an unnamed new
-   location). Safe form: "serving the Denham Springs and Baton Rouge area."
+2. ~~**No address.**~~ ✅ **Cleared 2026-09-05.** **1318 Florida Ave SW, Denham
+   Springs, LA 70726** is the operating studio (Clint) and may be published. The
+   Bluebonnet Blvd address is the LLC filing domicile only, never the studio.
+   ⚠️ A move is still announced with no date, so keep the NAP updatable in one place.
 3. **No tenure claims.** Entity registered 5/21/2026. Months old, never established.
 4. **No licensing, sterilization or compliance claims.** LA has no public registry;
    the numbers must come from Roger in writing.

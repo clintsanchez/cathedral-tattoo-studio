@@ -29,18 +29,22 @@ site are not started, and the address is unconfirmed.
 - Design system / tokens / site
 - AiB vault entry, Trello board
 
-## 🚨 Blocking: the address
-The 2026-08-27 post announces a relocation. Both listings still show 1318 Florida
-Ave SW. **No location page, schema, or citation work until Roger confirms.**
+## ✅ Address resolved 2026-09-05
+**1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio (Clint).
+Location pages, LocalBusiness schema, GBP work and citations are **unblocked**.
+
+⚠️ The 2026-08-27 relocation post still stands and no move date is known. Build the
+NAP to be updatable in one place. Walk-ins remain not live.
 
 ## 🚨 Records check changed the picture (2026-09-04)
 `06-Reports/records-check.md`. Two findings that gate copy:
 1. **CATHEDRAL TATTOO STUDIO LLC (47032261K)** is registered to **Mikayla Paul**
    as sole member — Roger is not on the filing. Publish no ownership language
    for anyone until he confirms.
-2. **Three addresses now conflict**: Denham Springs (GBP/FB), Baton Rouge
-   (7550 Bluebonnet Blvd Ste 101, the SoS domicile, and a June 22 FB check-in),
-   and an unnamed "bigger location" from the move post.
+2. ~~Three addresses conflict.~~ **✅ Resolved 2026-09-05: 1318 Florida Ave SW,
+   Denham Springs is the operating studio** (Clint). The Baton Rouge Bluebonnet
+   address remains the SoS domicile and mailing address — that is a filing fact, not
+   the studio, and should never be published as the location.
 Also: entity registered 5/21/2026, so the business is **months old** — never
 imply established status. Zero reviews on both platforms.
 

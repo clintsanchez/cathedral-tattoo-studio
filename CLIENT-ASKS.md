@@ -13,9 +13,10 @@ arrive.
 
 ## Priority order
 
-If Roger only answers two things, it should be **R-01 and R-02**. If he only does one
-thing, it should be **the phone call (R-13)** — it is the only ask that cannot be
-worked around and the only one that unlocks a whole document.
+**R-02 (address) is answered.** If Roger only answers one more thing, it should be
+**R-01, the vector logo** — it now stands alone as the single largest blocker. If he
+only does one thing at all, it should be **the phone call (R-13)**: the only ask that
+cannot be worked around, and the only one that unlocks a whole document.
 
 ---
 
@@ -24,7 +25,7 @@ worked around and the only one that unlocks a whole document.
 | ID | Ask | Status | Unblocks |
 |---|---|---|---|
 | **R-01** | **Vector logo files** (.ai / .eps / .svg, or the original layered file). If he doesn't have them, who made the mark? | ⬜ | The entire identity system: favicon, OG card, print, signage, merch, real colour tokens, and `brand-guidelines` in full |
-| **R-02** | **Which address is the studio, and when is the move?** Three conflict: 1318 Florida Ave SW (GBP/FB), 7550 Bluebonnet Blvd Ste 101 Baton Rouge (SoS domicile + a June 22 check-in), and an unnamed "bigger location" | ⬜ | Location page, LocalBusiness schema, citations, GBP, anything printed or signed |
+| **R-02** | ~~Which address is the studio?~~ **✅ ANSWERED 2026-09-05 (Clint): 1318 Florida Ave SW, Denham Springs, LA 70726.** Follow-up still open: **when is the move, and to where?** | ✅ / ⬜ | ✅ Unblocked: location page, LocalBusiness schema, citations, GBP, print. ⬜ Still pending: move date and new address |
 | **R-03** | **How should we describe your role?** The LLC names Mikayla Paul as sole member. Not a challenge — we need to know what's accurate before anything says "owner" | ⬜ | About page, bios, brand story, recruitment copy. Guardrail 1 |
 | **R-04** | **Shop body-art facility permit number, and each artist's operator registration number.** LDH has no public registry, so it can only come from him | ⬜ | Any trust, licensing, sterilisation or compliance claim at all. Guardrail 4 |
 
@@ -96,7 +97,7 @@ the document the answer unblocks.
 
 | Date | ID | Answer | Files updated |
 |---|---|---|---|
-| | | | |
+| 2026-09-05 | **R-02** | **1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio. Confirmed by Clint. Tier: stated by BSC account lead, same standing as the Roger-as-owner statement — not a client-signed document. ⚠️ The 2026-08-27 relocation post still stands, so a move may still come; NAP will need updating if it does. Move date and new address remain open | `CLAUDE.md`, `README.md`, `HANDOFF.md`, `00-CLIENT-BRIEF.md`, `06-Reports/records-check.md`, `brand/context.md`, `brand/strategy.md`, `brand/audit.md`, `brand/identity.md`, `brand/messaging.md` |
 
 ## Where these came from
 `HANDOFF.md` (the original 11), `brand/strategy.md` §§02–04, `brand/story.md`,

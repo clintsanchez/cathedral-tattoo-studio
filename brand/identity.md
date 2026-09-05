@@ -227,8 +227,8 @@ apply the palette and Cinzel.
 **Website.** Dark throughout. Full-bleed portfolio hero. Portfolio sorted by *what the
 piece is* (portrait, memorial, fine line, cover-up, lettering), not by style jargon —
 that is what the audience is searching for (`audience.md`). Gold CTA with a black
-label. Artist pages with real bios and attributed work. ⚠️ No location page, no
-LocalBusiness schema until the address confirms. CSS prefix `cts-`.
+label. Artist pages with real bios and attributed work. ✅ Location page and
+LocalBusiness schema unblocked on 1318 Florida Ave SW. CSS prefix `cts-`.
 
 **Business cards and aftercare.** Black stock, gold foil or metallic ink for the mark
 — the one place the metallic gradient can be reproduced physically rather than
@@ -247,4 +247,6 @@ and lit rather than printed flat. Budget for it as part of the move, not after.
 2. Blackletter face identified.
 3. Real hex values resampled from the vector; `DESIGN.md` and `css-tokens.css` updated
    together.
-4. Address confirmed, for anything printed or signed.
+4. ~~Address confirmed~~ ✅ **done 2026-09-05** (1318 Florida Ave SW). Print and
+   signage are unblocked on the address, but ⚠️ **hold signage spend until the move
+   date is known** (`CLIENT-ASKS.md` R-02).

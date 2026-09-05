@@ -89,9 +89,9 @@ what unblocks the most.
 card, print, signage and the real colour tokens. It is the highest-value ask in the
 package and the cheapest to fulfil.
 
-**Settle the record.** Address, ownership language, licensing numbers. Four of the
-seven publishing guardrails clear the moment Roger answers, and until they do, roughly
-half the brand cannot be published at all.
+**Settle the record.** ✅ Address confirmed 2026-09-05. Ownership language and
+licensing numbers remain, and until they clear, the About page, bios, story,
+recruitment copy and every trust claim stay blocked.
 
 **Exist in search.** No website, no reviews, one published day of opening hours ①.
 Competitors have broken or absent websites (`competitors.md`), so competent execution
@@ -253,7 +253,7 @@ out loud.
 | # | Blocker | Unblocks |
 |---|---|---|
 | 1 | **Vector logo** | The entire identity system: favicon, OG card, print, signage, real tokens, `brand-guidelines` |
-| 2 | **Address** | Location page, LocalBusiness schema, citations, GBP, anything printed |
+| 2 | ~~Address~~ ✅ **resolved 2026-09-05** | ~~Location page, schema, citations, GBP, print~~ all unblocked. ⚠️ Move date still open |
 | 3 | **Ownership language** | About page, bios, story, recruitment copy |
 | 4 | **Licensing numbers** | Any trust or compliance claim |
 | 5 | **Vision, mission, values** | §§02–04 above |

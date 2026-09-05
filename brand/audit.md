@@ -147,11 +147,13 @@ sampled from a JPEG.
 tokens. Blocks `brand-guidelines` entirely (`CLAUDE.md`). Every other identity task
 queues behind this one.
 
-**2. Three unresolved addresses. 🔴**
-*Evidence:* GBP/FB show Denham Springs, the SoS filing shows Baton Rouge, and an
-August post announces an unnamed new location ①②.
-*Impact:* no location page, no LocalBusiness schema, no citations, no print, no
-signage. An NAP built on the wrong address is expensive to unwind.
+**2. ~~Three unresolved addresses.~~ ✅ Resolved 2026-09-05. 🟢**
+*Evidence:* GBP/FB showed Denham Springs, the SoS filing shows Baton Rouge, and an
+August post announces an unnamed new location ①②. **Clint confirmed 1318 Florida Ave
+SW is the operating studio.**
+*Impact:* location page, LocalBusiness schema, citations, GBP, print and signage are
+all unblocked. ⚠️ Residual: the move is still coming with no date, so build the NAP to
+update in one place and hold citation volume proportionate until it resolves.
 
 **3. Zero reviews against a competitor with ~168. 🔴**
 *Evidence:* GBP and Facebook both show none ①; Burning Lotus shows 4.7 across ~168 ③.
@@ -178,7 +180,9 @@ Instagram-first.
 ## Priority recommendations
 
 **Immediate (this week — no client dependency)**
-- Send the client email. Four of the six issues above clear on Roger's answers.
+- ✅ **Address confirmed. Start the GBP and local work** — this was issue 2 and it is
+  now the fastest-moving item in the package.
+- Send the client email. Three of the remaining five issues clear on Roger's answers.
   ⚠️ Add the vision/mission/values questions and the origin interview first
   (`strategy.md`, `story.md`) — the current draft is missing both.
 - Resolve the Tattootopia conflict internally. BSC now advises two shops on the same
@@ -190,7 +194,8 @@ Instagram-first.
 - Vector recovery, then resample the palette and update `DESIGN.md` and
   `css-tokens.css` together.
 - Build the site. Dark, portfolio-led, sorted by what the piece *is*, artists named,
-  availability as the conversion surface. ⚠️ No location page until the address lands.
+  availability as the conversion surface. ✅ Location page and LocalBusiness schema
+  unblocked on 1318 Florida Ave SW.
 - Complete the GBP: real hours, services, photos, and the website link once it exists.
 - **Start review generation the week the address settles.** Highest-leverage
   non-brand action available.

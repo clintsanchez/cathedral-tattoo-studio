@@ -29,7 +29,18 @@ Mikayla Paul is also tagged in the 2026-08-27 relocation post, alongside Roger.
 **Safe wording until confirmed:** "Roger Cazares, tattoo artist at Cathedral
 Tattoo Studio." Avoid ownership language entirely.
 
-## 🚨 Finding 2 — three different addresses are now in play
+## ✅ Finding 2 — RESOLVED 2026-09-05: 1318 Florida Ave SW is the studio
+
+**Clint confirmed on 2026-09-05 that 1318 Florida Ave SW, Denham Springs, LA 70726 is
+the operating studio.** The conflict below is retained as the record of why it was
+flagged, and because two of the three addresses still matter:
+- **Bluebonnet Blvd, Baton Rouge** is the LLC's domicile and mailing address. It is a
+  filing fact. **Never publish it as the studio location.**
+- **The "bigger location"** is still coming. Move date and address unknown
+  (`CLIENT-ASKS.md` R-02). The NAP should be built to update in one place.
+
+### Original finding, for the record
+
 
 | Source | Address |
 |---|---|
@@ -41,9 +52,9 @@ The Facebook page also carries a **check-in at Bluebonnet Blvd, Baton Rouge,
 dated June 22, 2026** — consistent with the registered address, which suggests
 Bluebonnet is a real place they use, not only a filing address.
 
-⚠️ Do not print any address, build a location page, publish LocalBusiness schema,
-or start citations until Roger confirms which address is the operating studio.
-An NAP built on the wrong one is expensive to unwind.
+~~⚠️ Do not print any address, build a location page, publish LocalBusiness schema,
+or start citations until Roger confirms which address is the operating studio.~~
+**✅ Cleared 2026-09-05.** Build on 1318 Florida Ave SW, and keep it updatable.
 
 ## Body-art licensing — cannot be verified online
 
@@ -64,7 +75,7 @@ sterilization, or compliance claim of any kind.
 |---|---|---|---|
 | Legal entity exists, in good standing | LA SoS | ✅ | CATHEDRAL TATTOO STUDIO LLC, 47032261K, active, good standing |
 | Ownership / "owner" language | LA SoS | ❌ | Sole member of record is Mikayla Paul — see Finding 1 |
-| Operating address | GBP / FB / SoS | ❌ | Three conflicting addresses — see Finding 2 |
+| Operating address | GBP / FB / SoS | ✅ | **1318 Florida Ave SW, Denham Springs** — confirmed by Clint 2026-09-05. Move still pending |
 | Shop body-art facility permit | LDH | ⏳ | No public registry — ask the client |
 | Artist operator registrations | LDH | ⏳ | No public registry — ask the client |
 | Years in business | LA SoS | ✅ | Registered 5/21/2026. **Months old.** Never imply established/veteran status |
@@ -76,5 +87,5 @@ sterilization, or compliance claim of any kind.
 - **People:** "tattoo artist at Cathedral Tattoo Studio" — no ownership claim.
 - **Tenure:** say nothing about years. The LLC is months old.
 - **Licensing:** omit entirely.
-- **Location:** "serving the Denham Springs and Baton Rouge area" rather than asserting a street address.
+- **Location:** ✅ **1318 Florida Ave SW, Denham Springs, LA 70726 may now be published.** The softer "serving the Denham Springs and Baton Rouge area" remains useful for service-area copy.
 - **Social proof:** none available. Do not manufacture any.

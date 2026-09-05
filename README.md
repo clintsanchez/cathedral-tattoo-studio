@@ -10,7 +10,7 @@ the Facebook page. Tier is marked on every fact.
 |---|---|---|
 | Business name | Cathedral Tattoo Studio (FB casing: "Cathedral Tattoo studio") | GBP + FB |
 | Owner | Roger Cazares ⚠️ *LLC names Mikayla Paul as sole member — see 06-Reports/records-check.md* | stated by Clint 2026-09-04 |
-| Address | 1318 Florida Ave SW, Denham Springs, LA 70726 ⚠️ see below | GBP + FB (identical) |
+| Address | 1318 Florida Ave SW, Denham Springs, LA 70726 ✅ confirmed operating, see below | GBP + FB (identical); confirmed by Clint 2026-09-05 |
 | Phone | (225) 301-9527 → `tel:+12253019527` | GBP only |
 | Category | Tattoo shop (GBP) / Tattoo & Piercing Shop (FB) | both |
 | Hours | Friday 10 AM–7 PM is the only day published | GBP |
@@ -19,11 +19,14 @@ the Facebook page. Tier is marked on every fact.
 | FB page | created June 9, 2026 · 217 followers · single admin · no ads running | FB Page transparency |
 | Grand opening | Flash event 6-28-26 | FB social graphic |
 
-## ⚠️ The address is probably stale
-FB post 2026-08-27 announces a move to a bigger location that will allow
-walk-ins, plus expanded services and open artist/piercer positions. Neither
-profile has been updated. **Do not build location pages, schema, or citations on
-1318 Florida Ave SW until the new address is confirmed.**
+## ✅ The address is confirmed, and a move is still coming
+**1318 Florida Ave SW is the operating studio** (Clint, 2026-09-05). Location pages,
+schema and citations are unblocked on this address.
+
+⚠️ FB post 2026-08-27 still announces a move to a bigger location allowing walk-ins,
+plus expanded services and open artist/piercer positions, and neither profile has been
+updated. Move date and destination are unknown. Structure the NAP so it updates in one
+place, and note that **walk-ins are not yet live**.
 
 ## Brand (tier 1 — sampled from the logo raster)
 Gothic cathedral facade with rose window and cross, blackletter "Cathedral" over
@@ -77,7 +80,8 @@ butterfly and a Coraline-inspired piece). Fine as portfolio, but do not build
 marketing campaigns around them.
 
 ## Open asks for the client
-1. New address and move date
+🚨 Full register with statuses: `CLIENT-ASKS.md`. Summary:
+1. ✅ Address confirmed 2026-09-05 — move date and destination still open
 2. Real weekly hours after the move
 3. Owner email + preferred booking contact
 4. Vector logo files (AI/EPS/SVG), and unwatermarked originals of the prior-shop portfolio

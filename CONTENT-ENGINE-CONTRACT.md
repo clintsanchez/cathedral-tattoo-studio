@@ -13,7 +13,7 @@ fulfilment starts. **It silently produces wrong output when a field is missing.*
 | WP author user ID | _TBD_ — no site exists yet | ❌ |
 | Brand voice | _TBD_ | ❌ |
 | Audience | _TBD_ | ❌ |
-| Geography | Denham Springs, LA — ⚠️ address in flux | ⚠️ |
+| Geography | 1318 Florida Ave SW, Denham Springs, LA 70726 | ✅ confirmed 2026-09-05 — ⚠️ move still pending, no date |
 | Asset library paths | `05-Photos/`, `04-Content-Library/` | ✅ |
 | Money page IDs | _TBD_ — no site | ❌ |
 | Founder identity | Roger Cazares, owner | ✅ |

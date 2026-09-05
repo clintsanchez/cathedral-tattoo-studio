@@ -44,24 +44,23 @@ Ave SW. **No location page, schema, or citation work until Roger confirms.**
 Also: entity registered 5/21/2026, so the business is **months old** — never
 imply established status. Zero reviews on both platforms.
 
-## Client asks — send these to Roger
+## Client asks
 
-**Drafted and ready to send:** `06-Reports/client-asks-email-draft.md`
-(read the "before sending" note first — ownership, licensing and Tattootopia are
-worded deliberately). No email address on file; may have to go by text or FB.
+🚨 **All asks live in [`CLIENT-ASKS.md`](CLIENT-ASKS.md) — the single source of truth.**
+26 asks for Roger across five groups, plus 4 BSC-internal decisions. Statuses and the
+answer log are maintained there. **Do not keep a second list here or anywhere else.**
 
-1. New address and move date — and which of the three is the studio
-2. Are you the owner? The LLC lists Mikayla Paul as sole member
-3. Shop body-art facility permit number and each artist's operator registration
-   (LDH has no public registry, so this can only come from you)
-4. Real weekly hours once you're in the new space
-5. Best email, and how you want bookings to come in
-6. Vector logo files (AI, EPS or SVG) — **highest value ask**
-7. Unwatermarked originals of the older portfolio photos
-8. Service list and shop minimum; is piercing live yet
-9. Artist roster after hiring
-10. Instagram and TikTok handles
-11. Do you want `cathedraltattoostudio.com`? It was unregistered as of 2026-09-04
+The email gets generated from that file when we're ready to send. A point-in-time
+render of the first 15 asks sits at `06-Reports/client-asks-email-draft.md`; treat it
+as a draft artifact, not as the list.
+
+**Top of the order:** vector logo (R-01), address (R-02), then the 15-minute recorded
+call (R-13) — the call is the only ask with no workaround.
+
+⚠️ **B-01 and B-02 gate part of the send.** The Tattootopia ruling and the
+positioning/tagline approval are Clint's calls, and R-17/R-18/R-19 should not go out
+before they clear. No email address is on file for Roger; this may have to go by text
+or Facebook.
 
 ## Decided
 - **Cathedral is the brand** (Clint, 2026-09-04). Site, GBP, social, OG cards and

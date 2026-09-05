@@ -23,6 +23,9 @@ confirms the new address and move date.
 - `README.md` — every fact tiered by source. Read first.
 - `00-CLIENT-BRIEF.md` — the brief, with `_TBD_` on everything unattested.
 - `HANDOFF.md` — current status + open confirmations. Read when resuming.
+- `CLIENT-ASKS.md` — **every ask, with status and an answer log. Never fork this list.**
+- `brand/` — the brand package (`brand.yaml` + skill outputs). `brand/context.md`
+  holds the publishing guardrails and is read first by every brand skill.
 - `CONTENT-ENGINE-CONTRACT.md` — what stage ③ needs before fulfilment starts.
 
 ## Brand
@@ -68,7 +71,9 @@ Set the CSS prefix and the three CTA fixes together, before post one:
 CTAs rewritten because this was skipped.
 
 ## Next steps
-1. Send Roger the client asks (`HANDOFF.md`) — address is the blocker.
+1. Send Roger the client asks — **all of them live in `CLIENT-ASKS.md`**, which is
+   the single source of truth. Vector logo and address are the blockers; the
+   15-minute call is the ask with no workaround.
 2. Vector logo → sample real hex → `DESIGN.md` / `css-tokens.css` / `brand-style-guide.md`.
 3. Assign the CSS prefix + blog CTA standard.
 4. Records check → GBP optimization (no website link exists yet) → site build.

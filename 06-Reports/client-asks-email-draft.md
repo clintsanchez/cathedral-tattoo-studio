@@ -1,6 +1,11 @@
 # Client asks — email draft for Roger
 
-*Drafted 2026-09-04. **Not sent.** No email address on file for Roger — see
+> ⚠️ **This is a point-in-time render, not the list.**
+> [`CLIENT-ASKS.md`](../CLIENT-ASKS.md) is the source of truth and now carries 26
+> asks plus 4 BSC decisions. This draft covers R-01 through R-15 only and does not
+> reflect statuses. Regenerate from the register before sending.
+
+*Drafted 2026-09-04, superseded as a list 2026-09-05. **Not sent.** No email address on file for Roger — see
 `00-CLIENT-BRIEF.md` (Email: _TBD_). Send by text or Facebook message if that is
 the only channel, and get the email address in the reply.*
 

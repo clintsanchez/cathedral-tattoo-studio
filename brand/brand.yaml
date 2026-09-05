@@ -25,5 +25,5 @@ artifacts:
   positioning: true
   competitors: true
   story: false  # blocked - scaffold only, see story.md
-  guidelines: false
+  guidelines: true
   audit: true

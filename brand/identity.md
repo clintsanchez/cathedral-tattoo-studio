@@ -15,7 +15,10 @@ thing: pieces that carry weight. The mark should read the way a church reads fro
 across a street — still, solid, unhurried, and old enough not to need to prove
 anything. Design for *reverence, not menace*: the category defaults to hard, black,
 aggressive, and Cathedral's advantage is that it is the only one in the parish that
-feels considered instead of loud. Gold on black is the whole idea, so spend the gold
+feels considered instead of loud. **The brand is positioned premium (2026-09-05), and
+in visual terms premium means subtraction** — more black, fewer elements, larger
+images, more space around everything. If a layout feels slightly too empty, it is
+probably right. Gold on black is the whole idea, so spend the gold
 carefully. It should feel like gilding on stone, not like a nightclub flyer.
 
 ## 02 — Logo direction
@@ -159,7 +162,8 @@ wordmark, the real face may change the pairing.
 
 **Overall aesthetic:** dark, quiet, documentary. Let black do the framing —
 the portfolio *is* the product, so give the images room and put nothing decorative
-near them.
+near them. **Premium implication: show less work, larger.** A wall of 97 thumbnails
+reads as a volume shop. Twenty pieces at full width reads as a studio that chooses.
 
 **Subject matter, in priority order**
 1. **The work, healed and fresh.** Close, well-lit, on a dark or neutral ground.
@@ -206,7 +210,8 @@ friendlier; that is a different brand.
 
 **Spend the gold.** Gold is the scarce, valuable element and behaves like it. A gold
 accent should feel deliberate every time. Two gold elements competing in one view means
-one is wrong.
+one is wrong. ⚠️ Under a premium position this tightens further: gold everywhere reads
+as cheap, not rich. Gilding is valuable because there is little of it.
 
 **Let it be still.** No motion for its own sake, no parallax, no animated gradients.
 The register is calm (`voice.md`), and stillness is how that reads visually. Transitions

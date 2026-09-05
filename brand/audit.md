@@ -12,6 +12,47 @@
 
 ## Brand health scorecard
 
+### Re-run 2026-09-05 (v2)
+
+| Dimension | v1 | **v2** | Status | Why it did or didn't move |
+|---|---|---|---|---|
+| Positioning clarity | 1 | **1** | 🔴 | Position is now decided and premium — but **nothing is published**. Live copy is unchanged |
+| Visual identity | 3 | **3** | 🟡 | Derived assets exist; none are deployed. The four-marks problem is resolved on paper only |
+| Messaging consistency | 2 | **2** | 🔴 | Tagline and hierarchy drafted, unapproved, unpublished |
+| Voice & tone | 2 | **2** | 🔴 | Voice guide written; live copy is still two profile bios |
+| Audience alignment | 2 | **3** | 🟡 | ⬆️ **Only real mover.** `@rc_tattoos` is live and reaches 6,667 people. The reach genuinely exists — it just sits on the artist account |
+| Competitive differentiation | 2 | **2** | 🔴 | Still no site, still zero reviews against ~168 |
+| **Overall** | **12** | **13 / 30** | 🔴 | **Early and under-built — but no longer under-planned** |
+
+**Only one point moved, and that is the correct result.** The rule for this audit is
+*score what is live, not what is filed*. Between v1 and v2 the brand package went from
+ten documents to fourteen, the address was confirmed, the logo was settled, the
+position was set to premium and a digital brand book was written — and **almost none of
+it is visible to a customer yet.** A brand audit that rewarded internal documentation
+would be lying.
+
+The single point came from a *discovery*, not from work: Roger's Instagram was always
+live and reaching 6,667 people; we simply had not looked.
+
+### Companion score: package readiness (not brand health)
+
+Tracked separately so the two are never confused.
+
+| | Status |
+|---|---|
+| Strategy, positioning, architecture, voice, messaging, audience, competitors | ✅ drafted |
+| Digital brand book | ✅ written (`guidelines.md`) |
+| Logo assets for every digital surface | ✅ cut (`01-Brand-Assets/derived/`) |
+| Address, differentiator, market position, goals | ✅ decided |
+| Story, vision, mission, values | ⛔ Roger's to state |
+| Print, signage, embroidery, light-background | ⛔ not derivable from the artwork |
+| **Readiness to build** | **✅ The site and GBP can be built today.** Nothing in the package blocks them |
+
+**The gap between 13/30 and "ready to build" is the whole story of this project right
+now: the thinking is done and none of it has shipped.**
+
+### v1 scorecard (2026-09-05, retained)
+
 | Dimension | Score | Status |
 |---|---|---|
 | Positioning clarity | **1 / 5** | 🔴 Needs work |
@@ -228,6 +269,10 @@ captions, cross-post, grow the studio account off his. Recover the studio handle
 - Set the artist-attribution rule at the point of each hire.
 - Re-run this audit after launch. **Target: 22/30 within six months of a live site,
   a confirmed address, and the first twenty reviews.**
+- ⚠️ **Premium raises the bar on every dimension.** A premium brand is held to more
+  proof than a mid-market one, and Cathedral currently has zero reviews and no price
+  floor. Expect the target to be harder to hit than it was under the old positioning,
+  and treat R-07 and review generation as the two things that make premium credible.
 
 ## Scoring caveats
 - Six of six dimensions are scored against a business with no website; four would be

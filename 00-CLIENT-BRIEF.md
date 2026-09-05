@@ -1,6 +1,6 @@
 # Cathedral Tattoo Studio — Client Brief
 
-**Contact:** Roger Cazares — ⚠️ *stated as owner by Clint; the LLC names Mikayla Paul as sole member. See `../06-Reports/records-check.md`.*
+**Contact:** Roger Cazares — ⚠️ *stated as owner by Clint; the LLC names Mikayla Paul as sole member. See `06-Reports/records-check.md`.*
 **Company:** Cathedral Tattoo Studio
 **Email:** _TBD_
 **Phone:** (225) 301-9527 · `tel:+12253019527`
@@ -93,5 +93,5 @@ how he wants the prior shop handled.
 
 ## 9. Records to verify before publishing
 
-See `../06-Reports/records-check.md`. Nothing about licensing, founding date,
+See `06-Reports/records-check.md`. Nothing about licensing, founding date,
 artist count, or experience has been verified.

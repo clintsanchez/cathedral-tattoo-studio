@@ -1,7 +1,7 @@
 # Cathedral Tattoo Studio — Design System
 
 > **Palette source: the 1242px logo raster**, sampled 2026-09-04
-> (`../01-Brand-Assets/cathedral-tattoo-studio-logo.webp`). ⚠️ **Interim.**
+> (`01-Brand-Assets/cathedral-tattoo-studio-logo.webp`). ⚠️ **Interim.**
 > The mark is gold-on-black with a metallic gradient and no vector exists yet, so
 > these are gradient stops read off a JPEG, not authored brand colours. Replace
 > them from the SVG when Roger sends source files or the Vector Magic trace lands.
@@ -13,7 +13,7 @@
 - **Register:** gothic, ecclesiastical, craft-led. Dark ground, gold on black,
   blackletter display. Reverent rather than aggressive.
 - **Contact:** (225) 301-9527 · `tel:+12253019527`
-- ⚠️ Address, ownership and licensing are unconfirmed — see `../06-Reports/records-check.md`
+- ⚠️ Address, ownership and licensing are unconfirmed — see `06-Reports/records-check.md`
 
 ## Colour
 

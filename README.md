@@ -37,6 +37,13 @@ Two marks exist and are NOT the same thing:
 - **"RC" gothic monogram** — Roger's personal artist watermark, on nearly every
   portfolio photo. There is also a legacy "RC Tattoos" skull sketch.
 
+## Repo layout
+
+This repo is the client's working project **and** the asset library. The docs
+(`CLAUDE.md`, `00-CLIENT-BRIEF.md`, `HANDOFF.md`, `DESIGN.md`,
+`CONTENT-ENGINE-CONTRACT.md`, `website/`) sit at the root; the numbered folders
+below are the deliverables, mirrored to the client's pCloud folder.
+
 ## Folder contents
 - `01-Brand-Assets/` — 8 logo/monogram files (studio + artist marks)
 - `04-Content-Library/social-graphics/` — 10 booking/availability/grand-opening graphics

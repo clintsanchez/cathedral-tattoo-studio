@@ -20,7 +20,7 @@ page, LocalBusiness schema, or citation work on 1318 Florida Ave SW** until Roge
 confirms the new address and move date.
 
 ## Source of truth
-- `../README.md` — every fact tiered by source. Read first.
+- `README.md` — every fact tiered by source. Read first.
 - `00-CLIENT-BRIEF.md` — the brief, with `_TBD_` on everything unattested.
 - `HANDOFF.md` — current status + open confirmations. Read when resuming.
 - `CONTENT-ENGINE-CONTRACT.md` — what stage ③ needs before fulfilment starts.
@@ -46,16 +46,16 @@ site, the GBP, social handles, OG cards, email and print. RC is demoted to
 appears as site chrome, favicon, or a logo slot. Where both would compete in one
 frame, Cathedral wins.
 
-Assets: `../01-Brand-Assets/`. Use the `brand-guidelines` skill once the vector lands.
+Assets: `01-Brand-Assets/`. Use the `brand-guidelines` skill once the vector lands.
 
 ## Asset library
-- `../05-Photos/portfolio-roger-cazares/` — 37 tattoos pulled from Facebook
-- `../05-Photos/portfolio-roger-cazares/from-prior-shop-2026-09/` — 60 more, with
+- `05-Photos/portfolio-roger-cazares/` — 37 tattoos pulled from Facebook
+- `05-Photos/portfolio-roger-cazares/from-prior-shop-2026-09/` — 60 more, with
   a burned-in **Tattootopia** watermark from Roger's prior shop
 - `.../watermark-removed/` — 54 cleaned copies. **8 still carry a remnant**; see
   `WATERMARK-REMOVAL.md` in that folder before publishing any of them
-- `../99-Reference/_third-party-ip-do-not-publish/` — licensed characters. Never publish.
-- `../99-Reference/_personal-not-for-marketing/` — owner's family photos. Never publish.
+- `99-Reference/_third-party-ip-do-not-publish/` — licensed characters. Never publish.
+- `99-Reference/_personal-not-for-marketing/` — owner's family photos. Never publish.
 
 ## 🚨 Accuracy guardrail
 Verify before publishing any public claim: Louisiana shop and artist license

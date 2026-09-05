@@ -12,7 +12,7 @@ site are not started, and the address is unconfirmed.
 - Client folder + git repo → `github.com/clintsanchez/cathedral-tattoo-studio` (private)
 - 187 images filed with SEO filenames; third-party IP and personal photos quarantined
 - 54 of 60 prior-shop photos cleaned of the Tattootopia watermark (8 still flagged)
-- `../README.md` — every fact tiered by source
+- `README.md` — every fact tiered by source
 - CSS prefix assigned: `cts-`
 
 ## Not done
@@ -26,7 +26,7 @@ The 2026-08-27 post announces a relocation. Both listings still show 1318 Florid
 Ave SW. **No location page, schema, or citation work until Roger confirms.**
 
 ## 🚨 Records check changed the picture (2026-09-04)
-`../06-Reports/records-check.md`. Two findings that gate copy:
+`06-Reports/records-check.md`. Two findings that gate copy:
 1. **CATHEDRAL TATTOO STUDIO LLC (47032261K)** is registered to **Mikayla Paul**
    as sole member — Roger is not on the filing. Publish no ownership language
    for anyone until he confirms.

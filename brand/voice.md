@@ -31,7 +31,9 @@ counter, not like a brochure.
 
 **Energy — calm.** The category shouts; Cathedral doesn't. No exclamation marks, no
 urgency manufactured out of nothing. The only real scarcity is the calendar, and that
-scarcity speaks for itself.
+scarcity speaks for itself. ⚠️ **Premium sharpens this into a hard rule: no discount
+language, no promo language, no countdowns, no "spots going fast".** A brand that
+discounts is telling you its prices were negotiable.
 > "October is open. November is filling."
 
 **Humour — dry and rare.** Warmth carries the personality, not jokes. Never jokes
@@ -78,6 +80,13 @@ Never pressures. The booking mechanic is availability, not urgency.
 - **Do:** "Think about it. The dates will still be there tomorrow."
 - **Don't:** "Book now — spots going fast!"
 
+**Selective**
+Premium reads through what Cathedral declines, not what it offers. Copy should imply a
+studio that takes on work it can do properly and says no to the rest — never a studio
+advertising availability for anything.
+- **Do:** "I take a limited number of large pieces at a time, so they get the sittings they need."
+- **Don't:** "Booking all styles, all sizes, any time."
+
 **Attributive**
 Names the artist who did the work, every time. This is the architecture in
 `architecture.md` showing up in the copy.
@@ -93,7 +102,12 @@ line work · shading · touch-up · aftercare · open dates · available.
 
 Plain trade language, and the same words the audience uses ④.
 
-**Words we avoid.** Ink (as a noun: "get some ink") · inked · body art (fine in legal
+**Words we avoid.** 🚨 **Premium-position additions (2026-09-05): premium · luxury ·
+high-end · elite · exclusive · bespoke · boutique · upscale · discerning · indulge.**
+Cathedral *is* premium and must never *say* it — the position is expressed through
+restraint and craft evidence, and claiming it from a shop with zero reviews reads as
+pretension (`context.md`).
+Also: ink (as a noun: "get some ink") · inked · body art (fine in legal
 and regulatory contexts, wrong in marketing) · parlor · premier · utopia · best ·
 world-class · unrivalled · state-of-the-art · passion for the craft · bring your
 vision to life · your body is a canvas · no regrets · journey · transform · elevate ·
@@ -187,6 +201,8 @@ version — it has an on-brand *silence*.
 ## 08 — Things we never say
 
 - **Any ownership claim** for anyone, until the LLC question is settled (guardrail 1).
+- **Any premium adjective.** See vocabulary above. This is the most likely accidental
+  breach now that the position is premium.
 - ~~Any address, until it is confirmed.~~ ✅ **Cleared.** 1318 Florida Ave SW may be
   published. ⚠️ Never publish the Bluebonnet Blvd filing address as the studio, and do
   not announce the move until there is a date.

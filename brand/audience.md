@@ -36,8 +36,12 @@ which gives a person deciding on a memorial portrait almost nothing to decide wi
   religious sleeves read to a male one. **Do not build a single-gender brand.**
 - **Location:** Denham Springs, Walker, Watson, Livingston, Central, Baton Rouge.
   Suburban and semi-rural. Car-dependent — a fifteen-minute drive is nothing here.
-- **Income:** working and middle. A half sleeve is a real purchase requiring saving,
-  which is exactly why it is researched heavily. ⚠️ No pricing data exists.
+- **Income:** working and middle, skewing to the upper end of it. ⚠️ **Premium
+  positioning (2026-09-05) narrows this**: the target is the part of the market that
+  saves for the right artist rather than shopping for the best rate. A half sleeve is a
+  real purchase requiring saving, which is exactly why it is researched heavily. The
+  price-led buyer is now explicitly *not* the target (§05). ⚠️ No pricing data exists
+  (R-07).
 - **Life stage:** working adults, many with families. The memorial and tribute work
   implies people who have lost someone.
 
@@ -154,8 +158,10 @@ brand-poetic language.
 
 - **The walk-in impulse buyer.** Cathedral is appointment-led and, until the move,
   cannot take walk-ins at all. Safe Voyage owns that customer 200 yards away.
-- **The lowest-price shopper.** ⚠️ Cathedral has no price advantage and shouldn't try
-  to build one; the local evidence says quality buyers already pay up.
+- **The price shopper, at any level.** ⚠️ Sharpened by the premium position: Cathedral
+  is not competing on rate at all, and should expect — and accept — losing enquiries on
+  price. Local evidence says quality buyers already pay up ③. A brand that flinches
+  here is not premium.
 - **The party/bachelorette crowd.** Fun, fast, matching tattoos — the brand's whole
   register argues against it.
 - **Anyone seeking hate imagery or extremist iconography.** Worth stating explicitly

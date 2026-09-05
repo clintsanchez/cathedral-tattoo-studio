@@ -25,7 +25,7 @@ agonise over, so the care is a working method rather than a slogan.
 
 | # | Tagline | Style | Rationale |
 |---|---|---|---|
-| 1 | **Work worth carrying** | Emotional | Says the whole position in four words. Implies permanence and weight without naming grief, faith or religion, so it covers a memorial portrait and a dog equally |
+| 1 | **Work worth carrying** | Emotional | Says the whole position in four words. Implies permanence and weight without naming grief, faith or religion, so it covers a memorial portrait and a dog equally. ✅ **Also carries the premium position without claiming it** — "worth" does the work that "premium" would have done badly |
 | 2 | **For the ones that matter** | Emotional | Warm and plain. ⚠️ Slightly ambiguous: reads as people or pieces |
 | 3 | **Commissioned, not walked in** | Functional | Sharpest statement of the model. ⚠️ Retire it the day walk-ins go live (guardrail 6), and it faintly disparages the walk-in customer |
 | 4 | **Take the time it takes** | Aspirational | Captures the unhurried quality and the multi-session reality. Slightly passive as a hero line |
@@ -90,7 +90,10 @@ Usable today:
 
 ⚠️ **Blocked, and the bank is thin because of it:** review counts (zero), years in
 business (four months), licensing and sterilisation (unverified), awards (none),
-ownership (unresolved), address (three in conflict), walk-ins (not live).
+ownership (unresolved), walk-ins (not live). ✅ Address is no longer blocked.
+🚨 **And premium raises the bar on all of it** — a premium brand is held to more proof
+than a mid-market one, so the thinness of this bank matters more now than it did
+yesterday. The fastest fixes are a price floor (R-07) and the first reviews.
 **Seven of the eight proofs above are "look at the work."** That is the honest state
 of this brand today, and the messaging should not pretend otherwise.
 
@@ -145,6 +148,11 @@ of this brand today, and the messaging should not pretend otherwise.
 - "Faithful", "faith-based", or any denominational framing. ⚠️ Competitor-adjacent
   and a fight Cathedral loses on proof (`positioning.md` §06).
 - Manufactured urgency. The calendar is real scarcity and needs no amplification.
+- 🚨 **Any premium adjective** — premium, luxury, high-end, elite, exclusive, bespoke.
+  The position is premium; the language never says so (`context.md`, `voice.md`).
+- **Any discount, promo or sale language.** A premium brand that discounts has told you
+  its prices were provisional. ⚠️ Live tension with the existing flash-event and
+  availability-promo habit — decide deliberately.
 - Anything implying the shop is established, awarded, reviewed or licensed.
 - Any comparison to another local shop, named or unnamed.
 

@@ -17,6 +17,13 @@ nothing. Every claim below is checked against the guardrails in `context.md`.*
   go when the piece has to be right — closer to commissioning a portrait than to
   buying a service.
 
+⚠️ **Premium reframes this (2026-09-05).** The opportunity category is not just
+commissioned work but *commissioned work at the top of the local market*. That is a
+narrower and more defensible seat: Tattootopia claims authority through tenure, which
+Cathedral cannot contest, but nobody local claims the **considered, selective, expensive
+** position — because doing so requires refusing volume, and every shop on Florida Ave
+is built on volume.
+
 **Recommendation: compete in "commissioned work", present artists first.** It matches
 how the customer actually decides, it is the one framing no local competitor uses,
 and it is the only category where a four-month-old shop can compete at all — because
@@ -38,7 +45,7 @@ number (guardrail 3).
 | Burning Lotus | Convenience-leaning / generic | *The trusted default.* ~168 reviews, 4.7 ③ |
 | Tattootopia | Considered / mildly distinct | *Established authority.* "Premier", "20+ years" |
 | Faithful | Considered / distinct | *Faith and family.* ~23 reviews, 94% ③ |
-| **Cathedral** | **Considered / most distinct** | **Unclaimed — see below** |
+| **Cathedral** | **Considered / most distinct** | **Premium commissioned work — unclaimed** |
 
 **Unclaimed territory:** considered commission work with a real point of view,
 executed competently online. Faithful is nearest but its register is domestic and its
@@ -53,7 +60,9 @@ close that gap — reviews do.
 ## 03 — Positioning territory
 
 **The Space.** Reverence. Cathedral is where a tattoo is treated as something with
-weight — a commission, not a purchase.
+weight — a commission, not a purchase. **Positioned at the top of the local market**
+(Clint, 2026-09-05): the considered, expensive-feeling choice, expressed through
+selectivity and craft rather than announced in adjectives.
 
 **The Audience Owned.** The person carrying one specific piece they have thought
 about for months — a memorial portrait, a religious scene, a tribute, a first large
@@ -111,14 +120,29 @@ Only what can be substantiated **today**. Each is marked with what it rests on.
 
 **Proofs deliberately not used:** years in business (four months), awards (none
 known), reviews (zero), sterility/licensing (unverified), "premier" (unfalsifiable
-and Tattootopia's line).
+and Tattootopia's line), and **"premium" itself** — the position is demonstrated, not
+asserted.
+
+🚨 **The premium position has one missing proof: a price floor.** A premium brand with
+no published minimum is unfinished, because the number is what makes the position
+credible without ever using the word. **R-07 is now the most important open ask after
+the phone call.** A simple "large work starts at $X" does more premium signalling than
+any adjective.
 
 ## 06 — What this brand refuses to be
 
 - Cathedral is **not for people who want a tattoo today.** Safe Voyage is 200 yards
   away and better at that. ⚠️ Revisit only when walk-ins actually go live.
-- Cathedral **will never compete on price.** The local evidence says this market
-  already pays up for quality ③.
+- Cathedral **will never compete on price.** It is positioned **premium** — the top
+  of the local market, not a mid shop charging slightly more. Local evidence supports
+  the ceiling: this market already pays above the cheapest option ③.
+- Cathedral **will never say the word "premium."** ⚠️ Premium is expressed through
+  restraint, selectivity, craft evidence and pace. Claiming it from a shop with zero
+  reviews reads as pretension, and it would land as a direct answer to Tattootopia's
+  "premier" (`context.md`).
+- Cathedral **does not discount, run promos, or manufacture urgency.** ⚠️ Live tension:
+  the grand opening was a flash event ① and the availability posts function as promos
+  ②. Decide deliberately whether flash days continue.
 - Cathedral **does not claim experience it cannot document.** No "20+ years", no
   "award-winning", no "established". The business is four months old (guardrail 3).
 - Cathedral **is not the Christian tattoo shop.** Faithful holds that ground with
@@ -142,7 +166,7 @@ Run against the skill's own red flags:
 | Could apply to any competitor | **Pass.** No local competitor claims reverence or the commission framing; the two nearest occupy convenience and family-faith |
 | Audience too broad to own | **Pass.** Narrow: one meaningful piece, one parish, appointment-led. Deliberately excludes walk-ins and price shoppers |
 | Differentiator is a table stake | **Pass.** Table stakes here are sterile/experienced/custom — all three are explicitly refused above |
-| Cannot be substantiated | **⚠️ Partial.** Proofs 1–4 are verifiable now. Proof 5 is inference. **The position is credible but thinly evidenced until reviews exist** — it is a brand promise the shop must now be seen keeping |
+| Cannot be substantiated | **⚠️ Partial, and premium raises the bar.** Proofs 1–4 are verifiable now; proof 5 is inference. A premium position demands *more* evidence than a mid-market one, and Cathedral currently has zero reviews and no price floor. **The position is right and currently under-evidenced** — a brand promise the shop must be seen keeping |
 
 **Biggest risk to this position:** it is a quality claim from a shop with no social
 proof. Reverence is easy to assert and slow to prove. The mitigation is not better

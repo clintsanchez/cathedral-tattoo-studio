@@ -119,3 +119,17 @@ the document the answer unblocks.
 A point-in-time email render of asks R-01 through R-15 exists at
 `06-Reports/client-asks-email-draft.md`. **This file is the source of truth; that
 draft is not.** Regenerate it from here when we're ready to send.
+
+## G. Answered by BSC (not client asks)
+
+Decisions Clint has made that fill gaps the brand skills would otherwise ask a client
+for. Recorded here so they are not re-asked, and so their tier is never confused with
+something Roger said.
+
+| Date | Item | Answer | Tier |
+|---|---|---|---|
+| 2026-09-05 | Operating address | 1318 Florida Ave SW, Denham Springs | Stated by Clint |
+| 2026-09-05 | Logo | Ship as-is, no redraw | BSC decision |
+| 2026-09-05 | Differentiator | Reverence / commissioned work — **adopted as working**, still ④ in origin. Not published as Roger's claim until R-18 | BSC-adopted inference |
+| 2026-09-05 | Market position | Mid-to-premium, competing on work not rate. ⚠️ No price claim publishable (R-07 open) | BSC decision |
+| 2026-09-05 | 12-month engagement goals | 1. Get found online 2. Build review volume | BSC decision |

@@ -28,7 +28,10 @@ event, not a style problem.
    the numbers must come from Roger in writing.
 5. **No social proof.** Zero reviews on both platforms. Never imply otherwise.
 6. **No "walk-ins welcome."** Promised at the new location, not live.
-7. **No invented differentiator.** Nothing published states one.
+7. **No invented differentiator.** ✅ **Partly lifted 2026-09-05:** BSC has adopted
+   "reverence / commissioned work" as the working differentiator, so drafts may be
+   built on it. ⚠️ It still may not be **published as Roger's own claim** until he
+   confirms it (R-18).
 
 ## Brand
 - **Name**: Cathedral Tattoo Studio ① *(legal entity CATHEDRAL TATTOO STUDIO LLC,
@@ -60,8 +63,11 @@ event, not a style problem.
   worth mining.
 
 ## Positioning
-- **Differentiation**: _TBD_ ⚠️ **Do not invent one.**
-  **Strongest observable angle ④:** the brand is ecclesiastical and the work matches
+- **Differentiation**: **reverence and commissioned work.**
+  ✅ **Adopted by BSC as the working differentiator (Clint, 2026-09-05.)** Origin is
+  still ④ inference, not a client statement — so it may guide all internal work and
+  shape drafts, but **it is not published as Roger's own claim until he confirms it**
+  (R-18). The reasoning: the brand is ecclesiastical and the work matches
   it. A gothic cathedral mark over a portfolio heavy in religious and memorial
   black-and-grey is a rare alignment — most shops wear a brand that has nothing to do
   with what they tattoo. That congruence is the asset, and it is defensible because
@@ -70,8 +76,14 @@ event, not a style problem.
   and Roger's prior shop ⚠️ also a BSC pro-bono client), Faithful Tattoo Studio
   (105 N Range Ave), Burning Lotus, Safe Voyage, Cipher ③. Full analysis pending
   `competitor-branding`.
-- **Market Position**: niche / custom, appointment-led ④. ⚠️ Cannot be called premium
-  or value — no pricing, no shop minimum, no rate is known.
+- **Market Position**: **mid-to-premium**, niche/custom, appointment-led.
+  ✅ Set by Clint 2026-09-05. Positions above the walk-in shops, competing on work
+  rather than rate. Supported by local review evidence ③ that this market already pays
+  above the cheapest option (Faithful's reviews repeatedly say "not the cheapest but
+  worth it").
+  ⚠️ Still no pricing, shop minimum or rate on file (R-07), so **publish no price
+  claim, no "affordable", and no comparative value language.** This sets the register,
+  not a number.
 
 ## Brand Personality
 - **Personality Words**: gothic, reverent, craft-led, dark, considered ④ — read off
@@ -88,12 +100,27 @@ event, not a style problem.
 - **Mission**: _TBD_
 
 ## Goals
-- **Primary Goal**: _TBD_ as stated.
-  **Inferred from their own posts ②:** fill the new, larger location; open to
-  walk-in traffic; recruit artists and piercers.
-- **Key Metrics**: _TBD_.
+- **Primary Goal (BSC engagement, next 12 months)** — ✅ set by Clint 2026-09-05:
+  1. **Get found online.** Site, GBP, local search. The studio is currently invisible
+     in the channel where its audience validates: no website, zero reviews, one
+     published day of hours ①.
+  2. **Build review volume.** Zero on both platforms against Burning Lotus's ~168 ③.
+     The largest competitive gap, and the one thing positioning cannot fix.
+
+  Both are **execution goals, not brand goals** — which matches the competitive read:
+  two of five local competitors have a broken or absent website, so the opening here is
+  competence rather than positioning (`competitors.md`).
+
+  **The client's own goals ②, distinct from ours:** fill the new larger location, open
+  to walk-in traffic, recruit artists and piercers. Not selected as BSC's focus, but
+  they are what Roger is optimising for — our two goals should be argued to him as the
+  means to his three.
+- **Key Metrics**: tracked against the two goals above — indexed pages and GBP
+  completeness, local pack presence for geo-modified terms, and **review count**, which
+  is the single clearest measure of progress.
   **Baseline as of 2026-09-04 ①**, for whatever is measured later:
-  217 Facebook followers · 0 GBP reviews · 0 Facebook reviews · no website ·
+  217 Facebook followers · **6,667 Instagram followers on `@rc_tattoos`** (the
+  artist account, not the studio) · 0 GBP reviews · 0 Facebook reviews · no website ·
   no ads running · 1 published GBP day (Friday 10 AM–7 PM)
 
 ## Assets on hand

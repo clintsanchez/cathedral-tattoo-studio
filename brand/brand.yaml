@@ -4,7 +4,7 @@ name: Cathedral Tattoo Studio
 one_liner: A gothic, craft-led tattoo studio in the Denham Springs and Baton Rouge area, built on black-and-grey religious, memorial and fine-line work.
 tagline: "Work worth carrying"  # ⚠️ proposed, not client-approved
 archetype: ""  # blocked - requires client input, see strategy.md 02-04
-status: draft
+status: active
 stage: early
 industry: "Tattoo studio / body art"
 languages: [en]

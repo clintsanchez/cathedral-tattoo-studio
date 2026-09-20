@@ -12,6 +12,7 @@ the Facebook page. Tier is marked on every fact.
 | Owner | Roger Cazares ⚠️ *LLC names Mikayla Paul as sole member — see 06-Reports/records-check.md* | stated by Clint 2026-09-04 |
 | Address | 1318 Florida Ave SW, Denham Springs, LA 70726 ✅ confirmed operating, see below | GBP + FB (identical); confirmed by Clint 2026-09-05 |
 | Phone | (225) 301-9527 → `tel:+12253019527` | GBP only |
+| Email | **cathedraltattoostudio25@gmail.com** | GBP People and access, 2026-09-19 — Roger is Primary owner |
 | Category | Tattoo shop (GBP) / Tattoo & Piercing Shop (FB) | both |
 | Hours | Friday 10 AM–7 PM is the only day published | GBP |
 | Website | none — GBP still shows "Add website" | GBP |
@@ -23,10 +24,55 @@ the Facebook page. Tier is marked on every fact.
 **1318 Florida Ave SW is the operating studio** (Clint, 2026-09-05). Location pages,
 schema and citations are unblocked on this address.
 
-⚠️ FB post 2026-08-27 still announces a move to a bigger location allowing walk-ins,
-plus expanded services and open artist/piercer positions, and neither profile has been
-updated. Move date and destination are unknown. Structure the NAP so it updates in one
-place, and note that **walk-ins are not yet live**.
+⚠️ FB post 2026-08-27 still announces a move to a bigger location, plus expanded services
+and open artist/piercer positions, and neither profile has been updated. Move date and
+destination are unknown, and as of 2026-09-19 **both Facebook and the GBP still show
+1318 Florida Ave SW**, so the move has not happened. Structure the NAP so it updates in
+one place.
+
+✅ **Walk-ins ARE live — corrected 2026-09-19.** An earlier note here said they were not.
+Roger posted that day on his personal Facebook: *"I don't have any appointments today, so
+I'm available for WALK-INS! Also we are a walk-in shop..."* They began taking walk-ins at
+the existing shop without announcing it on the business page. See guardrail 6 in
+`brand/context.md`.
+
+## Artists — THREE, not two (updated 2026-09-19)
+
+Named by customers in their own Google reviews, which is the strongest kind of source:
+they are naming the person who actually tattooed them.
+
+| Artist | Evidence |
+|---|---|
+| **Roger Cazares** | IG `@rc_tattoos` (2,033 posts, 6,663 followers) · FB `roger.cazares.54` (6.9K) · named by Keely, 5★ |
+| **Mikayla Paul** | sole member on the LLC filing · named by Alesha, 5★, who has had "a few tattoos" from her |
+| **Cleo** | 🆕 named by Kameryn, 5★: *"i strictly go to Cleo for all my tattoos!!"* |
+
+🩸 **Cleo was missing from every internal document until 2026-09-19.** Surname unknown,
+no handle on file, not mentioned in the brief, the brand docs or the records check. A
+client with a repeat customer who comes back specifically for her is not a minor omission.
+
+**Ask Roger for:** Cleo's full name, her Instagram handle, and whether she wants to be
+named publicly. The same for any other artist working there. `voice.md` requires artists
+be named people rather than "our team of talented artists", so we cannot write about the
+shop properly while we only know two thirds of the roster.
+
+⚠️ Alesha's review also says Mikayla tattoos, and the studio IG bio mentions an
+"Apprentice". Treat the roster as **unconfirmed and larger than we think** until Roger
+confirms it.
+
+**Roger's own channels carry the audience, not the business page:**
+- Personal Facebook `roger.cazares.54` — **6.9K followers**, actively posting availability
+- Instagram **@rc_tattoos** — confirmed his, but **age-restricted (18+)**, needs a logged-in
+  session to read
+- Business Facebook page — only **227 followers**, 1 review
+
+That is a 30x gap. Any social strategy that leans on the business page alone is aiming at
+the smaller audience.
+
+⚠️ His FB intro reads **"owner/tattoo artist at Cathedral Tattoo Studio"**, which conflicts
+with the LLC filing naming Mikayla Paul as sole member (guardrail 1). He may describe
+himself however he likes; **our** published copy still should not assert ownership on his
+behalf until the filing is reconciled.
 
 ## Brand (tier 1 — sampled from the logo raster)
 Gothic cathedral facade with rose window and cross, blackletter "Cathedral" over

@@ -16,7 +16,22 @@ pixel for pixel, at full resolution.
 
 ## Status — 54 of 60 cleaned
 
-### ⚠️ Still showing a Tattootopia remnant — do not publish as-is
+### ⚠️ Still showing a Tattootopia remnant — MOVED TO QUARANTINE 2026-09-19
+
+🩸 **Seven of these eight were sitting inside `watermark-removed/`**, a folder whose name
+says they are safe to publish. They are not. A bulk grab of `watermark-removed/*` would have
+put a competitor's watermark on Cathedral's own profile.
+
+They now live in **`QUARANTINE-still-watermarked/`** with a `DO-NOT-PUBLISH.md` beside them.
+`watermark-removed/` is down to **47 files and every one is clean**.
+
+The eighth, `...deadpool-butterfly-tattoo.webp`, was never cleaned at all (the model refused),
+so it exists only as a watermarked original one level up.
+
+**To release any of them:** get the unwatermarked original from Roger (ask R-08), or redo the
+removal and check it by eye at full size first.
+
+Original list:
 
 - `roger-cazares-denham-springs-la-black-and-grey-native-american-portrait-forearm-sleeve-tattoo.webp`
 - `roger-cazares-denham-springs-la-bull-skull-floral-back-tattoo.webp`

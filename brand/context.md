@@ -27,7 +27,18 @@ event, not a style problem.
 4. **No licensing, sterilization or compliance claims.** LA has no public registry;
    the numbers must come from Roger in writing.
 5. **No social proof.** Zero reviews on both platforms. Never imply otherwise.
-6. **No "walk-ins welcome."** Promised at the new location, not live.
+6. ~~**No "walk-ins welcome."**~~ ✅ **LIFTED 2026-09-19. Walk-ins ARE live at the
+   current address.** Roger posted on his personal Facebook that day: *"I don't have any
+   appointments today, so I'm available for WALK-INS! Also **we are a walk-in shop** so
+   everyone else is available to..."* The GBP description already says "Walk-ins are always
+   welcome" and that is **accurate** — do not remove it.
+
+   🩸 **This guardrail was wrong for two weeks and nearly cost us a true claim.** It was
+   written 2026-09-04 by reading the 8/27 Facebook post, which ties walk-ins to the
+   relocation. The inference was reasonable and it was still wrong: they started taking
+   walk-ins at the existing shop without announcing it on the business page. A dated
+   inference about a client is not a fact about a client — re-check it against something
+   live before acting on it.
 7. **No invented differentiator.** ✅ **Partly lifted 2026-09-05:** BSC has adopted
    "reverence / commissioned work" as the working differentiator, so drafts may be
    built on it. ⚠️ It still may not be **published as Roger's own claim** until he

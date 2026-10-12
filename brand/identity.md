@@ -1,12 +1,17 @@
 # Visual Identity Brief — Cathedral Tattoo Studio
 
-*2026-09-05. Written for a designer who has not seen this brand.*
+*2026-09-05. **v2, 2026-10-11.** Written for a designer who has not seen this brand.*
 
 > **This is a brief, not a token file.** Implementation values live in `DESIGN.md`
 > and `website/css-tokens.css` and must stay identical to §03 below. ⚠️ The palette is
 > sampled from a JPEG because **no vector exists and none is coming**
-> (`06-Reports/logo-source-analysis.md`). §02 is therefore a **redraw** brief, and it
-> is the highest-value production task in the project.
+> (`06-Reports/logo-source-analysis.md`). ✅ **v2 correction:** this header used to call
+> §02 a redraw brief. It is not. The logo **ships as-is** (Clint, 2026-09-05); §02
+> records the direction and the derived asset set.
+>
+> **v2 changes:** the avatar rule is reconciled with `guidelines.md` (§08) · imagery
+> gains people and the room, because that is what customers reviewed (§05) · a
+> warmth note is added so the severity of the mark is offset on purpose (§01).
 
 ## 01 — Identity strategy statement
 
@@ -20,6 +25,14 @@ in visual terms premium means subtraction** — more black, fewer elements, larg
 images, more space around everything. If a layout feels slightly too empty, it is
 probably right. Gold on black is the whole idea, so spend the gold
 carefully. It should feel like gilding on stone, not like a nightclub flyer.
+
+**v2 — offset the severity on purpose.** Customers describe the shop as "welcoming",
+"kind, funny" and comfortable for an anxious first-timer ①. A black-and-gold
+blackletter identity says none of that by itself, and to a nervous person it can say
+the opposite. Do not soften the mark. Offset it with **what sits next to it**: warm
+directional light in photographs, faces, the room, plain sentence-case type, generous
+space. The mark is the building; everything around it should feel like the door is
+open.
 
 ## 02 — Logo direction
 
@@ -170,9 +183,17 @@ reads as a volume shop. Twenty pieces at full width reads as a studio that choos
 2. **The making.** Hands, machine, stencil, the drawing on paper, the client mid-sitting.
    ⚠️ Nobody local shows process (`competitors.md`) — this is the largest open
    opportunity and it costs nothing but a camera.
-3. **The artist working.** One such portrait already exists in `05-Photos/`.
-4. **The space.** ⚠️ Gated on the move. When it happens, photograph the interior
-   properly on day one: architecture, light, the chair, the front room. The mark
+3. **The artists working — all three.** One portrait of Roger exists in `05-Photos/`.
+   ⚠️ v2: nothing exists for Mikayla or Cleo, and no work of theirs is on file (R-09).
+   A site that shows one artist while customers review three looks out of date on
+   day one.
+3b. **People at ease.** ✅ New in v2. A client mid-sitting who looks relaxed, the
+   conversation before the stencil, the front room. This is what the reviews are
+   about, and no competitor photographs it. Consent in writing for every face.
+4. **The space.** ⚠️ v1 gated this on the move. v2: a customer wrote "they're just
+   getting set up in there" and the owner replied "come see it when it's finished", so
+   the current room is being fitted out now. Photograph it when Roger says it is done,
+   whether or not a move follows: architecture, light, the chair, the front room. The mark
    promises a *place*, and every competitor's photography is skin-only.
 
 **Colour treatment:** natural and true. Black-and-grey work must be reproduced
@@ -223,8 +244,10 @@ and does not follow the user down the page.
 
 ## 08 — Brand expressions
 
-**Social profiles.** Avatar is the CTS badge or the reduced facade, never RC, never a
-squeezed full lockup (`architecture.md`). Cover image: the full lockup on black, or
+**Social profiles.** Avatar is the **rose window** (≥64px) or the cross, never RC, never
+a squeezed full lockup. ✅ v2: this now matches `guidelines.md` §2 and the derived
+files (`avatar-rose-512.png`, `avatar-cross-512.png`). v1 said "CTS badge", which
+conflicted with the brand book; the badge stays for stamps and stickers only. Cover image: the full lockup on black, or
 the new interior once it exists. Post templates: black ground, gold hairline, image
 dominant, minimal type. Roger's availability calendars already work — keep the format,
 apply the palette and Cinzel.
@@ -246,6 +269,16 @@ expression the brand will have. The mark is architectural; it should be dimensio
 and lit rather than printed flat. Budget for it as part of the move, not after.
 
 **Stickers, stamps, embroidery.** CTS badge only. Single flat gold, no gradient.
+
+## v2 — applications the brief did not cover
+
+**Google Business Profile.** Now the brand's main live surface. Cover: full lockup on
+`#0A0A0A`. Photos: lead with work, then people, then the room. 163+ photos are up ①;
+audit them for the quarantined and watermarked files before adding more.
+
+**Review graphics.** If a review is ever set as a social tile: black ground, the quote
+in Source Sans 3 at reading size, first name and "Google review" in muted text, one
+gold hairline. No star graphics, no gold quote marks, no Cinzel for the quote itself.
 
 ## Dependencies before any of this is executed
 1. ~~The redraw~~ ✅ **closed — logo ships as-is.** Digital assets are in

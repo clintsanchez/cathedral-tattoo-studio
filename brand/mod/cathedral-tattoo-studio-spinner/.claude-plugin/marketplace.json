@@ -1,0 +1,13 @@
+{
+  "name": "cathedral-tattoo-studio",
+  "owner": {
+    "name": "BlakSheep Creative"
+  },
+  "plugins": [
+    {
+      "name": "cathedral-tattoo-studio-spinner",
+      "source": "./",
+      "description": "Cathedral Tattoo Studio brand spinner for Claude Code (terminal and desktop app)"
+    }
+  ]
+}

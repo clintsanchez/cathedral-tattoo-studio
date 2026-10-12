@@ -1,7 +1,7 @@
 # Client Asks — Cathedral Tattoo Studio
 
 **Single source of truth for everything we need from the client.** Last updated
-2026-09-05.
+2026-10-11.
 
 The email gets generated *from this file* when we're ready to send. Do not maintain a
 second list anywhere else — add new asks here, and record answers here the day they
@@ -12,6 +12,12 @@ arrive.
 - Every ask names what it unblocks, because that is how the send order gets decided.
 
 ## Priority order
+
+🚨 **2026-10-11: B-05 now goes first, and it is Clint's.** The live shop is a walk-in
+shop open six days a week; the package positions it as premium and selective. Site
+copy cannot be finalised until that is decided (`brand/positioning.md` §08). After
+that: **R-09** (the roster), which now blocks artist pages for two of three artists.
+An email address for Roger is on file, so the asks can be sent.
 
 **R-02 (address) is answered, and R-01 is no longer a blocker** — there is almost
 certainly no vector to send (`06-Reports/logo-source-analysis.md`), so the logo is now
@@ -52,17 +58,20 @@ work, the customer, and the shop.
 
 | ID | Ask | Status | Unblocks |
 |---|---|---|---|
-| **R-05** | Real weekly hours after the move (GBP publishes only Friday 10–7) | ⬜ | GBP completion, schema `openingHours` |
+| **R-05** | ~~Real weekly hours~~ **✅ OBSERVED 2026-10-11 on the GBP: Mon–Thu 10 AM–6 PM, Fri–Sat 10 AM–7 PM, Sun closed.** ⬜ Still open: will they change at the move | ✅ / ⬜ | GBP completion, schema `openingHours` |
 | **R-06** | ~~Best email address~~ **✅ FOUND 2026-09-19 without asking: `cathedraltattoostudio25@gmail.com`** (Roger Cazares, Primary owner on the Google Business Profile). ⬜ Still open: how he wants bookings to arrive (form / phone / DM) | ✅ / ⬜ | 🩸 This sat as an unasked question for two weeks while the answer was visible in the profile's own People and access page the whole time. **Check the access list before asking a client for their email.** Note it is a studio address, not his personal one, so it is the right one to write to |
 | **R-07** | ~~Shop minimum~~ **✅ ANSWERED 2026-09-05 (Clint): there is no shop minimum. Studio is open and trading.** ⬜ Still open: full service list, and **is piercing actually live**? | ✅ / ⬜ | ⚠️ **BSC recommends instituting a minimum** ($100 standard / $150 to match the position) plus a booking deposit — `brand/context.md`. Roger's decision |
 | **R-30** | **Will Roger set a shop minimum and take booking deposits?** BSC recommends yes. A minimum is a filter, not a price: without one the calendar fills with small cheap work and the premium position has nothing underneath it | ⬜ | Whether premium is credible, or has to be carried entirely by consult-gating and refusal of small work |
 | **R-08** | Unwatermarked originals of the older portfolio photos | ⬜ | 8 files still carrying a competitor watermark (`WATERMARK-REMOVAL.md`) |
 | **R-09** | 🩸 **NOW URGENT (2026-09-19): there is a third artist we did not know about.** A 5★ Google review reads *"i strictly go to Cleo for all my tattoos!!"*. **Cleo appears nowhere in our files** — no surname, no handle, not in the brief, brand docs or records check. The studio IG bio also mentions an **Apprentice**. Need: Cleo's full name and IG handle, whether she is happy to be named publicly, and the same for the apprentice and anyone else tattooing there | ⬜ | Artist pages, schema `employee`, attribution. `brand/voice.md` requires artists be named people, never "our team of talented artists" — so this blocks a whole category of copy, and we have been writing as though the roster were one person |
 | **R-10** | ~~Instagram and TikTok handles~~ **✅ PARTLY ANSWERED by research 2026-09-05.** Roger is **`@rc_tattoos` — 6,667 followers, 2,029 posts**. TikTok still unknown (could not be verified; check by hand) | ✅ / ⬜ | Social links, `sameAs` schema. ⚠️ Instagram is **not** missing — it is the business's largest audience, 30× the Facebook page |
-| **R-28** | 🚨 **Does the studio own the Instagram handle `@cathedraltattoostudio`?** It exists but is empty: 6 followers, 0 posts, no display name. If it is yours, we need the login. If not, a squatter holds the obvious handle | ⬜ | Social handle strategy, `sameAs` schema. ⚠️ **Time-sensitive** |
+| **R-28** | ~~Does the studio own `@cathedraltattoostudio`?~~ **⬇️ DOWNGRADED 2026-10-11.** The studio's real account is `@cathedral_tattoostudio` (underscore), active and linked on the GBP. The empty no-underscore handle is a nice-to-have. Ask only in passing | ⬜ low | `sameAs` schema uses the underscore handle |
 | **R-29** | Confirm the TikTok handle by hand — automated checks could not resolve it | ⬜ | Social links |
 | **R-11** | Does he want `cathedraltattoostudio.com`? ✅ **Re-verified available 2026-09-05 by whois.** ~$15. **Recommend registering now** — `cathedraltattoo.com` is already taken and multiple out-of-state shops share the name (`brand/naming.md`) | ⬜ | Everything downstream of hosting |
-| **R-12** | **Walk-ins: are they live?** Promised for the new location, not confirmed | ⬜ | Hero copy, GBP attributes. Guardrail 6 |
+| **R-12** | ~~Walk-ins: are they live?~~ **✅ ANSWERED 2026-09-19 by Roger's own post: "we are a walk-in shop".** | ✅ | Guardrail 6 lifted. ⚠️ Opens **B-05** |
+| **R-31** | **What share of the week is walk-ins, and what do walk-ins usually get?** | ⬜ | Tells us whether the shop is a walk-in shop that also does big work, or the reverse. Feeds B-05 |
+| **R-32** | **Is the move still happening?** A customer wrote "they're just getting set up in there" and the owner reply says "we're still getting the place sorted" — at the current address | ⬜ | NAP, signage, interior photography. Supersedes the open half of R-02 |
+| **R-33** | **Photos of Mikayla's and Cleo's work, and a portrait of each** | ⬜ | Artist pages, studio Instagram, the site portfolio. All 97 photos on file are Roger's |
 
 ## D. Approvals — he has to see these before they ship
 
@@ -94,6 +103,10 @@ are quick.
 | **B-01** | 🚨 **How to handle Tattootopia.** Roger's prior shop, one mile up the same street, **and a BSC pro-bono client — BSC is advising two competing shops on one street** | ⛔ **Clint** | Gates the story, the About page, and any competitive copy. Live research 2026-09-05: **Roger is no longer listed on Tattootopia's artist page**. Pairs with **R-17** |
 | **B-02** | Approve the proposed positioning and tagline **before** they go to Roger | ⛔ **Clint** | Don't send **R-18/R-19** until this clears |
 | **B-03** | Assign the blog CTA standard alongside the `cts-` prefix, before post one | ⬜ BSC | `docs/blog-cta-standard.md`. Metal Man needed 15 CTAs rewritten because this was skipped |
+| **B-05** | 🚨 **Hold premium, or release it?** The shop takes walk-ins six days a week, has no minimum, and a 5★ reviewer calls it "price friendly". **A:** hold premium, which needs Roger to commit to a minimum and deposits (R-30). **B:** keep the work-led position and drop the ceiling: *considered work, and a room that is easy to walk into.* **BSC recommends B unless Roger commits to R-30 in writing** | ⛔ **Clint** | Gates final site copy, the GBP description and every headline. All brand docs were re-run 2026-10-11 to be true under either answer. `brand/positioning.md` §08, `brand/rebrand.md` |
+| **B-06** | Register `cathedraltattoostudio.com`. Still available 2026-10-11, five weeks after the first flag | ⬜ BSC | Everything downstream of hosting. ~$15 |
+| **B-07** | Audit the 163+ photos on the GBP against the quarantined and still-watermarked sets | ⬜ BSC | Guards against a competitor's watermark or licensed characters being live on the profile |
+| **B-08** | Approve or change the Claude Code spinner mod preview (`brand/mod/`) | ⬜ Clint | Internal tooling only. Not installed, not shipped |
 | **B-04** | Identify the blackletter face | ⬜ BSC | Partly resolves with **R-01**. Candidates listed in `brand/identity.md` §04 |
 
 ---
@@ -105,6 +118,8 @@ the document the answer unblocks.
 
 | Date | ID | Answer | Files updated |
 |---|---|---|---|
+| 2026-10-11 | **Live re-check** | Google Business Profile read in full: **6 reviews, 5.0, all answered** · hours **Mon–Thu 10–6, Fri–Sat 10–7, Sun closed** · 163+ photos · owner post 2026-10-06 · still "Add website" · still 1318 Florida Ave SW. Reviewers name Roger, Mikayla and Cleo; two disclose spend ($450–500, $500+); one says "price friendly"; three are about being made comfortable. Domain still unregistered. Instagram could not be re-read (login wall) | All of `brand/` re-run to v2; `brand/rebrand.md` (new); `brand/mod.json` + `brand/mod/` (new); `README.md`, `HANDOFF.md`, `CLAUDE.md` |
+| 2026-10-11 | **R-05** | Hours observed on the GBP. Not confirmed by Roger, but published by him | `brand/context.md`, `brand/copy-deck.md`, `brand/guidelines.md` |
 | 2026-09-05 | **R-07** | **No shop minimum. Studio open and trading.** Largest single tension with the premium position — zero reviews is fixed by time, no minimum is fixed only by a decision. BSC recommends $100–150 plus deposits; raised as **R-30**. ⚠️ "Open" recorded as trading; **not** treated as confirming walk-ins (R-12), since that is a separate publishable claim | `brand/context.md`, `brand/positioning.md`, `brand/messaging.md`, `brand/guidelines.md` |
 | 2026-09-19 | **R-10 UPDATE** | 🩸 **Cathedral DOES have its own Instagram: `@cathedral_tattoostudio`** (75 posts, 242 followers, bio leads "Taking walk-ins"). The 2026-09-05 note below concluded Instagram "is not Cathedral's" — that was wrong. The handle uses an **underscore**, which is why name-guessing missed it; it was found in Roger's own IG bio. Now linked on the GBP | `README.md`, GBP social profiles |
 | 2026-09-05 | **R-10** | **Roger is `@rc_tattoos` on Instagram: 6,667 followers, 2,029 posts** — confirmed against the handle burned into our own portfolio watermarks. Roughly 30× the studio Facebook page. Instagram was never missing; it just is not Cathedral's. TikTok unverified | `brand/naming.md` (new), `brand/audience.md`, `brand/architecture.md`, `brand/audit.md` |

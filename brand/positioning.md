@@ -1,8 +1,32 @@
 # Brand Positioning — Cathedral Tattoo Studio
 
-*2026-09-05. Built on `competitors.md` (tier ③, live research) and `audience.md`
-(tier ④, inferred). ⚠️ **Proposed — not client-approved.** Roger has confirmed
-nothing. Every claim below is checked against the guardrails in `context.md`.*
+*2026-09-05. **v2, 2026-10-11.** Built on `competitors.md` (tier ③, live research) and
+`audience.md` (now part-evidenced by six Google reviews). ⚠️ **Proposed — not
+client-approved.** Roger has confirmed nothing. Every claim below is checked against
+the guardrails in `context.md`.*
+
+> ## 🚨 v2 finding: the position is right about the work and wrong about the shop
+>
+> The 2026-09-05 position was written from Roger's portfolio and one Facebook post. It
+> described an **appointment-led, selective studio that does not contest convenience**.
+> The live shop, read on 2026-10-11 ①, is a **walk-in shop open six days a week**, with
+> three artists, whose customers praise it for being **comfortable, welcoming and
+> "price friendly"**.
+>
+> Those are not the same business, and a brand that describes the first while a
+> customer walks into the second breaks its promise at the door.
+>
+> **What v2 does about it.** It does not overturn premium, because that is Clint's
+> decision (**B-05** asks him to re-take it with this evidence). It does three things:
+> 1. **Removes every claim that is now false:** "appointment-led", "by appointment",
+>    "not for people who want a tattoo today", "does not contest convenience".
+> 2. **Keeps commissioned work as the lead** and makes walk-ins a plainly stated door
+>    rather than a headline.
+> 3. **Adds the one quality customers have actually written down: being put at ease.**
+>    It is the first proof in this package that did not come from us.
+>
+> **The position, restated for v2:** *considered work, and a room that is easy to walk
+> into.* §03 onward carries it. §08 lays out the two ways B-05 can go.
 
 ## 01 — Category definition
 
@@ -41,11 +65,11 @@ number (guardrail 3).
 
 | Competitor | Position | Territory owned |
 |---|---|---|
-| Safe Voyage | Convenience / generic | *Convenience.* Six-day hours, walk-ins, 200 yards away |
+| Safe Voyage | Convenience / generic | *Convenience.* Six-day hours, walk-ins, 200 yards away. ⚠️ v2: Cathedral now matches both |
 | Burning Lotus | Convenience-leaning / generic | *The trusted default.* ~168 reviews, 4.7 ③ |
 | Tattootopia | Considered / mildly distinct | *Established authority.* "Premier", "20+ years" |
 | Faithful | Considered / distinct | *Faith and family.* ~23 reviews, 94% ③ |
-| **Cathedral** | **Considered / most distinct** | **Premium commissioned work — unclaimed** |
+| **Cathedral** | **Declared: considered / most distinct. Live: mid-axis / most distinct** | **Premium commissioned work — unclaimed, and not yet how the shop runs** |
 
 **Unclaimed territory:** considered commission work with a real point of view,
 executed competently online. Faithful is nearest but its register is domestic and its
@@ -54,8 +78,8 @@ distinguishes. **Nobody local pairs a distinctive brand with working digital
 execution.**
 
 ⚠️ **The honest caveat.** Cathedral can take this territory on brand and execution
-but not on proof: zero reviews against Burning Lotus's 168. Positioning does not
-close that gap — reviews do.
+but is thin on proof: 6 reviews against Burning Lotus's ~168. Positioning does not
+close that gap — reviews do, and they have started.
 
 ## 03 — Positioning territory
 
@@ -84,12 +108,17 @@ on speed and volume cannot adopt it without dismantling its own economics.
 > built on exactly that kind of work: memorial portraits, religious black and grey,
 > and fine-line detail that has to be right the first time.**
 
+⚠️ **v2:** "its artists' portfolios" is only evidenced for Roger. Nothing is on file
+for Mikayla or Cleo (R-09). Until it is, write "the work" rather than implying all
+three share one specialism.
+
 **Strategic version (internal).**
 Cathedral competes in commissioned body art, not retail tattooing. It wins by
 matching an ecclesiastical brand to a portfolio that genuinely earns it, and by
 executing online at a level no competitor in Livingston Parish currently reaches. It
-does not compete on price, hours, tenure, or review volume — three of which it cannot
-win today and one of which it should never want.
+does not compete on price, tenure, or review volume. ⚠️ v2: "hours" is struck from
+this list. Cathedral now publishes six-day hours and competes on them whether the
+brand says so or not.
 
 **Human version (public-facing).**
 Some tattoos are decoration. Some you carry for the rest of your life. Cathedral is
@@ -110,16 +139,29 @@ Only what can be substantiated **today**. Each is marked with what it rests on.
 3. **Range without dilution.** Black-and-grey realism, fine line, dotwork,
    neo-traditional colour, lettering, cover-ups ① — breadth demonstrated in work, not
    claimed as "all styles."
-4. **Appointment-led, with availability published openly.** Roger already posts
-   month-by-month open dates ②. *This is a real behavioural proof of the positioning
-   and the competitors do not do it.*
+4. **Availability published openly.** Roger posts month-by-month open dates and
+   same-day walk-in openings ②. *Real behaviour, and the competitors do not do it.*
+   ⚠️ v1 called this "appointment-led". The shop takes walk-ins; do not say that.
 5. **The brand and the work agree.** The mark is ecclesiastical; the portfolio is
    religious and memorial-heavy. Rare in the category. ④
-6. ⏳ **Licensing and permits** — the natural fifth proof, and unusable. LDH has no
-   public registry; publish nothing until Roger sends numbers (guardrail 4).
+6. ✅ **People are made comfortable. NEW in v2, and the strongest proof here because
+   customers wrote it.** Three of five readable Google reviews are about ease:
+   "made the whole experience comfortable from start to finish" (Keely), "I am an
+   anxious person so that's a big deal for me" (Alesha), "Got my first ever tattoo
+   here... felt completely comfortable" (Hailey) ①.
+7. ✅ **Customers come back to a named artist.** "i strictly go to Cleo for all my
+   tattoos" (Kameryn); Alesha has had "a few" from Mikayla ①. Repeat custom inside
+   five months of trading.
+8. ✅ **Real money is already being spent.** Two reviewers disclosed $450–500 and
+   $500+ ①. *Internal evidence for the price ceiling. Never published as a price.*
+9. ✅ **6 Google reviews, 5.0, every one answered** ① (2026-10-11). Usable under the
+   rewritten guardrail 5: exact count, exact date, verbatim quotes only.
+10. ⏳ **Licensing and permits** — still unusable. LDH has no public registry; publish
+   nothing until Roger sends numbers (guardrail 4).
 
-**Proofs deliberately not used:** years in business (four months), awards (none
-known), reviews (zero), sterility/licensing (unverified), "premier" (unfalsifiable
+**Proofs deliberately not used:** years in business (under five months), awards (none
+known), sterility/licensing (unverified), "price friendly" (a customer's phrase and a
+fair one, but repeating it would put Cathedral in a price conversation), "premier" (unfalsifiable
 and Tattootopia's line), and **"premium" itself** — the position is demonstrated, not
 asserted.
 
@@ -140,8 +182,10 @@ refusal of small work — achievable, but harder and less forgiving (`context.md
 
 ## 06 — What this brand refuses to be
 
-- Cathedral is **not for people who want a tattoo today.** Safe Voyage is 200 yards
-  away and better at that. ⚠️ Revisit only when walk-ins actually go live.
+- ~~Cathedral is **not for people who want a tattoo today.**~~ ❌ **Struck in v2.**
+  Walk-ins are live and the studio calls itself a walk-in shop. What survives is
+  narrower: Cathedral **does not sell itself on speed.** You can walk in. The pitch is
+  still the work.
 - Cathedral **will never compete on price.** It is positioned **premium** — the top
   of the local market, not a mid shop charging slightly more. Local evidence supports
   the ceiling: this market already pays above the cheapest option ③.
@@ -173,17 +217,42 @@ Run against the skill's own red flags:
 | Red flag | Verdict |
 |---|---|
 | Could apply to any competitor | **Pass.** No local competitor claims reverence or the commission framing; the two nearest occupy convenience and family-faith |
-| Audience too broad to own | **Pass.** Narrow: one meaningful piece, one parish, appointment-led. Deliberately excludes walk-ins and price shoppers |
+| Audience too broad to own | **⚠️ Weakened in v2.** v1 passed by excluding walk-ins. The shop takes them, so the audience is wider than the position admits. Still ownable if the lead stays on considered work |
 | Differentiator is a table stake | **Pass.** Table stakes here are sterile/experienced/custom — all three are explicitly refused above |
 | Cannot be substantiated | **⚠️ Partial, and premium raises the bar.** Proofs 1–4 are verifiable now; proof 5 is inference. A premium position demands *more* evidence than a mid-market one, and Cathedral currently has zero reviews and no price floor. **The position is right and currently under-evidenced** — a brand promise the shop must be seen keeping |
 
-**Biggest risk to this position:** it is a quality claim from a shop with no social
-proof. Reverence is easy to assert and slow to prove. The mitigation is not better
-copy — it is reviews, healed-work documentation, and visible process. Treat review
-generation as the first growth priority once the address settles.
+**Biggest risk to this position (v2):** no longer the absence of proof. Six reviews
+exist and they are good. The risk is now **a gap between what the brand says and how
+the shop runs** — a selective, reverent register over a walk-in shop a customer calls
+"price friendly". Nothing in the six reviews supports "reverence"; all of it supports
+"skilled and easy to be around". The mitigation is to say only what the shop does,
+and to get B-05 decided before the site copy is written.
+
+## 08 — B-05: the two ways this can go (Clint's decision)
+
+| | **A. Hold premium, change the shop** | **B. Keep the work, drop the ceiling** |
+|---|---|---|
+| **Position** | Premium commissioned work, as set 2026-09-05 | Considered work in a room that is easy to walk into |
+| **Needs from Roger** | A minimum and deposits (R-30), walk-ins limited to set days or small flash, consult for large work | Nothing. It describes the shop as it runs today |
+| **Walk-ins** | Tolerated, never promoted | Stated plainly as one of two ways in |
+| **Proof available today** | Portfolio only. Reviews do not support it | Portfolio **and** all six reviews |
+| **Risk** | The brand promises a shop that does not exist yet, and Roger has shown no sign of wanting it | Gives up the empty "selective" seat; sits nearer Safe Voyage and Burning Lotus on convenience |
+| **Tagline "Work worth carrying"** | Fits | Still fits. It is about the work, not the booking model |
+
+**BSC recommendation: B, or A only if Roger commits to R-30 in writing.** A position
+is a description of how a business behaves. Roger chose walk-ins and six-day hours
+without being asked, which is the clearest statement of intent we have had from him.
+Option B loses nothing that was real: the mark, the portfolio, the plain voice, the
+named artists and the tagline all carry over unchanged. It only stops promising
+selectivity nobody at the studio has agreed to practise.
+
+**Until Clint rules, every doc in this package is written so that it is true under
+both.** That is why v2 removes false claims and adds evidenced ones, and changes
+nothing else.
 
 ## Gates before any of this is published
 1. Roger confirms the positioning is how he actually wants to work.
-2. Address resolved (guardrail 2).
+2. ~~Address resolved~~ ✅ done 2026-09-05.
 3. Ownership language settled (guardrail 1).
-4. Every line scrubbed against all seven guardrails in `context.md`.
+4. **B-05 decided** — premium held or released.
+5. Every line scrubbed against the guardrails in `context.md`.

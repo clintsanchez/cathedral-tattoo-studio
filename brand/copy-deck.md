@@ -1,4 +1,11 @@
-# Copy Deck v1 — Cathedral Tattoo Studio
+# Copy Deck v1.1 — Cathedral Tattoo Studio
+
+> **v1.1, 2026-10-11.** v1 said "booking is by appointment" in four places. That is
+> false: walk-ins are live. Every instance is corrected below. Reviews, hours and the
+> studio Instagram handle are added. ⚠️ **A GBP description is already live** and
+> mentions walk-ins; compare it with §1 before replacing it. We could not read the
+> live description text today.
+> Hero and intro copy are written to hold under either outcome of **B-05**.
 
 *2026-09-05. Written in the register set by `voice.md`, against the positioning in
 `positioning.md`, and scrubbed line by line against all eight guardrails.*
@@ -31,31 +38,32 @@ today.
 > gets planned before anything is drawn, so you know the size, the placement and the
 > number of sessions in advance.
 >
-> Booking is by appointment. Open dates are posted each month.
+> Walk in, or book ahead for larger pieces. Open dates are posted each month.
 >
-> Call or text (225) 301-9527 to get on the books.
+> Open Monday to Saturday. Call or text (225) 301-9527.
 
-*432 characters. Under the limit, no claims that need clearing.*
+*Under the 750 limit. No claims that need clearing.*
 
 **Services to list:** custom tattoo · black and grey · fine line · dotwork · lettering
 and script · colour · cover-ups · large-scale and sleeve work · memorial and portrait
 work.
 ⚠️ **Do not list piercing** until R-07 confirms it's live.
 
-**Attributes:** appointment required. ⚠️ Do not set "walk-ins welcome" (guardrail 6).
+**Attributes:** ✅ walk-ins welcome · appointments recommended for large work.
+❌ Do not set "appointment required". **Hours:** Mon–Thu 10–6, Fri–Sat 10–7, Sun closed.
 
 ---
 
 ## 2. Instagram
 
-**Studio account bio** (150 char limit)
+**Studio account bio** (150 char limit) — `@cathedral_tattoostudio`
 
 > Custom tattoo studio · Denham Springs, LA
 > Black and grey · fine line · lettering · cover-ups
-> By appointment. Open dates posted monthly.
+> Walk in or book ahead. Mon to Sat.
 > ↓ book
 
-*139 characters.*
+*Under 150. The live bio already leads with walk-ins; this keeps that and adds the work.*
 
 **Addition to `@rc_tattoos` bio** — per `architecture.md`, his account stays his, and
 simply gains the studio connection:
@@ -68,7 +76,7 @@ simply gains the studio connection:
 2–4. Three strongest pieces, one per style: portrait, fine line, large blackwork.
 5. Process: stencil on skin, before the first line.
 6. The space.
-7. Roger at work, credited by name.
+7. Each artist at work, credited by name: Roger, Mikayla, Cleo. ⚠️ Needs R-09.
 8. Healed work, captioned as healed. Nobody local does this.
 9. This month's open dates.
 
@@ -84,7 +92,7 @@ nobody a reason to follow it.
 > # Work worth carrying
 >
 > Custom tattoo work in Denham Springs. Black and grey, fine line, lettering and
-> cover-ups, booked by appointment and planned properly.
+> cover-ups. Walk in, or book ahead for the big ones.
 >
 > [ See the work ]   [ Check open dates ]
 
@@ -115,6 +123,16 @@ nobody a reason to follow it.
 >
 > **4. Then we tattoo it.**
 > Large pieces run across several sittings, spaced a few weeks apart to heal.
+
+**First time, or nervous about it** *(new in v1.1 — message E)*
+
+> Say so when you come in. We'll walk you through what happens before anything starts,
+> and you can ask whatever you want.
+>
+> *"I am an anxious person so that's a big deal for me."*
+> Alesha, Google review
+
+⚠️ One quote, verbatim, first name only. Re-check it is still live before launch.
 
 **Portfolio section intro**
 
@@ -149,6 +167,11 @@ nobody a reason to follow it.
 
 ⚠️ When R-03 clears, this is the first page to revisit.
 
+**Mikayla Paul · Cleo** — ⛔ **not written.** No surname for Cleo, no handles, no work
+on file, and no word on whether either wants to be named publicly (R-09). Same
+ownership-safe form when they are: *Tattoo artist at Cathedral Tattoo Studio.*
+⚠️ Applies to Mikayla especially, as the LLC's member of record (guardrail 1).
+
 ---
 
 ## 5. Booking and consult
@@ -177,7 +200,7 @@ Reference photos · Any dates that suit you · Name · Phone · Email
 
 ## 6. Review request
 
-Goal 2 is review volume and there are currently zero. Send this by text a few days
+Goal 2 is review volume: 6 at 5.0 on 2026-10-11. Send this by text a few days
 after the sitting, once it's healing well. Plain, no incentive, no pressure. **Never
 offer anything in exchange for a review.**
 
@@ -223,8 +246,9 @@ in the chair before it prints.
 | "Owner" / "founder" | Guardrail 1, until R-03 |
 | Years, "established", "experienced" | Guardrail 3. Entity is months old |
 | "Clean", "sterile", "licensed" | Guardrail 4, until R-04 |
-| Reviews, ratings, testimonials | Guardrail 5. There are none |
-| "Walk-ins welcome" | Guardrail 6, until R-12 |
+| Inflated review claims ("top-rated", rounded counts) | Guardrail 5, rewritten. One verbatim quote is used |
+| "By appointment", "appointment only" | False since 2026-09-19 |
+| "Price friendly" | A customer's phrase. Repeating it puts the brand in a price conversation |
 | Any price or "from $X" | Guardrail 8. No minimum exists |
 | "Premium", "luxury", "bespoke" | Position is expressed, not claimed |
 | "Premier", "best", "utopia" | Superlatives, and Tattootopia's language |
@@ -239,8 +263,8 @@ in the chair before it prints.
 | 2 | Address | ✅ cleared, used in GBP and aftercare only |
 | 3 | No tenure claims | ✅ none. "We're new" is the opposite of a tenure claim |
 | 4 | No licensing/sterility | ✅ none. Aftercare gives instructions, makes no claim |
-| 5 | No social proof | ✅ none |
-| 6 | No walk-ins | ✅ "by appointment" throughout |
+| 5 | Reviews accurate, verbatim | ✅ one quote, first name, unedited |
+| 6 | Walk-ins live | ✅ "walk in, or book ahead" throughout. No "by appointment" remains |
 | 7 | Differentiator | ✅ used as register, never asserted as Roger's claim |
 | 8 | No price claims | ✅ none. Deposit line held pending R-30 |
 

@@ -1,6 +1,6 @@
 # Brand Audit — Cathedral Tattoo Studio
 
-*2026-09-05. **Baseline audit.***
+*2026-09-05 baseline. **v3 re-run 2026-10-11 — 16/30.***
 
 > **Scored on what is live, not what is filed** — per the skill's own rule. The live
 > brand is the Google Business Profile and the Facebook page, and nothing else: there
@@ -11,6 +11,88 @@
 > Re-run this after the site launches to measure movement.
 
 ## Brand health scorecard
+
+### Re-run 2026-10-11 (v3) — scored on the live Google Business Profile
+
+**Live touchpoints audited ①:** the GBP (read in full today: hours, 5 of 6 reviews,
+all owner responses, the latest owner post). **Not re-read today:** Instagram (login
+wall) and Facebook; their last readings are 2026-09-19. There is still no website.
+
+| Dimension | v2 | **v3** | Status | Why it moved |
+|---|---|---|---|---|
+| Positioning clarity | 1 | **2** | 🔴 | The live brand can now be put in a sentence: *a walk-in tattoo shop in Denham Springs with skilled artists who put people at ease.* True, but it could describe a competitor, and it is not the position in `positioning.md` |
+| Visual identity | 3 | **3** | 🟡 | No change observable. 163+ photos on the GBP are unaudited against the quarantine list |
+| Messaging consistency | 2 | **2** | 🔴 | More is published, and it now **disagrees with the package**: live says walk-ins welcome, the copy deck said by appointment. Fixed in the docs today; nothing new is live |
+| Voice & tone | 2 | **3** | 🟡 | ⬆️ Owner responses on all six reviews and regular posts, in one consistent, plain, recognisable voice. With the logo removed you could now tell these were written by the same hand |
+| Audience alignment | 3 | **4** | 🟢 | ⬆️ Six-day hours, walk-ins stated, reviews answered, studio Instagram active. The v2 cap ("cannot exceed 3 until real customer input exists") is lifted: customer language exists |
+| Competitive differentiation | 2 | **2** | 🔴 | 6 reviews at 5.0 against ~168, and still no site. The mark remains the only visible difference |
+| **Overall** | **13** | **16 / 30** | 🟡 | **Three points in five weeks, all from things that shipped** |
+
+#### The primary finding: declared and live have split in two directions
+
+The skill asks whether production is *ahead of* the docs or *off* them. Here it is both.
+
+**Ahead of the docs (documentation debt — cleared today).** The package said zero
+reviews, one day of hours, no walk-ins, one artist, no studio Instagram. All five
+were stale. The live brand had moved on and the documents had not. Every brand file
+was re-run on 2026-10-11 to close this.
+
+**Off the docs (real drift — not ours to close).** The package positions Cathedral as
+premium, selective and appointment-led. The live shop is a walk-in shop with six-day
+hours, no minimum, and a happy customer calling it "price friendly". This is not
+stale documentation. It is the shop choosing a different model from the one the
+brand describes. **B-05** puts that decision to Clint. Until then the docs are
+written to be true either way.
+
+#### What's working (v3)
+
+1. **Review responses.** Specific, warm, short, artist-named. The best brand writing
+   currently live, and better than most competitors' whole sites.
+2. **The reviews themselves.** 5.0 across six, with repeat customers and disclosed
+   spend of $450–500+. Three artists praised by name.
+3. **GBP completeness.** Six-day hours, 163+ photos, active posts. Five weeks ago it
+   showed one day.
+4. **The owner posts teach.** The 2026-10-06 cover-up post is honest about limits
+   ("true cover-ups usually require twice the original size"). That is `voice.md`
+   in the wild.
+
+#### What's not working (v3), in priority order
+
+1. **🔴 No website and no domain.** "Add website" is still on the GBP, and
+   `cathedraltattoostudio.com` is still unregistered five weeks after the first flag.
+   *Impact:* every review and post currently sends interest nowhere.
+2. **🔴 The position and the shop disagree (B-05).** *Evidence:* table in
+   `context.md`. *Impact:* blocks final site copy; any headline written today risks
+   being untrue on launch day.
+3. **🟡 Two of three artists are invisible.** *Evidence:* customers name Mikayla and
+   Cleo; all 97 photos on file and the only artist bio are Roger's. *Impact:* a
+   customer who "strictly goes to Cleo" finds no trace of her.
+4. **🟡 Review volume.** 6 against ~168. Rate is roughly one a week.
+5. **🟡 A repeated closing line in responses** ("come back when you're ready for the
+   next one"). Small; see `voice.md` §09.
+6. **🟡 163+ GBP photos unaudited.** Some may be from the quarantined or
+   still-watermarked sets. Check before adding more.
+
+#### Priority recommendations (v3)
+
+**Immediate**
+- Register `cathedraltattoostudio.com`.
+- Clint decides **B-05**.
+- Ask Roger for the roster and a handful of photos from Mikayla and Cleo (**R-09**).
+  An email address is on file.
+- Audit the GBP photo set against `QUARANTINE-still-watermarked/` and `99-Reference/`.
+
+**Short-term (30–60 days)**
+- Build the site on the v2 package. Add its URL to the GBP the day it is live.
+- Keep review requests going after every sitting; vary the response sign-offs.
+- Photograph the three artists and the room once Roger says the fit-out is done.
+
+**Long-term**
+- Re-run this audit two weeks after the site launches. **Target stays 22/30.**
+  Positioning, messaging and differentiation each have a point or two that a live
+  site alone will deliver.
+
+---
 
 ### Re-run 2026-09-05 (v2)
 

@@ -1,7 +1,8 @@
 # Brand Architecture — Cathedral Tattoo Studio
 
-*2026-09-05. Formalizes the decision Clint made 2026-09-04 and extends it to cover
-the artists being hired. Source tiers per `context.md`.*
+*2026-09-05. **v2, 2026-10-11:** the roster is three artists, not one, and the studio
+has its own Instagram. Formalizes the decision Clint made 2026-09-04 and extends it
+to cover every artist. Source tiers per `context.md`.*
 
 Cathedral has no product portfolio. The real architecture problem is the one every
 tattoo shop has and most handle by accident: **the shop's brand and the artists'
@@ -11,7 +12,13 @@ this wrong and the shop becomes a room that famous-ish artists pass through,
 carrying their audience out the door when they leave.
 
 Roger's RC monogram is on nearly every portfolio photo. They are actively recruiting
-artists and piercers ②. So this needs deciding now, before there is a roster.
+artists and piercers ②. ~~So this needs deciding now, before there is a roster.~~
+
+🩸 **v2: there already is a roster.** Customers name **Mikayla Paul** and **Cleo** as
+their artists in Google reviews ①, and the studio Instagram bio mentions an apprentice.
+v1 was written as though Cathedral were one chair. The rule below was right; it was
+simply late, and it now has to be applied to people who are already working there
+rather than set at the point of hire.
 
 ## 01 — Portfolio audit
 
@@ -62,8 +69,10 @@ who made it. Those are different surfaces and they never trade places.
 
 ```
 CATHEDRAL TATTOO STUDIO          ← the brand. Owns all chrome.
-├── Roger Cazares (RC)           — artist attribution
-├── [artist 2 — TBD]             — artist attribution
+├── Roger Cazares (RC)           — artist attribution. IG @rc_tattoos
+├── Mikayla Paul                 — artist attribution. Handle and mark unknown (R-09)
+├── Cleo [surname unknown]       — artist attribution. Handle and mark unknown (R-09)
+├── [apprentice — unconfirmed]   — credited only if and when Roger confirms (R-09)
 ├── [piercer — TBD]              — artist attribution
 └── CTS badge                    — studio secondary, not a sub-brand
 ```
@@ -140,9 +149,16 @@ it is throwing away the only distribution the business has.
 
 **The migration, concretely:**
 
-| | `@rc_tattoos` (6,667) | `@cathedraltattoostudio` (studio) |
+🩸 **v2 correction.** The studio account is **`@cathedral_tattoostudio`** — with an
+underscore — **242 followers, 75 posts** (read 2026-09-19), bio leading "Taking
+walk-ins". It is theirs, it is active, and it is linked on the GBP. The empty
+`@cathedraltattoostudio` (no underscore) is a different account and no longer matters
+much; R-28 is downgraded. The asymmetry is therefore about **27:1** on Instagram, not
+30:1 against Facebook, and the migration below is already under way without us.
+
+| | `@rc_tattoos` (6,663) | `@cathedral_tattoostudio` (studio, 242) |
 |---|---|---|
-| **Now** | Primary. Keep posting exactly as he does | Recover the handle (**R-28**), then set it up properly: avatar, bio, link, first 9 posts |
+| **Now** | Primary. Keep posting exactly as he does | Already live with 75 posts. Audit it against `guidelines.md`: avatar, bio, link, pinned post |
 | **Bio** | Add "Tattooing at Cathedral Tattoo Studio, Denham Springs" + link | Full studio bio, booking link |
 | **Captions** | Credit the studio naturally, not as a signature block | — |
 | **Content** | Roger's work, his voice, his account | Studio-level: the space, availability, artists, process |
@@ -165,6 +181,10 @@ it is throwing away the only distribution the business has.
    `context.md`: **a website and a review base are the only assets that cannot walk
    out of the door.**
 
+✅ **v2: apply it to Mikayla and Cleo now.** Their accounts stay theirs; the studio
+account credits them by name and shows their work. A studio feed that only shows
+Roger tells a customer who "strictly goes to Cleo" that the shop has not noticed her.
+
 ⚠️ **Apply the same reasoning at every hire.** A new artist arriving with a following
 is the same situation in miniature. Their account stays theirs; the studio credits
 them; the studio never becomes a repost feed for its staff.
@@ -181,6 +201,17 @@ them; the studio never becomes a repost feed for its staff.
   against the guardrails in `context.md`.
 - **Review cadence:** at each hire, and at the relocation. Both are moments when new
   marks and new surfaces appear.
+
+## v2 — what the roster changes
+
+1. **"Named artists" is now a plural claim and we can only evidence one.** All 97
+   portfolio photos are Roger's. Until work from Mikayla and Cleo is on file, the site
+   cannot honestly present three artist pages of equal weight.
+2. **Guardrail 1 gets sharper.** Mikayla Paul is the LLC's sole member of record *and*
+   a working artist. Her bio is the one most likely to attract the word "owner". It
+   stays "tattoo artist at Cathedral Tattoo Studio" until R-03 clears, same as Roger's.
+3. **Attribution on the GBP is already happening.** The owner responses name Roger,
+   Mikayla and Cleo. That is the architecture working. Keep it.
 
 ## Open items
 - Piercing: if it becomes a real service line, it is `Cathedral` + descriptor, not a

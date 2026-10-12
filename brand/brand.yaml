@@ -1,7 +1,7 @@
 schema_version: 1
 slug: cathedral-tattoo-studio
 name: Cathedral Tattoo Studio
-one_liner: A gothic, craft-led tattoo studio in the Denham Springs and Baton Rouge area, built on black-and-grey religious, memorial and fine-line work.
+one_liner: A gothic, craft-led tattoo studio in Denham Springs doing considered black-and-grey, fine-line and memorial work, in a room that is easy to walk into.
 tagline: "Work worth carrying"  # ⚠️ proposed, not client-approved
 archetype: ""  # blocked - requires client input, see strategy.md 02-04
 status: active
@@ -12,8 +12,8 @@ links:
   domain: ""
   repo: ""
 created: 2026-09-05
-updated: 2026-09-05
-version: 1
+updated: 2026-10-11
+version: 2
 artifacts:
   context: true
   naming: true
@@ -28,3 +28,6 @@ artifacts:
   guidelines: true
   audit: true
   copy_deck: true
+  audience: true
+  rebrand: true   # assessment only - verdict: no rebrand, pre-launch positioning correction
+  mod: false      # preview generated in mod/, awaiting approval - see mod.json

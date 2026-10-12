@@ -1,6 +1,6 @@
 # Brand Strategy — Cathedral Tattoo Studio
 
-*2026-09-05. The synthesis document. Reads on top of `context.md`, `positioning.md`,
+*2026-09-05. **v2, 2026-10-11.** The synthesis document. Reads on top of `context.md`, `positioning.md`,
 `audience.md`, `competitors.md`, `voice.md`, `messaging.md`, `architecture.md` and
 `identity.md` rather than repeating them.*
 
@@ -16,6 +16,13 @@
 > international competitor sets. Adapted to a single-location Louisiana service
 > business.
 
+> **🩸 v2 in one paragraph.** The strategy was written for a shop we had not watched
+> operate. Five weeks on, the live Google profile shows a walk-in shop open six days a
+> week, three named artists, and six 5-star reviews that praise comfort and a welcoming
+> room. The work, the mark, the voice and the two engagement goals all stand. **What
+> does not stand is the claim that Cathedral is appointment-led and refuses volume.**
+> §10 and §11 are revised, and the decision that follows is Clint's (**B-05**).
+
 ---
 
 ## 01 — What is Cathedral Tattoo Studio?
@@ -29,9 +36,11 @@ fifteen-question interview guide are in `story.md`. **Do not draft around this.*
 
 What can be said today, attested only: Cathedral Tattoo Studio is a tattoo studio
 operating in the Denham Springs area, registered as a Louisiana LLC on 5/21/2026 ①,
-publicly active since June 2026 ①, relocating to a larger space and hiring as of
-August 2026 ②. Roger Cazares tattoos there and signs his work RC ①. The work on file
-is dominated by black-and-grey realism, religious and memorial pieces, fine-line
+publicly active since June 2026 ①. A move to a larger space and hiring were announced
+in August 2026 ②; as of 2026-10-11 it is still at 1318 Florida Ave SW, open six days a
+week and taking walk-ins ①. Three artists are named by customers: Roger Cazares, who
+signs his work RC, Mikayla Paul, and Cleo ①. The work on file is all Roger's and is
+dominated by black-and-grey realism, religious and memorial pieces, fine-line
 dotwork, lettering and cover-ups ①.
 
 ---
@@ -103,13 +112,14 @@ signage, embroidery and light-background use remain uncovered and resurface at t
 licensing numbers remain, and until they clear, the About page, bios, story,
 recruitment copy and every trust claim stay blocked.
 
-**Exist in search.** No website, no reviews, one published day of opening hours ①.
+**Exist in search.** ✅ Half done by 2026-10-11: six-day hours, 163+ photos, owner
+posts and 6 reviews are on the GBP ①. Still no website and no domain.
 Competitors have broken or absent websites (`competitors.md`), so competent execution
 alone is a real advantage here.
 
-**Generate the first reviews.** Zero against Burning Lotus's ~168 ③. This is the
-largest single competitive gap and no amount of positioning closes it. It should begin
-the week the address settles.
+**Generate reviews.** ✅ Started: **6 at 5.0, all answered** ①, against Burning Lotus's
+~168 ③. Still the largest competitive gap. The owner responses are in the brand voice
+and are, today, the best live example of it.
 
 **Fill the new location.** The client's own stated intent ②, and the commercial reason
 the rest exists.
@@ -141,9 +151,9 @@ Three personas — Danielle (memorial), Marcus (large-scale project), Hailey (fi
 line) — are developed in full in `audience.md`, along with who the brand is explicitly
 *not* for. Not repeated here.
 
-⚠️ All of it is inferred. Zero reviews, no interviews, no analytics. `audience.md`
-closes with five questions for Roger that would replace the entire document with
-something real.
+⚠️ v2: mostly inferred, with one exception. A fourth, **evidenced** audience now sits
+beside the three personas: the nervous or first-time client, described in customers'
+own words in `audience.md`. No interviews or analytics yet.
 
 ---
 
@@ -185,9 +195,9 @@ Five named competitors are profiled from live research in `competitors.md`. Summ
 | Competitor | Territory owned | Key weakness | How Cathedral differs |
 |---|---|---|---|
 | **Tattootopia** ⚠️ | Established authority. "Premier", "20+ years" | Asserts quality rather than demonstrating a point of view | ⚠️ Roger's prior shop and a BSC client. Cathedral never references it |
-| **Faithful** | Faith and family. ~23 reviews, 94% ③ | Website does not load | Cathedral is reverent, not denominational |
+| **Faithful** | Faith and family. ~23 reviews, 94% ③ | Site loads only over insecure http | Cathedral is reverent, not denominational |
 | **Burning Lotus** | The trusted default. ~168 reviews, 4.7 ③ | Domain dead; "all styles" is a positioning vacuum | Cathedral specialises visibly rather than claiming range |
-| **Safe Voyage** | Convenience. Six-day hours, walk-ins | Thin, decade-stale site | Cathedral is appointment-led and does not contest convenience |
+| **Safe Voyage** | Convenience. Six-day hours, walk-ins | Thin, decade-stale site | ⚠️ v2: Cathedral now has the same hours and takes walk-ins. It differs on the work and the mark, not the model |
 | **Cipher** | Negligible presence | — | Not a brand threat |
 
 **The category read:** everyone says clean, experienced, custom. Two of the five have
@@ -219,6 +229,16 @@ worth waiting for. That is a real moat, and it closes as soon as the shop grows.
 🚨 The word itself is never used: premium is expressed through restraint, selectivity
 and craft evidence (`context.md`, `voice.md`).
 
+🚨 **v2: the structural argument above has a hole in it.** It says Cathedral can take
+the selective seat because it "is small enough to refuse volume". It is not refusing
+volume. It is a walk-in shop with six-day hours and no minimum. The moat described is
+one the shop has not chosen to dig. `positioning.md` §08 sets out the two honest
+options; BSC recommends releasing the premium ceiling unless Roger commits to a
+minimum and deposits (R-30).
+
+**Working position until B-05 is decided:** *considered work, and a room that is easy
+to walk into.* True under either outcome.
+
 **Map.** *Convenience ← → Considered commission* against *Generic presentation ← →
 Distinct point of view.* Safe Voyage and Burning Lotus hold convenience/generic;
 Tattootopia holds considered/mildly-distinct; Faithful holds considered/distinct
@@ -238,15 +258,19 @@ without looking borrowed. The mark is not a costume here, it is a description. T
 is the whole strategy, and it is why the recommendation is to spend on the identity
 system rather than on claims.
 
-What it refuses is equally load-bearing. Cathedral does not compete on price, hours,
-tenure or review volume, and three of those it cannot win today. It makes no claim
+**v2 adds a second, customer-written difference: people are put at ease here.** It is
+in three of five reviews ① and no competitor's brand claims it.
+
+What it refuses is equally load-bearing. Cathedral does not compete on price, tenure
+or review volume. ⚠️ v2: it now competes on hours whether it means to or not. It makes no claim
 about sterility, licensing, ownership or experience, because none can be substantiated
 (`context.md`). It does not answer the shop up the street. What is left is narrow and
 honest: the work, the plan, the attribution, and the open dates. ⚠️ **This is a brand
 promise with thin evidence behind it.** Reverence is easy to assert and slow to prove,
 and the only thing that converts it from claim to fact is reviews from people who
-experienced it. That is the strategy's central risk and it is operational, not
-creative.
+experienced it. ⚠️ **v2: the reviews came, and they do not say "reverence". They say
+"comfortable".** The strategy should follow the evidence: keep the weight in the work
+and the mark, and let the words be about ease.
 
 ---
 
@@ -259,7 +283,7 @@ Five options are developed with style and rationale in `messaging.md`. Ranked:
    change.
 2. **Take the time it takes** — captures the unhurried quality; slightly passive.
 3. **For the ones that matter** — warm; ambiguous between people and pieces.
-4. **Commissioned, not walked in** — sharpest, but ⚠️ expires when walk-ins go live.
+4. ~~**Commissioned, not walked in**~~ — ❌ **retired 2026-10-11.** Walk-ins are live.
 5. **Black and grey, done right** — most searchable, but narrows the brand to one
    style.
 
@@ -272,7 +296,9 @@ out loud.
 
 | # | Blocker | Unblocks |
 |---|---|---|
-| 1 | **Vector logo** | The entire identity system: favicon, OG card, print, signage, real tokens, `brand-guidelines` |
+| 1 | ~~Vector logo~~ ✅ **closed 2026-09-05** — ships as raster | Digital is unblocked. Print, signage, embroidery remain uncovered |
+| 0 | 🚨 **B-05: hold or release premium (Clint)** | Site copy, GBP description, every headline. **New in v2 and now first in the queue** |
+| 9 | **Roster (R-09)** | Artist pages, attribution, any claim about "our artists" |
 | 2 | ~~Address~~ ✅ **resolved 2026-09-05** | ~~Location page, schema, citations, GBP, print~~ all unblocked. ⚠️ Move date still open |
 | 3 | **Ownership language** | About page, bios, story, recruitment copy |
 | 4 | **Licensing numbers** | Any trust or compliance claim |
@@ -281,6 +307,6 @@ out loud.
 | 6 | **The origin interview** | `story.md`, and §01 above |
 | 7 | **Tattootopia ruling (Clint)** | Story, About page, any competitive copy |
 
-Items 1–4 and 6 are in the drafted client email
-(`06-Reports/client-asks-email-draft.md`). **Item 5 is not, and item 7 is BSC's own
-call.** Both should be added before it goes out.
+The drafted client email (`06-Reports/client-asks-email-draft.md`) predates all of
+v2. **Regenerate it from `CLIENT-ASKS.md` before sending**; an email address for Roger
+is now on file.

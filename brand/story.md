@@ -2,7 +2,27 @@
 
 ## ⛔ Not written. This is a scaffold and an interview guide.
 
-*2026-09-05. Deliberately incomplete.*
+*2026-09-05. **Re-run 2026-10-11: still blocked, and correctly so.** Nothing Roger has
+said has reached us. Two of the four blockers have moved, though, and the interview
+is now easy to schedule.*
+
+> **v2 status of the four blockers**
+> 1. **Ownership** — unchanged. Sharper, if anything: Mikayla Paul is the member of
+>    record *and* a working artist customers name, and Roger is "Primary owner" on the
+>    Google profile. Both facts are true and neither settles the wording.
+> 2. **The Tattootopia arc** — unchanged. B-01 is still Clint's.
+> 3. **The villain** — ✅ **eased.** The reviews supply a villain that is nobody's
+>    neighbour: *being rushed, judged or talked down to*. Customers describe its
+>    opposite in their own words. A story can be aimed at that without pointing at
+>    any shop.
+> 4. **Nothing is known** — ✅ **partly eased.** We still know nothing of Roger's
+>    motives. We do now know what the shop is like to be in, from five customers.
+>
+> **What changed practically:** an email address is on file
+> (`cathedraltattoostudio25@gmail.com`), so R-13 can be requested today.
+>
+> **And the story is no longer one person's.** Three artists work there. Ask whether
+> this is Roger's story, Roger and Mikayla's, or the shop's. Questions 15–17 are new.
 
 The `brand-story` skill asks for a 600–900 word origin narrative, a 150–200 word
 short version, and a one-line origin. **All three are blocked, and writing them
@@ -47,6 +67,10 @@ Attested only:
 - Grand-opening flash event 6/28/2026 ①
 - A move to a larger location announced 8/27/2026, with walk-ins and hiring ②
 - Roger Cazares tattoos there and signs his work RC ①
+- Walk-ins live by 9/19/2026 ②; six-day hours published by 10/11/2026 ①
+- Mikayla Paul and Cleo tattoo there, named by customers ①
+- Six Google reviews, all 5 stars, by 10/11/2026 ①
+- A customer, a month before 10/11: "they're just getting set up in there" ①
 
 That is a timeline, not a story. **Do not dress it up as one.** ⚠️ Note the skill's
 own rule against opening with a founding year — which is the only opening this
@@ -85,6 +109,12 @@ client's own words, lightly trimmed.
 14. How do you want your previous shop handled, if at all? My default is not to
     mention it.
 
+**The people — new in v2**
+15. Who works here, and how did each of them come to? (Mikayla, Cleo, the apprentice.)
+16. Customers say they felt comfortable, including people who were anxious or getting
+    a first tattoo. Is that deliberate? What do you do to make it happen?
+17. You opened as a walk-in shop. Was that always the plan?
+
 ## Tone calibration — decided in advance
 
 When the answers arrive, write it:
@@ -105,5 +135,6 @@ When the answers arrive, write it:
 - [ ] Interview recorded
 - [ ] Ownership language settled with Roger (guardrail 1)
 - [ ] Clint's ruling on how Tattootopia is handled
-- [ ] Draft written in Roger's own words, checked against all seven guardrails
+- [ ] Whose story it is decided: Roger's, the founders', or the shop's
+- [ ] Draft written in Roger's own words, checked against the guardrails
 - [ ] Roger reads it aloud and confirms he would actually say it

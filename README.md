@@ -14,9 +14,10 @@ the Facebook page. Tier is marked on every fact.
 | Phone | (225) 301-9527 → `tel:+12253019527` | GBP only |
 | Email | **cathedraltattoostudio25@gmail.com** | GBP People and access, 2026-09-19 — Roger is Primary owner |
 | Category | Tattoo shop (GBP) / Tattoo & Piercing Shop (FB) | both |
-| Hours | Friday 10 AM–7 PM is the only day published | GBP |
-| Website | none — GBP still shows "Add website" | GBP |
-| Reviews | zero on both platforms | GBP + FB |
+| Hours | **Mon–Thu 10 AM–6 PM · Fri–Sat 10 AM–7 PM · Sun closed** | GBP, 2026-10-11 |
+| Website | none — GBP still shows "Add website"; domain still unregistered | GBP + whois, 2026-10-11 |
+| Reviews | **6 on Google, 5.0, all answered** · 1 on Facebook (2026-09-19) | GBP, 2026-10-11 |
+| Booking | walk-ins and appointments | Roger's post 2026-09-19; GBP |
 | FB page | created June 9, 2026 · 217 followers · single admin · no ads running | FB Page transparency |
 | Grand opening | Flash event 6-28-26 | FB social graphic |
 
@@ -88,7 +89,12 @@ Two marks exist and are NOT the same thing:
 
 ## Brand package (`brand/`)
 Built 2026-09-05 with the [`cofoundy/brand-skills`](https://github.com/cofoundy/brand-skills)
-pipeline. All 15 skills run. `brand.yaml` is the manifest.
+pipeline. **All 16 skills re-run 2026-10-11 (v2)** against the live Google Business
+Profile. `brand.yaml` is the manifest.
+
+🚨 **One open decision gates site copy: B-05, hold or release premium.** The live shop
+is a walk-in shop open six days a week; the September package called it
+appointment-led. See `brand/positioning.md` §08.
 
 | File | What it is |
 |---|---|
@@ -104,8 +110,13 @@ pipeline. All 15 skills run. `brand.yaml` is the manifest.
 | `naming.md` | Domain + handle availability, prior art |
 | `guidelines.md` | **Digital brand book v1** |
 | `copy-deck.md` | **Deployable copy.** GBP, IG, site, artist page, review request, aftercare |
-| `audit.md` | Brand health. v2: 13/30 live |
+| `audit.md` | Brand health. **v3: 16/30 live** |
 | `story.md` | ⛔ Blocked. Interview guide only |
+| `rebrand.md` | Rebranding assessment. Verdict: no rebrand, a pre-launch correction |
+| `mod.json`, `mod/` | Claude Code spinner mod. Preview only, **not approved or installed** |
+
+**Working position until B-05 is decided:** *considered work, and a room that is easy
+to walk into.*
 
 **Decisions taken 2026-09-05:** address confirmed · logo ships as-is · differentiator
 adopted · **position set to premium** · goals set to *get found online* + *build review
@@ -148,12 +159,14 @@ marketing campaigns around them.
 
 ## Open asks for the client
 🚨 Full register with statuses: `CLIENT-ASKS.md`. Summary:
-1. ✅ Address confirmed 2026-09-05 — move date and destination still open
-2. Real weekly hours after the move
-3. Owner email + preferred booking contact
-4. Vector logo files (AI/EPS/SVG), and unwatermarked originals of the prior-shop portfolio
-5. Service list and price floor; is piercing live yet
-6. Artist roster after hiring
+1. ✅ Address confirmed 2026-09-05 — is the move still happening? (R-32)
+2. ✅ Weekly hours observed on the GBP 2026-10-11
+3. ✅ Email on file — preferred booking route still open
+4. Unwatermarked originals of the prior-shop portfolio (vector logo closed: ships as-is)
+5. Service list; is piercing live; will he set a minimum and deposits (R-30)
+6. 🚨 **Artist roster: Cleo's surname, handles, the apprentice, and photos of
+   Mikayla's and Cleo's work** (R-09, R-33)
 7. Louisiana shop/artist license numbers
-8. Instagram / TikTok handles
-9. Domain preference — cathedraltattoostudio.com is unregistered
+8. ✅ Instagram handles known — TikTok still unverified
+9. Domain — cathedraltattoostudio.com still unregistered 2026-10-11 (B-06)
+10. The 15-minute call: story, vision, mission, values, ownership wording (R-13)

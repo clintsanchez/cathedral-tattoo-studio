@@ -71,6 +71,7 @@ has identified yet; the vector or the source file will settle it.
   intended attribution, not a defect.
 
 ## Conversion model
-Appointment-led, not retail. Primary CTA is booking; the phone is the secondary
-action. ⚠️ Walk-ins are promised at the new location but are not live yet —
-do not put "walk-ins welcome" anywhere until Roger confirms the move.
+Walk-ins and booked work, both (corrected 2026-10-11; this line used to say
+"appointment-led", which is false). Primary CTA is booking for larger pieces; the
+phone is the secondary action; hours and "walk in, or book ahead" are stated plainly.
+⚠️ Never "by appointment". See **B-05** in `CLIENT-ASKS.md` before writing headlines.

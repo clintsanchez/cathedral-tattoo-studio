@@ -1,9 +1,18 @@
 # Target Audience — Cathedral Tattoo Studio
 
-*2026-09-05. ⚠️ **Entirely inferred (④).** No client interview, no customer
-interviews, zero reviews on either platform, and no analytics — there is no website.
-The evidence base is 97 portfolio photos, the client's own posts ②, and language
-lifted from *competitors'* reviews ③.*
+*2026-09-05. **v2, 2026-10-11.** ⚠️ **Still mostly inferred (④), but no longer
+entirely.** Six Google reviews now exist ① and five could be read in full. There is
+still no client interview and no analytics. The evidence base is 97 portfolio photos
+(all Roger's), the client's own posts ②, competitors' reviews ③, and now Cathedral's
+own customers in their own words ①.*
+
+> **🩸 What the reviews changed.** v1 described one customer: an adult carrying a
+> heavy, planned piece. The reviews describe a second one that v1 explicitly excluded:
+> **the nervous or first-time client who walked in and was made comfortable.** Not one
+> of the five reviews mentions a memorial, a portrait or religious work. Five reviews
+> is a tiny sample and it does not disprove the portfolio. It does mean the document
+> was describing Roger's best work rather than the shop's actual front door. v2 holds
+> both, and says which parts are evidenced.
 
 > **How to use this.** Treat every persona below as a **hypothesis to test**, not a
 > finding. The fastest way to replace this document with something real is to ask
@@ -25,6 +34,14 @@ someone who will not ruin it. They are choosing an artist, not a shop. Their
 frustration with the category is the same one the category creates for itself:
 every shop shows a grid of photos and says "custom, all styles, clean and sterile,"
 which gives a person deciding on a memorial portrait almost nothing to decide with.
+
+**v2 addition — the second customer ①.** Alongside the planner there is the person
+who is nervous about the whole thing: a first tattoo, or an anxious client who has
+had bad experiences of being rushed or judged. They are not choosing on portfolio
+depth. They are choosing on whether the room feels safe. Three of five reviews are
+from this person, and two of the three named the artist who put them at ease.
+The two customers are not in conflict. Both are buying *being taken seriously*; one
+needs it for the piece and the other needs it for themselves.
 
 ## 02 — Primary audience profile
 
@@ -109,7 +126,29 @@ values an artist who keeps a schedule.
   scheduling honesty he is looking for, and the portfolio shows large-scale religious
   black and grey ①.
 
+### ✅ The first-timer — evidenced, not invented
+*"I am an anxious person so that's a big deal for me."* — Alesha, Google review ①
+*"Got my first ever tattoo here... I felt completely comfortable throughout."* — Hailey ①
+
+No name or age is invented for this persona, because for once the customer's own
+words exist. What the reviews say about them:
+
+- **Goals:** to get through it without feeling stupid, rushed or judged.
+- **What they noticed:** "atmosphere", "cleanliness", "professionalism", "kind, funny,
+  and welcoming", "patient", "makes me feel very welcomed".
+- **What they did next:** came back. Alesha has had "a few" from Mikayla; Keely says
+  "I'll definitely be coming back for more".
+- **How they arrive:** unknown, but the shop takes walk-ins and Alesha recommends
+  "giving them a call for a tattoo consultation". Both doors are in use.
+- **Spend:** not small. Alesha disclosed $450–500.
+- **Hesitates at:** ⚠️ inferred — a brand that looks severe. A black-and-gold gothic
+  mark can read as intimidating to exactly this person. The plain, warm voice is what
+  offsets it, and the owner responses on the GBP already do this well.
+- **How Cathedral solves it:** by doing what the reviews say it already does, and by
+  saying so plainly: you can ask anything, nobody will rush you.
+
 ### Hailey, 24 — dental assistant, Baton Rouge
+*(invented persona, v1 — the name coincides with a real reviewer and is unrelated)*
 *"I want something fine-line and delicate, and I don't want to feel judged."*
 
 Two small pieces. Wants a fine-line floral or dotwork piece on the ribs or sternum.
@@ -133,9 +172,23 @@ atmosphere — the shop has to feel clean, calm and unintimidating.
 
 ## 04 — Audience language
 
-⚠️ **No Cathedral customer language exists** — zero reviews, thin comment volume. The
-phrases below come from *competitors'* review text ③ and from the client's own posts
-②. Replace with real language the moment reviews start.
+✅ **Cathedral's own customers, verbatim** — Google reviews read 2026-10-11 ①:
+
+| Theme | Their words |
+|---|---|
+| Comfort | "made the whole experience comfortable from start to finish" · "felt completely comfortable throughout the entire experience" · "she makes me feel very welcomed and comfortable" |
+| Anxiety, first time | "I am an anxious person so that's a big deal for me" · "Got my first ever tattoo here" |
+| The people | "kind, funny, and welcoming" · "professional, patient" · "respectful" |
+| The craft | "attention to detail, line work, shading, and overall creativity" · "Quality is unreal" · "her work is amazing" |
+| Being listened to | "He took my ideas and brought them to life even better than I imagined" |
+| Loyalty to an artist | "i strictly go to Cleo for all my tattoos" · "Mikayla has done a few tattoos for me" |
+| Price | "price friendly" |
+| Outcome | "I'm obsessed with my leg and have already gotten so many compliments" |
+
+**What is absent matters as much:** nobody wrote about meaning, memorials, faith,
+planning or sittings. The words customers reach for are *comfortable, welcoming,
+talented, patient*. Use those. The older phrases below are competitors' customers ③
+and the client's own posts ②, kept for comparison.
 
 - **Problem, as they say it:** "I want to get my [person] tattooed and I want it done
   right." · "I've got one I need covered up." · "I want to finish my sleeve." ④
@@ -156,9 +209,12 @@ brand-poetic language.
 
 ## 05 — Who this brand is not for
 
-- **The walk-in impulse buyer.** Cathedral is appointment-led and, until the move,
-  cannot take walk-ins at all. Safe Voyage owns that customer 200 yards away.
-- **The price shopper, at any level.** ⚠️ Sharpened by the premium position: Cathedral
+- ~~**The walk-in impulse buyer.**~~ ❌ **Struck in v2. This was wrong.** Cathedral
+  takes walk-ins six days a week and its reviews include a first-timer. What remains
+  true: the brand does not *pitch* to impulse. It welcomes the walk-in and leads with
+  the work.
+- **The price shopper, at any level.** ⚠️ v2: a customer calls the shop "price
+  friendly", so whether this exclusion is real depends on **B-05**. Sharpened by the premium position: Cathedral
   is not competing on rate at all, and should expect — and accept — losing enquiries on
   price. Local evidence says quality buyers already pay up ③. A brand that flinches
   here is not premium.
@@ -182,8 +238,11 @@ fine-line proof. Segment the portfolio by what the piece *is*, not by style jarg
 **Channel** — ⚠️ **Revised 2026-09-05.** Instagram, not Facebook, is the real
 channel: `@rc_tattoos` carries 6,667 followers and 2,029 posts against the studio
 Facebook page's 217 ① (`brand/naming.md`). Plan around Instagram first and treat
-Facebook as secondary. TikTok remains unverified. Google is the intent channel and Cathedral is invisible
-there — no website, no reviews. ⚠️ Local search work is gated on the address.
+Facebook as secondary. TikTok remains unverified. Google is the intent channel. ✅ **v2:
+Cathedral is no longer invisible there** — the GBP has six-day hours, 6 reviews at
+5.0, 163+ photos and regular owner posts. What is missing is the website the GBP
+should point to. The studio's own Instagram is `@cathedral_tattoostudio` (242
+followers, 75 posts, read 2026-09-19).
 
 **Voice** — plain, warm, direct, unhurried. Match the register of the client's own
 posts ②, not the gothic drama of the mark. Never intimidating, never salesy, never
@@ -195,6 +254,8 @@ what it costs. Every one of these is an operational habit, not a brand asset —
 is why they are worth writing down before the roster grows.
 
 ## Validate this document by asking Roger
+0. **New in v2:** what share of the week is walk-ins, and what do walk-ins usually get?
+   And what do Mikayla and Cleo mostly tattoo? Every style claim here is Roger's work.
 1. Last twenty bookings — what, why, how they found you.
 2. Split of memorial/portrait vs. fine-line vs. large blackwork.
 3. How far do people actually drive?

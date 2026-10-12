@@ -1,8 +1,26 @@
 # Competitor Brand Analysis — Cathedral Tattoo Studio
 
-*Researched 2026-09-05 from live public sources. Tier ③ unless marked otherwise.
+*Researched 2026-09-05 from live public sources. **Re-checked 2026-10-11** (see the
+v2 block below). Tier ③ unless marked otherwise.
 Nothing here came from the client. Review counts and ratings are as reported by the
 directories named and were not independently re-counted.*
+
+> **v2 re-check, 2026-10-11.**
+> - **Tattootopia:** site and artist page load. Roster still Jeff Thibodaux, Josh
+>   Lockhart, Nahalo Minier. Roger still not listed.
+> - **Faithful:** HTTPS still refused. ⚠️ Correction: the site **does load over plain
+>   `http://www.`**, so it is not dead, it is insecure. Browsers will warn and Google
+>   will prefer HTTPS competitors. The weakness stands; "does not load" was overstated.
+> - **Burning Lotus:** domain still does not resolve.
+> - **Safe Voyage:** site loads, unchanged.
+> - Competitor review counts were **not** re-counted. The ~168 and ~23 figures are
+>   from 2026-09-05.
+> - 🚨 **Cathedral itself has moved on the map.** It now publishes six-day hours
+>   (Mon–Thu 10–6, Fri–Sat 10–7) and takes walk-ins. **That is Safe Voyage's territory,
+>   200 yards away.** v1 said Cathedral "does not contest convenience". It now does,
+>   in practice, whatever the brand says. See `positioning.md` §08.
+> - Cathedral has **6 Google reviews at 5.0**. The gap to Burning Lotus is no longer
+>   0 to 168. It is 6 to ~168, with every Cathedral review answered by the owner.
 
 ## 01 — Competitive landscape
 
@@ -116,18 +134,20 @@ names.
 - **Tattootopia** — considered / mildly distinct. Appointment-led, asserts premium,
   but the assertion is category-standard.
 - **Faithful** — considered / distinct. Family and faith is a real point of view.
-- **Cathedral** — belongs at **considered / most distinct.** The mark alone is
-  further from category norm than anything else in the parish.
+- **Cathedral** — belongs at **considered / most distinct** by its mark and portfolio.
+  ⚠️ v2: by its *behaviour* (walk-ins, six-day hours) it currently sits mid-axis,
+  nearer Safe Voyage than this map admits. The mark is still further from category
+  norm than anything else in the parish.
 
 **Open territory:** the far corner — *considered commission work with a genuine point
 of view, executed properly online.* Faithful holds the nearest ground but its site is
 broken and its register is domestic rather than reverent. Nobody in Denham Springs is
 combining a distinctive brand with competent digital execution.
 
-⚠️ Cathedral can occupy that corner on brand, but **cannot yet compete on proof.**
-Zero reviews against Burning Lotus's 168 is the real gap, and no amount of
-positioning closes it. Review generation is the first growth priority once the
-address settles.
+⚠️ Cathedral can occupy that corner on brand, but is **thin on proof**: 6 reviews
+against Burning Lotus's ~168. Review generation has started and stays the first
+growth priority. At the current rate (6 in roughly six weeks) parity is years away,
+so **rating and response quality are the near-term edge, not count.**
 
 ## 04 — Messaging analysis
 
@@ -192,6 +212,13 @@ Cathedral out of a head-on fight it would lose on review count.**
 *Available because:* nobody local shows process.
 *How to take it:* consult → drawing → sitting → healed. Roger's portfolio has healed
 and multi-session work in it already. Costs nothing but a camera.
+
+**7. Be the shop that is easy to walk into. NEW in v2.**
+*Available because:* no competitor's brand speaks to the nervous or first-time client.
+Faithful's reviews praise collaboration; nobody *claims* comfort.
+*How to take it:* Cathedral's own customers already say it — "comfortable", "anxious
+person", "first ever tattoo", "welcoming" ①. Quote them. This is the only
+differentiator on this list that is customer-evidenced.
 
 **4. Make availability the mechanic.**
 *Available because:* competitors publish either "walk in" or nothing.

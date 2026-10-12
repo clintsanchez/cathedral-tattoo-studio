@@ -1,6 +1,26 @@
 # Naming & Availability — Cathedral Tattoo Studio
 
-*2026-09-05. Live checks, not memory.*
+*2026-09-05. **Availability gate re-run 2026-10-11.** Live checks, not memory.*
+
+> ## v2 — gate re-run, 2026-10-11
+>
+> | Check | Result |
+> |---|---|
+> | `cathedraltattoostudio.com` | ✅ **Still available** (whois: no match). 🚨 Unregistered for five weeks after "register it now". It is $15 and it is the single cheapest risk left open in this project |
+> | Studio Instagram | ✅ **`@cathedral_tattoostudio`** (underscore). 242 followers, 75 posts, read 2026-09-19. Theirs, active, linked on the GBP |
+> | `@cathedraltattoostudio` (no underscore) | Empty account, owner unknown. **Finding 2 below is superseded**: the studio did not need this handle, it already had one. R-28 downgraded to "nice to have" |
+> | `@rc_tattoos` | 6,663 followers, 2,033 posts on 2026-09-19 |
+> | Instagram re-read today | ⚠️ **Could not be done.** Instagram now serves a login wall to the method in §Method. All Instagram numbers here are 2026-09-19 |
+> | GBP website field | Still "Add website" ① |
+>
+> **Handle consistency is now a small real problem.** The domain will be
+> `cathedraltattoostudio` and the Instagram is `cathedral_tattoostudio`. Do **not**
+> rename the Instagram to match: it has posts, followers and a GBP link. Take the
+> underscore form on any new platform (TikTok, Threads) so the socials agree with each
+> other, and let the domain be the one place without it.
+>
+> **Finding 1 below stands**, with one correction to its framing: Instagram was never
+> "not Cathedral's". The studio had its own account the whole time and we missed it.
 
 The studio is already named, so Steps 1–4 of the `naming` skill (brief, metaphor,
 candidate generation, filter) do not apply. **Step 5, the availability gate, does** —
@@ -131,6 +151,10 @@ business's largest audience.
 - Prior art: web search. Not a trademark search.
 
 ## What was not run
+✅ **v2: `rebranding` was run on 2026-10-11** — see `rebrand.md`. The verdict matches
+the note below (no rebrand), for a new reason: drift between the package and the
+live shop.
+
 `rebranding` — **not applicable.** Cathedral is four months old and being built, not
 transformed. There is no legacy brand with equity to migrate, no audience to
 re-educate, and no repositioning of an established identity. The one thing that

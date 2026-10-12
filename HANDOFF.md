@@ -1,156 +1,98 @@
 # Cathedral Tattoo Studio — Handoff
 
-*Last updated 2026-09-04. Read this first when resuming.*
+*Last updated 2026-10-11. Read this first when resuming. Rewritten in full on that
+date: the previous version was dated 2026-09-04 and contradicted itself.*
 
-## Status: retro-onboarded, asset library built, blocked on the client
+## Status: brand package at v2, one decision blocks site copy
 
-No GHL survey exists. The record was reconstructed from the Google Business
-Profile and the Facebook page. The asset library is done; the brand package and
-site are not started, and the address is unconfirmed.
+All 16 `cofoundy/brand-skills` were re-run on 2026-10-11 against the **live Google
+Business Profile**. The package is current. The site is not started.
+
+🚨 **B-05 is the blocker, and it is Clint's.** The September package positioned
+Cathedral as premium, selective and appointment-led. The live shop is a walk-in shop
+open six days a week, with no minimum, and a 5-star reviewer calls it "price
+friendly". Hold premium or release it: `brand/positioning.md` §08. BSC recommends
+releasing the ceiling unless Roger commits to a minimum and deposits (R-30). Every
+brand doc is written to be true under either answer.
+
+## What is true today (checked live 2026-10-11)
+
+| | |
+|---|---|
+| Address | 1318 Florida Ave SW, Denham Springs, LA 70726. Move announced 8/27, not happened |
+| Hours | Mon–Thu 10 AM–6 PM · Fri–Sat 10 AM–7 PM · Sun closed |
+| Booking | Walk-ins **and** appointments. Never write "by appointment" |
+| Google reviews | **6, 5.0 average**, every one answered in the brand voice |
+| Artists | Roger Cazares, Mikayla Paul, Cleo (surname unknown). Possibly an apprentice |
+| Instagram | Studio `@cathedral_tattoostudio` (underscore) 242 · Roger `@rc_tattoos` 6,663. Read 2026-09-19; could not be refreshed |
+| Email | `cathedraltattoostudio25@gmail.com` |
+| Website | None. `cathedraltattoostudio.com` **still unregistered** |
 
 ## Done
-- **Brand package built 2026-09-05** (`brand/`) using the `cofoundy/brand-skills`
-  pipeline: `brand.yaml` manifest plus context, architecture, competitors, audience,
-  positioning, voice, messaging, strategy, identity and audit. Three are deliberately
-  **blocked**: `story.md` (no origin interview, ownership unresolved), `guidelines.md`
-  (no vector), and vision/mission/values in `strategy.md` (client input required).
-  Competitor research is live and real; audience work is entirely inferred.
-  Baseline brand audit scores the **live** brand 12/30.
-- Client folder + git repo → `github.com/clintsanchez/cathedral-tattoo-studio` (private)
-- 187 images filed with SEO filenames; third-party IP and personal photos quarantined
-- 54 of 60 prior-shop photos cleaned of the Tattootopia watermark (8 still flagged)
-- `README.md` — every fact tiered by source
-- CSS prefix assigned: `cts-`
 
-## Brand package complete (2026-09-05)
-All 15 skills from `cofoundy/brand-skills` are run. `brand/` holds 14 outputs plus the
-manifest. Decisions taken this session: address confirmed, logo ships as-is,
-differentiator adopted, **market position set to premium**, 12-month goals set to
-*get found online* + *build review volume*, and the social lead question settled.
-
-🚨 **Premium is expressed, never claimed.** Zero reviews and a four-month-old entity
-mean announcing it would read as pretension and answer Tattootopia's "premier". It
-shows in restraint, selectivity and craft evidence. The adjectives are on the never-say
-list, and **R-07 (shop minimum) is now urgent** — a price floor is what makes premium
-credible without the word.
-
-**Copy deck v1 written** (`brand/copy-deck.md`) — GBP description, Instagram bios and
-first nine posts, homepage, an ownership-safe artist page, booking copy, a review
-request, and an aftercare card. Every line scrubbed against the eight guardrails.
-**The GBP description can go live the day Roger approves it.**
-
-🚨 **No shop minimum** (Clint, 2026-09-05). The sharpest tension in the package: a
-minimum is a filter, not a price, and without one the calendar fills with small work
-that premium positioning cannot survive. BSC recommends $150 plus booking deposits
-(**R-30**). Roger's call.
-
-**Audit v2: 13/30 live, but ready to build.** Only one point moved, correctly: the rule
-is score what is *live*, not what is filed, and almost nothing has shipped. The package
-itself is build-ready — nothing in it blocks the site or the GBP.
+- **Brand package v2** (`brand/`): 15 documents plus the manifest. `context.md` first.
+- **Rebranding assessment** (`brand/rebrand.md`): no rebrand; a pre-launch
+  positioning correction.
+- **Audit v3: 16/30** (was 13). The three points came from things that shipped: hours,
+  reviews, review responses.
+- **Copy deck v1.1**: "by appointment" removed, walk-ins, hours and one customer
+  quote added.
+- **Claude Code spinner mod**: preview generated at
+  `brand/mod/cathedral-tattoo-studio-spinner/preview.html`. **Not approved, not
+  installed** (B-08).
+- Asset library, logo decision (ships as-is), derived digital set, records check:
+  unchanged from September.
 
 ## Not done
-- `brand-guidelines` — waiting on the vector logo (see `brand/guidelines.md`)
-- Brand story — waiting on a 15-minute call with Roger (`brand/story.md`)
-- Vision, mission, values — waiting on the same call (`brand/strategy.md` §§02–04)
-- Design system / tokens / site
-- AiB vault entry, Trello board
 
-## ✅ Address resolved 2026-09-05
-**1318 Florida Ave SW, Denham Springs, LA 70726** is the operating studio (Clint).
-Location pages, LocalBusiness schema, GBP work and citations are **unblocked**.
+- Site, design system beyond `DESIGN.md` and `website/css-tokens.css`.
+- Brand story, vision, mission, values: still Roger's to state (R-13, R-14).
+- Artist pages for Mikayla and Cleo: nothing on file (R-09, R-33).
+- AiB vault entry, Trello board.
+- `06-Reports/client-asks-email-draft.md` predates v2. Regenerate from
+  `CLIENT-ASKS.md` before sending.
 
-⚠️ The 2026-08-27 relocation post still stands and no move date is known. Build the
-NAP to be updatable in one place. Walk-ins remain not live.
+## Next, in order
 
-## 🚨 Records check changed the picture (2026-09-04)
-`06-Reports/records-check.md`. Two findings that gate copy:
-1. **CATHEDRAL TATTOO STUDIO LLC (47032261K)** is registered to **Mikayla Paul**
-   as sole member — Roger is not on the filing. Publish no ownership language
-   for anyone until he confirms.
-2. ~~Three addresses conflict.~~ **✅ Resolved 2026-09-05: 1318 Florida Ave SW,
-   Denham Springs is the operating studio** (Clint). The Baton Rouge Bluebonnet
-   address remains the SoS domicile and mailing address — that is a filing fact, not
-   the studio, and should never be published as the location.
-Also: entity registered 5/21/2026, so the business is **months old** — never
-imply established status. Zero reviews on both platforms.
+1. **Clint: decide B-05.**
+2. **Register the domain** (B-06). Five weeks overdue.
+3. **Email Roger** the asks. Lead with R-09 (roster), R-13 (the call), R-03
+   (ownership wording), R-31 (how much of the week is walk-ins).
+4. **Audit the GBP photos** against the quarantine folders (B-07).
+5. Build the site on v2. Add its URL to the GBP the day it is live.
+
+## Guardrails that still gate copy
+
+Full text in `brand/context.md`.
+
+1. **No ownership language** for anyone. The LLC names Mikayla Paul as sole member;
+   Roger is "Primary owner" on the Google profile. Neither settles it (R-03).
+3. **No tenure claims.** The entity was registered 5/21/2026.
+4. **No licensing or sterility claims** until Roger sends numbers (R-04). A customer
+   praising "cleanliness" in a review does not lift this.
+5. **Reviews: exact count, exact date, verbatim quotes, first name only.**
+8. **No price claims.** There is no minimum.
+
+Lifted: address (2), walk-ins (6). Partly lifted: differentiator (7).
+
+## Open decisions for BSC
+
+- 🚨 **B-05** — hold or release premium. Above.
+- 🚨 **B-01** — how to handle Tattootopia: Roger's prior shop, one mile up the same
+  street, and a BSC pro-bono client. Gates the story and the About page. Re-checked
+  2026-10-11: Roger is still not on their artist page.
+- **B-02** — approve the positioning and tagline ("Work worth carrying") before they
+  go to Roger. The tagline survives either B-05 outcome.
 
 ## Client asks
 
-🚨 **All asks live in [`CLIENT-ASKS.md`](CLIENT-ASKS.md) — the single source of truth.**
-26 asks for Roger across five groups, plus 4 BSC-internal decisions. Statuses and the
-answer log are maintained there. **Do not keep a second list here or anywhere else.**
+**All asks live in [`CLIENT-ASKS.md`](CLIENT-ASKS.md).** Do not keep a second list.
 
-The email gets generated from that file when we're ready to send. A point-in-time
-render of the first 15 asks sits at `06-Reports/client-asks-email-draft.md`; treat it
-as a draft artifact, not as the list.
+## Lessons recorded the hard way
 
-**Top of the order:** vector logo (R-01), address (R-02), then the 15-minute recorded
-call (R-13) — the call is the only ask with no workaround.
-
-⚠️ **B-01 and B-02 gate part of the send.** The Tattootopia ruling and the
-positioning/tagline approval are Clint's calls, and R-17/R-18/R-19 should not go out
-before they clear. No email address is on file for Roger; this may have to go by text
-or Facebook.
-
-## Decided
-- **Cathedral is the brand** (Clint, 2026-09-04). Site, GBP, social, OG cards and
-  print all front Cathedral. RC stays on portfolio photos as artist attribution
-  only — never as site chrome, favicon or a logo slot.
-
-## 🚨 Roger has 6,667 Instagram followers (found 2026-09-05)
-`@rc_tattoos` — 6,667 followers, 2,029 posts, confirmed against the handle in our own
-portfolio watermarks. The studio Facebook page has **217** ①. That is a **~30:1
-asymmetry**, and it means effectively all of the business's audience sits under the
-artist mark rather than the studio brand.
-
-It does not reverse the Cathedral-first decision — it is the clearest argument *for*
-it — but it changes execution: **migrate, do not switch.** Keep Roger posting to his
-own account, credit Cathedral in bio and captions, cross-post, and grow the studio
-account off the back of his. `brand/naming.md`.
-
-⚠️ Also: `@cathedraltattoostudio` on Instagram **exists but is empty** (6 followers, 0
-posts). We do not know if it is theirs or a squatter's — **R-28**, time-sensitive.
-
-⚠️ And `cathedraltattoostudio.com` is **still available** as of 2026-09-05. ~$15.
-Register it.
-
-## Open decisions for BSC
-- 🚨 **How to handle Tattootopia — now blocking more than it was.** It's Roger's prior
-  shop, one mile up the same street, and a BSC pro-bono client. **BSC is advising two
-  competing shops on the same street.** It gates the brand story, the About page and
-  any competitive copy (`brand/competitors.md` §07, `brand/story.md`).
-  Live research 2026-09-05 also found **Roger is no longer listed on Tattootopia's
-  artist page** — worth knowing before that conversation.
-- **Approve or reject the proposed positioning and tagline** before they go to Roger:
-  reverence / commissioned work, tagline "Work worth carrying"
-  (`brand/positioning.md`, `brand/messaging.md`).
-
-## ✅ Logo: shipping as-is (Clint, 2026-09-05)
-
-**Decision: use the existing logo, no redraw.** A derived digital asset set is in
-`01-Brand-Assets/derived/` — favicon (the cross), avatars (rose window), header
-lockups, OG card. Minimum sizes are measured, not guessed. **Every digital surface is
-unblocked.**
-
-Residual gaps, which only bite at physical production: no embroidery/foil art, no
-large signage art, no light-background variant, colour tokens stay interim.
-⚠️ Raise these when signage is ordered at the move.
-
-### Why this came up
-`06-Reports/logo-source-analysis.md`. The mark is a flat raster with nothing behind
-it: **70% of its ink differs from its own mirror image**, 129,764 unique colours, and
-it is an unreadable smear below about 64px. Either AI-generated or a Photoshop
-illustration with layer effects; we cannot tell and it does not matter, because both
-mean the same thing.
-
-**No vector exists, none is coming, and tracing will not produce one** — tracing
-cannot fix a mark that simply carries more detail than a logo can carry.
-
-This flips the plan. The vector stops being a client ask we wait on and becomes a
-**tiered redraw we commission**: full lockup, simplified lockup, badge, and a favicon
-glyph (the rose window or the cross alone). Roughly a day and a half of vector
-illustration. It is now the highest-value production task in the project.
-
-⚠️ Also raised: if the artwork was AI-generated it may not be registrable, so the mark
-may not be defensible. Added as **R-27** — who made it, with what tool, anything in
-writing.
+- **A dated inference about a client is not a fact about a client.** The walk-in
+  guardrail was wrong for two weeks; the "appointment-led" position was wrong for
+  five. Both came from reading one Facebook post. Re-check against something live.
+- **Read the reviews before writing the audience.** The September audience document
+  explicitly excluded the customer who then wrote half the reviews.
+- **Check the profile's access list before asking a client for their email.**

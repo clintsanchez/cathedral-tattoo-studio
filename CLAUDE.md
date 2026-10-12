@@ -22,8 +22,20 @@ See `docs/retro-onboard.skill.md` in `bsc-onboarding` for the method.
 ⚠️ **The relocation is still live.** The 2026-08-27 post announces a move to a bigger
 location allowing walk-ins, and no move date or new address is known (`CLIENT-ASKS.md`
 R-02). Build the NAP so it can be updated in one place, and keep citation volume
-proportionate until the move resolves. **Walk-ins are still not live** — do not
-publish "walk-ins welcome" (R-12).
+proportionate until the move resolves. ✅ **Walk-ins ARE live** (Roger, 2026-09-19:
+"we are a walk-in shop"). Hours on the GBP, 2026-10-11: Mon–Thu 10–6, Fri–Sat 10–7,
+Sun closed. **Never write "by appointment" or "appointment only".**
+
+## 🚨 Open decision: B-05
+The September brand package positioned Cathedral as premium, selective and
+appointment-led. The live shop takes walk-ins six days a week and has no minimum.
+Clint decides whether premium is held or released (`brand/positioning.md` §08). Until
+then, write copy that is true either way: **considered work, and a room that is easy
+to walk into.**
+
+## Artists
+Three, named by customers in Google reviews: **Roger Cazares**, **Mikayla Paul**,
+**Cleo** (surname unknown). All portfolio photos on file are Roger's (R-09, R-33).
 
 ## Source of truth
 - `README.md` — every fact tiered by source. Read first.
@@ -70,8 +82,9 @@ for measured minimum sizes. `brand-guidelines` can now be written for digital.
 
 ## 🚨 Accuracy guardrail
 Verify before publishing any public claim: Louisiana shop and artist license
-numbers, founding date, artist roster, and the address. The studio has **zero
-reviews** on both GBP and Facebook as of 2026-09-04 — never imply otherwise.
+numbers, founding date, and artist roster. The studio has **6 Google reviews at 5.0**
+as of 2026-10-11. Cite the exact count and date, quote verbatim with first name only,
+and re-check before publishing (`brand/context.md` guardrail 5).
 
 ## Blog CTA standard
 Set the CSS prefix and the three CTA fixes together, before post one:
@@ -79,9 +92,10 @@ Set the CSS prefix and the three CTA fixes together, before post one:
 CTAs rewritten because this was skipped.
 
 ## Next steps
+0. **Clint decides B-05.** Then register `cathedraltattoostudio.com` (B-06).
 1. Send Roger the client asks — **all of them live in `CLIENT-ASKS.md`**, which is
-   the single source of truth. Vector logo and address are the blockers; the
-   15-minute call is the ask with no workaround.
+   the single source of truth. The roster (R-09) and the 15-minute call (R-13) lead.
+   An email address is on file.
 2. ✅ **Logo ships as-is** (Clint, 2026-09-05). Derived digital assets in
    `01-Brand-Assets/derived/`. Colour tokens stay interim. ⚠️ Physical production
    (embroidery, foil, signage, anything on white) is not covered — raise at the move.

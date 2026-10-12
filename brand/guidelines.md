@@ -1,6 +1,10 @@
 # Brand Guidelines — Cathedral Tattoo Studio
 
-**Digital brand book, v1.** 2026-09-05.
+**Digital brand book, v1.1.** 2026-09-05, revised 2026-10-11.
+
+> **v1.1 changes:** guardrails 5 and 6 updated (reviews exist, walk-ins are live) ·
+> "by appointment" removed · three artists · studio Instagram handle · review-response
+> standard added to §5 · GBP added as a governed surface in §8.
 
 Assembled from the brand package. This covers **digital only** — print, spot colour,
 embroidery and signage are not available from the current artwork
@@ -19,6 +23,11 @@ serving the Denham Springs and Baton Rouge area.
 
 - **Position:** premium commissioned work. Where a tattoo is treated as something with
   weight, not a purchase.
+  🚨 **Under review (B-05).** The live shop takes walk-ins six days a week. Until
+  Clint rules, build to the working line: *considered work, and a room that is easy
+  to walk into.* Never write "by appointment" or "appointment only".
+- **Hours:** Mon–Thu 10 AM–6 PM · Fri–Sat 10 AM–7 PM · Sun closed.
+- **Artists:** Roger Cazares, Mikayla Paul, Cleo. Always named, never "our team".
   ⚠️ **Open tension:** there is no shop minimum. See `context.md` — premium currently
   has no price floor supporting it, and rests entirely on restraint and selectivity.
 - **In one sentence:** *Cathedral is where people in Livingston Parish go when the
@@ -130,8 +139,12 @@ identified.
 
 > **Cathedral speaks with plain warmth — specific, careful, and unhurried.**
 
-Seven qualities, with do/don't examples, in `voice.md`: **Plain · Specific · Careful ·
-Honest about limits · Unhurried · Selective · Attributive.**
+Eight qualities, with do/don't examples, in `voice.md`: **Plain · Specific · Careful ·
+Honest about limits · Unhurried · Selective · At ease · Attributive.**
+
+**Review responses** (`voice.md` §09): thanks and first name, one specific thing they
+said, the artist's name, two or three sentences, no exclamation marks. The responses
+already live on the GBP are the reference.
 
 **Style rules**
 - Sentence case everywhere, headlines included.
@@ -176,8 +189,8 @@ Honest about limits · Unhurried · Selective · Attributive.**
 | 2 | Address | ✅ **cleared** — 1318 Florida Ave SW |
 | 3 | No tenure claims. Entity is months old | ⛔ permanent until it isn't |
 | 4 | No licensing, sterilisation or compliance claims | ⛔ until R-04 |
-| 5 | No reviews, ratings or social proof. There are none | ⛔ until reviews exist |
-| 6 | No "walk-ins welcome" | ⛔ until R-12 |
+| 5 | Reviews: exact count and date, verbatim quotes, first name only. Never inflated | ✅ **rewritten 2026-10-11** — 6 reviews, 5.0 |
+| 6 | Walk-ins | ✅ **lifted 2026-09-19** — live. ❌ Never "by appointment" |
 | 7 | Differentiator | ✅ adopted internally; ⛔ not as Roger's claim until R-18 |
 | 8 | **No price claims** | ⚠️ **No minimum exists.** Nothing to publish. Do not invent a "from" price |
 
@@ -191,10 +204,12 @@ Honest about limits · Unhurried · Selective · Attributive.**
 | Site header | Full lockup ≥128px | Once per view |
 | OG / social card | Full lockup on `#0A0A0A` | `derived/og-card-1200x630.png` |
 | Social avatar | Rose window ≥64px | Never RC |
-| GBP | Full lockup | Address ✅ publishable |
+| GBP | Full lockup | ✅ Live and the main brand surface. Hours, posts and review responses follow §5 |
+| Instagram (studio) | Rose window avatar | `@cathedral_tattoostudio`. Credit every artist by name |
 | Email | Full lockup ≥128px | Plain text body |
 | Aftercare card | Cross or badge | Instructional voice, no personality |
 | Signage | ⛔ **Not available** | Artwork will not hold at size. Raise at the move |
+| Claude Code spinner (BSC internal) | Cross, raster | `brand/mod/`. ⚠️ Preview only, pending approval (B-08). Words drawn from `voice.md` vocabulary |
 
 ---
 
@@ -205,4 +220,6 @@ Honest about limits · Unhurried · Selective · Attributive.**
 - **Final colour values** — interim until sampled from flat fills.
 - **The blackletter face** — unidentified.
 - **Brand story, vision, mission, values** — Roger's to state (`story.md`).
+- **Artist pages for Mikayla and Cleo** — no work, handles or surnames on file (R-09).
+- **The premium question** — B-05.
 - **Clear space** — specified above by proportion; would be exact from vector artwork.

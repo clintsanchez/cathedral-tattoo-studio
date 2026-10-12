@@ -1,7 +1,13 @@
 # Brand Voice — Cathedral Tattoo Studio
 
-*2026-09-05. ⚠️ Proposed (④). Grounded in one attested fact: the client's own posts
-are plain and direct ②. Everything else is derived from `positioning.md`.*
+*2026-09-05. **v2, 2026-10-11.** ⚠️ Proposed (④), but **now live**: the owner
+responses and posts on the Google Business Profile are written in this voice ①, so
+there are real samples to hold new copy against. Grounded in the client's own plain
+posts ② and derived from `positioning.md`.*
+
+> **v2 changes:** walk-ins may be stated (§08) · reviews may be quoted, with rules
+> (§09, new) · "Selective" is softened so it never promises a refusal the shop does not
+> practise (§03) · one new quality, **At ease**, taken from customers' own words (§03).
 
 > **The one rule that governs this whole document.** The *mark* is gothic. The
 > *voice* is not. Cathedral's logo is a blackletter cathedral facade in gold, and the
@@ -80,12 +86,24 @@ Never pressures. The booking mechanic is availability, not urgency.
 - **Do:** "Think about it. The dates will still be there tomorrow."
 - **Don't:** "Book now — spots going fast!"
 
-**Selective**
-Premium reads through what Cathedral declines, not what it offers. Copy should imply a
-studio that takes on work it can do properly and says no to the rest — never a studio
-advertising availability for anything.
-- **Do:** "I take a limited number of large pieces at a time, so they get the sittings they need."
+**Selective** ⚠️ *revised v2*
+Premium reads through what Cathedral declines, not what it offers. ⚠️ But the shop
+takes walk-ins and has no minimum, so copy must **not invent a refusal**. Selectivity
+is expressed by being specific about what the work is, never by claiming limits on
+intake that nobody at the studio has set.
+- **Do:** "Large pieces get planned across sittings, so they get the time they need."
 - **Don't:** "Booking all styles, all sizes, any time."
+- **Don't (v2):** "I take a limited number of large pieces at a time." ❌ Unverified.
+  It was the v1 example and it claims a policy Roger has never stated.
+
+**At ease** ✅ *new in v2, from customers ①*
+The quality people actually wrote reviews about. The voice lowers the stakes: it tells
+a nervous person what will happen and that they can ask anything. It never says
+"don't worry" and never performs friendliness.
+- **Do:** "First one? Tell us. We'll walk you through it before anything starts."
+- **Do:** "Being nervous about it is more common than people let on." *(live, GBP
+  owner response)*
+- **Don't:** "Our friendly team will make you feel right at home!"
 
 **Attributive**
 Names the artist who did the work, every time. This is the architecture in
@@ -167,8 +185,8 @@ Voice is constant. Tone flexes.
 **Before:** "Welcome to Cathedral Tattoo Studio, Livingston Parish's premier
 destination for world-class custom body art. Our award-winning artists bring your
 vision to life in a clean, safe and sterile environment."
-**After:** "Custom tattoo work in the Denham Springs area. Black and grey, fine line,
-lettering and cover-ups. Booking by appointment."
+**After:** "Custom tattoo work in Denham Springs. Black and grey, fine line,
+lettering and cover-ups. Walk in, or book ahead." *(v2: "Booking by appointment" removed.)*
 **Why:** the original makes four claims Cathedral is not allowed to make (premier,
 award-winning, sterility, and an implied establishment) and one it doesn't need. The
 rewrite says what it is, what it does, and how to get it.
@@ -209,8 +227,11 @@ version — it has an on-brand *silence*.
 - **Any tenure claim.** No "years of experience", no "established", no "since". The
   business is four months old and Roger's personal years are unknown (guardrail 3).
 - **Any sterility, licensing, safety or compliance claim** (guardrail 4).
-- **Any review, rating, testimonial or "loved by" claim.** There are none (guardrail 5).
-- **"Walk-ins welcome"** until the move is done and confirmed (guardrail 6).
+- **Any inflated review claim.** Reviews exist (6, 5.0 on 2026-10-11) and may be
+  quoted under §09. Never "top-rated", "loved by", "5-star studio" or a rounded count.
+- ~~"Walk-ins welcome"~~ ✅ **Allowed since 2026-09-19.** Walk-ins are live. State it
+  as a fact: "Walk in, or book ahead." ❌ Still never "appointment only" or "by
+  appointment", which are now false, and never walk-ins as a headline or a promo.
 - **Any invented differentiator** (guardrail 7).
 - **Any mention of Tattootopia**, or any comparison to another local shop.
 - Hollow hype: world-class, premier, unrivalled, best in the parish, game-changing.
@@ -219,6 +240,32 @@ version — it has an on-brand *silence*.
   ourselves on".
 - Anything that jokes about pain, regret, drunk decisions, or a customer's idea.
 - Anything implying a tattoo is an impulse worth having.
+
+## 09 — Reviews: quoting them and answering them (new in v2)
+
+**Quoting.** Verbatim, first name, "Google review". Do not fix their grammar or cut a
+sentence in half to improve it. One quote per surface is plenty. Prefer the quotes
+about ease and about a named artist; skip "price friendly" and "best tattoos you can
+ever get", which pull the brand into price and superlatives.
+
+**Answering.** The live responses ① are the standard. What they do, and should keep
+doing:
+- Open with thanks and the first name. No "Dear", no "valued customer".
+- Pick up **one specific thing** the reviewer said and add something true to it.
+- Name the artist when the customer did.
+- Two or three sentences. No exclamation marks, no emoji, no request for a referral.
+- Admit what is true: "You're right that we're still getting the place sorted."
+
+> "Thanks Kameryn. We'll pass this on to Cleo. Somebody coming back for every piece
+> says more than anything we could put on a page." — live, and exactly right.
+
+⚠️ **One thing to stop:** "Come back when you're ready for the second" and "When
+you're ready for the next one, you know where we are" close two of five responses.
+Fine once. As a pattern it becomes a sales line, which the voice does not have.
+
+**Negative reviews** (none yet, write the rule now): answer within a day, plainly,
+without defending. Say what happened if you know, offer to fix it by phone, give the
+number. Never argue the facts in public.
 
 ## Open — needs Roger
 Who writes as Cathedral? Roger in first person ("I'll tell you what it'll take") and

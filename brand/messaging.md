@@ -1,7 +1,13 @@
 # Messaging Framework — Cathedral Tattoo Studio
 
-*2026-09-05. Derived from `positioning.md` and written in the register set by
-`voice.md`. ⚠️ **Proposed (④), and none of it is publish-ready** until the guardrails
+*2026-09-05. **v2, 2026-10-11.** Derived from `positioning.md` and written in the
+register set by `voice.md`.
+
+> **v2 changes:** "booked by appointment" is removed everywhere (it is false) ·
+> message D is now evidenced and promoted · a fifth message, **E. Easy to walk into**,
+> is added from customer reviews · tagline 3 is retired · the proof bank gains reviews.
+> Everything here is written to be true whether **B-05** holds premium or releases it.
+ ⚠️ **Proposed (④), and none of it is publish-ready** until the guardrails
 in `context.md` clear. Copy below follows the client-facing rules: no em dashes,
 sentence case, no exclamation marks.*
 
@@ -16,8 +22,8 @@ Strategic anchor, not a tagline. Everything downstream should trace back to it.
 
 Cathedral is a tattoo studio in the Denham Springs and Baton Rouge area built around
 commissioned work: memorial portraits, religious black and grey, fine line and
-dotwork, lettering, and cover-ups. Work is booked by appointment, planned across
-sittings, and published with open dates so you know when you can actually get in.
+dotwork, lettering, and cover-ups. Walk in, or book ahead. Large work is planned across
+sittings, and open dates are published so you know when you can actually get in.
 What separates it is congruence. The portfolio is genuinely made of the pieces people
 agonise over, so the care is a working method rather than a slogan.
 
@@ -27,7 +33,7 @@ agonise over, so the care is a working method rather than a slogan.
 |---|---|---|---|
 | 1 | **Work worth carrying** | Emotional | Says the whole position in four words. Implies permanence and weight without naming grief, faith or religion, so it covers a memorial portrait and a dog equally. ✅ **Also carries the premium position without claiming it** — "worth" does the work that "premium" would have done badly |
 | 2 | **For the ones that matter** | Emotional | Warm and plain. ⚠️ Slightly ambiguous: reads as people or pieces |
-| 3 | **Commissioned, not walked in** | Functional | Sharpest statement of the model. ⚠️ Retire it the day walk-ins go live (guardrail 6), and it faintly disparages the walk-in customer |
+| 3 | ~~Commissioned, not walked in~~ | Functional | ❌ **Retired 2026-10-11.** Walk-ins are live, and it disparages a customer the shop now serves |
 | 4 | **Take the time it takes** | Aspirational | Captures the unhurried quality and the multi-session reality. Slightly passive as a hero line |
 | 5 | **Black and grey, done right** | Functional | Most literal and most searchable. ⚠️ Narrows the brand to one style and undersells the fine-line work |
 
@@ -46,7 +52,7 @@ is worthless.
 
 **Level 2 — Supporting statement**
 > Custom tattoo work in Denham Springs. Black and grey, fine line, lettering and
-> cover-ups, booked by appointment and planned properly.
+> cover-ups. Walk in, or book ahead for the big ones.
 
 *(✅ Address confirmed 2026-09-05, so the location is stated directly rather than
 hedged as a service area. Keep the broader "and the Baton Rouge area" for service-area
@@ -73,8 +79,16 @@ promise.
 **D. You will be listened to first.**
 Every piece starts with what you want and why. Reference photos, placement, size, and
 an honest answer about what will and will not work on skin.
-*Proof:* ⚠️ **currently unevidenced.** This is a promise, not a proof, until reviews
-or a documented consult process exist. Use sparingly and never as a boast.
+*Proof:* ✅ **evidenced in v2.** "He took my ideas and brought them to life even better
+than I imagined" — Keely, Google review ①. The GBP owner post on cover-ups (2026-10-06)
+is the "honest answer" half, live.
+
+**E. Easy to walk into.** ✅ *new in v2, and the best-evidenced message here*
+First tattoo, or nervous about it: say so. Nobody rushes you and you can ask anything.
+*Proof:* three of five readable reviews ①. "I am an anxious person so that's a big deal
+for me" (Alesha). "Got my first ever tattoo here... felt completely comfortable"
+(Hailey). "Made the whole experience comfortable from start to finish" (Keely).
+⚠️ Say it plainly and once. It stops being true the moment it sounds like a slogan.
 
 ⚠️ **Note on price (2026-09-05):** there is no shop minimum, so **no price floor exists
 to cite** — "large work starts at $X" is not currently available as a proof, and it was
@@ -84,18 +98,22 @@ restraint, selectivity and the portfolio.
 **Level 4 — Proof point bank
 
 Usable today:
-1. 97 portfolio pieces on file, spanning six or more distinct styles ①.
+0. ✅ **6 Google reviews, 5.0, as of 2026-10-11** ①. Re-check the number before every
+   use. Verbatim quotes with first name only (`voice.md` §09).
+0b. ✅ **Three artists customers name and return to**: Roger, Mikayla, Cleo ①.
+0c. ✅ **Open six days**: Mon–Thu 10–6, Fri–Sat 10–7 ①.
+1. 97 portfolio pieces on file, spanning six or more distinct styles ① (all Roger's).
 2. Multi-session large-scale work: half sleeves, full sleeves, back pieces ①.
 3. Named artist attribution on every piece ①.
 4. Published open dates, month by month ②.
-5. Appointment-led booking ①.
+5. Walk-ins and booked work, both ①②. *(v1 said "appointment-led". Struck.)*
 6. Cover-up work in the portfolio ①.
 7. Both black-and-grey and colour work ①.
 8. Fine-line and dotwork depth, a genuine specialism ①.
 
-⚠️ **Blocked, and the bank is thin because of it:** review counts (zero), years in
-business (four months), licensing and sterilisation (unverified), awards (none),
-ownership (unresolved), walk-ins (not live). ✅ Address is no longer blocked.
+⚠️ **Still blocked:** years in business (under five months), licensing and
+sterilisation (unverified), awards (none), ownership (unresolved), any price.
+✅ Unblocked since v1: address, reviews, walk-ins, hours.
 🚨 **And premium raises the bar on all of it** — a premium brand is held to more proof
 than a mid-market one, so the thinness of this bank matters more now than it did
 yesterday. The fastest fixes are a price floor (R-07) and the first reviews.
@@ -121,8 +139,15 @@ of this brand today, and the messaging should not pretend otherwise.
 - **Cares most about:** delicacy, ageing, and atmosphere.
 - **Lead with:** the dotwork and fine-line body of work; how the space feels.
 - **Proofs that land:** fine-line depth; interior photography once the move is done.
-- **Avoid:** heavy gothic framing in the copy aimed at her. ⚠️ Unreachable today: no
-  Instagram or TikTok on file.
+- **Avoid:** heavy gothic framing in the copy aimed at her. ✅ Reachable: `@rc_tattoos`
+  and the studio's `@cathedral_tattoostudio`.
+
+**The first-timer / the nervous client** ✅ *evidenced (`audience.md`)*
+- **Cares most about:** not feeling stupid, rushed or judged.
+- **Lead with:** message E, in one plain sentence, and a customer's own words.
+- **Proofs that land:** the reviews. Named artists. Photos of the room and the people.
+- **Avoid:** reassurance clichés ("relax, you're in good hands"), and the gothic
+  register anywhere near this message. The mark is already severe; the words must not be.
 
 **Secondary audience — artists and piercers being recruited ②**
 - **Cares most about:** who runs the shop, the client flow, the split, the room.
@@ -137,11 +162,12 @@ of this brand today, and the messaging should not pretend otherwise.
 | Website hero | The tagline plus what and where | Calm, plain | Short |
 | Style / service pages | Literal: name the work | Specific, instructional | Medium |
 | Portfolio captions | Name the piece, name the artist | Minimal | Very short |
-| Google Business Profile | What it is, what it does, how to book | Plain, factual | Short. ✅ address confirmed, publish 1318 Florida Ave SW |
+| Google Business Profile | What it is, what it does, how to book | Plain, factual | Short. ✅ Live: hours, posts and review responses already run in this voice |
+| Review responses | Thanks, one specific thing, the artist's name | Warm, brief | 2–3 sentences (`voice.md` §09) |
 | Facebook | Availability and new work | Warm, first person | Short |
-| Instagram bio | Style specialisms, booking route | Compressed, plain | Very short ⚠️ handle unknown |
+| Instagram bio | Style specialisms, walk in or book | Compressed, plain | Very short. Studio handle: `@cathedral_tattoostudio` |
 | Email | What happens next | Practical | Medium |
-| Paid ads | ⚠️ **Not yet.** No site, no reviews, unconfirmed address. Paid traffic into this would waste money | — | — |
+| Paid ads | ⚠️ **Not yet.** No site to land on. Revisit once the site is live; the reviews and address are no longer the blocker | — | — |
 
 ## 07 — Things not to say
 
@@ -163,7 +189,8 @@ of this brand today, and the messaging should not pretend otherwise.
 
 ## Before this ships
 1. Roger approves the tagline and says it out loud.
-2. Address and ownership resolved.
-3. Full scrub against all seven guardrails, line by line.
+2. Ownership resolved (address is done).
+3. **B-05 decided.**
+4. Full scrub against the guardrails, line by line.
 4. Blog CTA standard and the `cts-` prefix applied together, before post one
    (`CLAUDE.md`).

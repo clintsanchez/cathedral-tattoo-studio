@@ -1,0 +1,38 @@
+{
+  "owner": "BlakSheep Creative",
+  "primary": "#B99040",
+  "desktop_word": "#9A7430",
+  "logo_svg": "assets/mark-cross-raster.svg",
+  "words": {
+    "thinking": [
+      "Sketching",
+      "Planning the piece",
+      "Working out placement"
+    ],
+    "tool-use": [
+      "Lining",
+      "Shading",
+      "Stencilling"
+    ],
+    "tool-input": [
+      "Placing the stencil",
+      "Setting up"
+    ],
+    "responding": [
+      "Shading",
+      "Finishing the line work",
+      "Wiping down"
+    ],
+    "requesting": [
+      "Setting up",
+      "Checking open dates",
+      "Pulling references"
+    ]
+  },
+  "done": [
+    "Lined",
+    "Shaded",
+    "Wrapped",
+    "Finished"
+  ]
+}

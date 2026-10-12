@@ -1,6 +1,28 @@
 # Brand Context
 
-*Written 2026-09-05 by BlakSheep Creative. Read first by every other brand skill.*
+*Written 2026-09-05 by BlakSheep Creative. **v2, 2026-10-11:** re-run against the live
+Google Business Profile. Read first by every other brand skill.*
+
+> **🩸 What changed in v2 — read this before trusting any 2026-09-05 document.**
+> Checked live on 2026-10-11 ①:
+> - **6 Google reviews, 5.0 average.** Every one has an owner response. Guardrail 5 is
+>   rewritten below.
+> - **Six-day hours are published:** Mon–Thu 10 AM–6 PM, Fri–Sat 10 AM–7 PM, Sun closed.
+> - **Walk-ins are live** (guardrail 6, lifted 2026-09-19) and the studio describes
+>   itself as "a walk-in shop".
+> - **Three artists are named by customers:** Roger, Mikayla and Cleo.
+> - **Owner posts run on the GBP** in the plain register `voice.md` sets (latest
+>   2026-10-06, on cover-ups).
+> - Still **no website**: the GBP shows "Add website", and `cathedraltattoostudio.com`
+>   is still unregistered by whois.
+> - Still **1318 Florida Ave SW**. A customer wrote a month ago that "they're just
+>   getting set up in there", and the owner response says "we're still getting the place
+>   sorted". Whether the announced move is still coming is _TBD_ (R-02).
+>
+> 🚨 **The live shop and the 2026-09-05 position have drifted apart.** The package
+> describes an appointment-led studio that does not contest convenience. The live shop
+> takes walk-ins six days a week and a customer praises it as "price friendly". See
+> *Market Position* below and **B-05** in `CLIENT-ASKS.md`.
 
 > **⚠️ This context was reconstructed, not surveyed.** No GHL survey and no client
 > interview exists. Every line carries a source tier:
@@ -26,7 +48,19 @@ event, not a style problem.
 3. **No tenure claims.** Entity registered 5/21/2026. Months old, never established.
 4. **No licensing, sterilization or compliance claims.** LA has no public registry;
    the numbers must come from Roger in writing.
-5. **No social proof.** Zero reviews on both platforms. Never imply otherwise.
+5. ~~**No social proof.** Zero reviews on both platforms.~~ ✅ **REWRITTEN 2026-10-11.
+   Reviews exist: 6 on Google, 5.0 average** ①. The rule is now **accuracy, not
+   silence**:
+   - State the count and rating only as they stand on the day, and re-check before
+     publishing. Six reviews is six reviews. Never "loved by hundreds", never
+     "top-rated", never a rounded-up number.
+   - Quote a review only verbatim, with the reviewer's first name and "Google review".
+     Do not tidy the wording.
+   - A customer saying "cleanliness" in a review is their statement. It does **not**
+     lift guardrail 4: Cathedral still makes no sterility or licensing claim itself.
+   - ⚠️ One reviewer shares a surname with Mikayla Paul. We do not know if they are
+     related. Do not lead with that review as proof until someone at the studio says.
+   - Never offer anything in exchange for a review.
 6. ~~**No "walk-ins welcome."**~~ ✅ **LIFTED 2026-09-19. Walk-ins ARE live at the
    current address.** Roger posted on his personal Facebook that day: *"I don't have any
    appointments today, so I'm available for WALK-INS! Also **we are a walk-in shop** so
@@ -52,16 +86,26 @@ event, not a style problem.
 - **Description**: A gothic, craft-led tattoo studio in the Denham Springs and Baton
   Rouge area, built on black-and-grey religious, memorial and fine-line work ④
 - **Stage**: early — LLC registered 5/21/2026, Facebook page 6/9/2026, grand-opening
-  flash event 6/28/2026 ①. Relocating to a larger space as of 8/27/2026 ②
+  flash event 6/28/2026 ①. A move to a larger space was announced 8/27/2026 ②; as of
+  2026-10-11 the studio is still at 1318 Florida Ave SW ①
+- **Hours** ① (GBP, 2026-10-11): Mon–Thu 10 AM–6 PM · Fri–Sat 10 AM–7 PM · Sun closed
+- **Booking model** ①②: walk-ins **and** appointments. Roger's words: "we are a walk-in
+  shop". A reviewer was told to call "for a tattoo consultation"
+- **Artists** ① (named by customers in Google reviews): **Roger Cazares**, **Mikayla
+  Paul**, **Cleo** (surname unknown). The studio Instagram bio also mentions an
+  apprentice. Roster unconfirmed (R-09)
 - **Website**: none. GBP still prompts "Add website" ①. `cathedraltattoostudio.com`
-  unregistered as of 2026-09-04 ①
+  still unregistered by whois, 2026-10-11 ①
+- **Contact**: (225) 301-9527 · `cathedraltattoostudio25@gmail.com` ①
 
 ## Audience
 - **Primary Audience**: _TBD_ — never stated by the client.
   **Observable ④:** adults commissioning meaningful custom pieces — memorial
   portraits, religious imagery, family tributes, florals — rather than walk-in flash
-  buyers. The work skews considered and appointment-based. Read off 97 portfolio
-  photos, not off a client answer.
+  buyers. Read off 97 portfolio photos, not off a client answer.
+  ⚠️ **v2: the portfolio is one artist's and it is only half the picture.** The live
+  shop also serves walk-ins and first-timers, and the reviews are written by people
+  who valued being made comfortable. `audience.md` v2 holds both.
 - **Key Problem**: _TBD_.
   **Observable ④:** finding an artist who can carry a piece that has to mean
   something and be lived with — portraiture, religious imagery, memorial work — in a
@@ -70,8 +114,15 @@ event, not a style problem.
   "bigger location", "walk-ins", month-by-month availability calendars.
   From the work itself ①: black and grey, fine line, dotwork, cover-up, half sleeve,
   sleeve, back piece, script, lettering, memorial, portrait.
-  ⚠️ No customer language exists — zero reviews, and the page has no comment volume
-  worth mining.
+  ✅ **Customer language now exists** — Google reviews, read 2026-10-11 ①:
+  "made the whole experience comfortable from start to finish" · "I am an anxious
+  person so that's a big deal for me" · "Got my first ever tattoo here" · "kind, funny,
+  and welcoming" · "attention to detail, line work, shading" · "took my ideas and
+  brought them to life even better than I imagined" · "i strictly go to Cleo for all my
+  tattoos" · "incredibly talented respectful, & price friendly" · "Quality is unreal".
+  **The recurring theme is comfort, not gravity.** Three of five readable reviews are
+  about being put at ease. None mentions a memorial, a portrait or religious work.
+  Two reviewers disclosed spend: **$450–500** and **$500+** (the second for fine line).
 
 ## Positioning
 - **Differentiation**: **reverence and commissioned work.**
@@ -85,11 +136,12 @@ event, not a style problem.
   it is true.
 - **Competitors**: Tattootopia (2320 Florida Ave SW — one mile up the same street,
   and Roger's prior shop ⚠️ also a BSC pro-bono client), Faithful Tattoo Studio
-  (105 N Range Ave), Burning Lotus, Safe Voyage, Cipher ③. Full analysis pending
-  `competitor-branding`.
+  (105 N Range Ave), Burning Lotus, Safe Voyage, Cipher ③. Full analysis in
+  `competitors.md` (re-checked 2026-10-11).
 - **Market Position**: **premium.** ✅ Set by Clint 2026-09-05.
   The top of the local market, not a mid-market shop that charges a bit more. Cathedral
-  is the considered, expensive-feeling choice: appointment-led, selective, unhurried.
+  is the considered, expensive-feeling choice: selective, unhurried. *(v1 also said
+  "appointment-led". That is no longer true; see the 🚨 block below.)*
   Supported by local review evidence ③ that this market already pays above the cheapest
   option (Faithful's reviews repeatedly say "not the cheapest but worth it").
 
@@ -112,9 +164,35 @@ event, not a style problem.
     letting the two positions collide in public.
   - **A deposit and a consult should gate booking.** That is the clearest premium
     signal available to a tattoo studio and it costs nothing.
-  - **Do not chase walk-ins as a growth strategy** even once the new location allows
-    them. Convenience is Safe Voyage's territory 200 yards away, and premium and
-    walk-in volume pull against each other.
+  - **Do not chase walk-ins as a growth strategy.** Convenience is Safe Voyage's
+    territory 200 yards away, and premium and walk-in volume pull against each other.
+    ⚠️ **Overtaken by events:** walk-ins are live, the studio Instagram bio leads with
+    "Taking walk-ins", and the GBP description says "Walk-ins are always welcome".
+
+  🚨 **Position under strain (2026-10-11) — Clint's call, logged as B-05.**
+  Premium was set on 2026-09-05 on the reading that Cathedral was appointment-led.
+  Five weeks of live evidence says otherwise:
+
+  | The 2026-09-05 package says | The live shop shows ① |
+  |---|---|
+  | Appointment-led, "booking by appointment" | Walk-in shop, six days a week |
+  | "Not for people who want a tattoo today" | Roger posts same-day walk-in availability |
+  | Does not contest convenience | Hours now match Safe Voyage's almost exactly |
+  | Never competes on price | A 5★ reviewer praises "price friendly" |
+  | The customer is carrying a heavy piece | The reviews are about comfort and a first tattoo |
+
+  What still holds: the work is strong, real money is being spent ($450–500+ per
+  disclosed piece), and the mark is still the most distinctive in the parish.
+
+  **Until B-05 is decided, the working rule for every downstream doc is:**
+  - **Commissioned work stays the lead.** It is still the best work and the best proof.
+  - **Walk-ins are a door, not the pitch.** State them plainly where it is a fact
+    (hours, GBP attributes, "walk in or book ahead"). Never build a headline on them.
+  - **Never claim "by appointment" or "appointment only".** It is false.
+  - **Premium stays expressed, never claimed** — and now also never *contradicted*: no
+    copy may promise selectivity the shop does not practise.
+  - **Comfort is an evidenced proof** and may be used. It is the only brand quality
+    customers have put in writing.
 
   ✅ **R-07 answered 2026-09-05 (Clint): there is no shop minimum.** The studio is open
   and trading.
@@ -191,12 +269,22 @@ event, not a style problem.
   artist account, not the studio) · 0 GBP reviews · 0 Facebook reviews · no website ·
   no ads running · 1 published GBP day (Friday 10 AM–7 PM)
 
+  **Reading 2026-10-11 ①:** **6 GBP reviews, 5.0**, all answered · six published GBP
+  days · 163+ GBP photos · owner posts running · still no website. Last social
+  readings are from 2026-09-19 and could not be refreshed (Instagram now serves a login
+  wall): studio IG `@cathedral_tattoostudio` 242 followers / 75 posts · `@rc_tattoos`
+  6,663 · studio Facebook 227 followers / 1 review
+
 ## Assets on hand
 - 187 filed images: 97 portfolio photos, 10 social graphics, 4 original designs,
   8 logo/monogram files, owner portrait. See `README.md` for the full inventory.
-- ⚠️ Logo exists only as raster. No vector — this blocks `brand-guidelines`.
-- ⚠️ 60 prior-shop photos carry a competitor's burned-in watermark; 54 cleaned,
-  8 still unpublishable. See `WATERMARK-REMOVAL.md`.
+- Logo exists only as raster and **ships that way by decision** (Clint, 2026-09-05).
+  Derived digital set in `01-Brand-Assets/derived/`. Print, signage, embroidery and
+  light backgrounds are not covered.
+- ⚠️ 60 prior-shop photos carry a competitor's burned-in watermark; 54 cleaned, the
+  rest are in `QUARANTINE-still-watermarked/` and are unpublishable. See
+  `WATERMARK-REMOVAL.md`.
+- ⚠️ **All 97 portfolio photos are Roger's.** Nothing is on file for Mikayla or Cleo.
 - ⚠️ Two quarantined folders under `99-Reference/` — licensed characters and family
   photos. Never publish either.
 
@@ -205,3 +293,7 @@ event, not a style problem.
 interchangeable: the Cathedral lockup (primary), the CTS gold badge (secondary), and
 Roger's RC gothic monogram (artist attribution on portfolio work only — never site
 chrome, favicon, or a logo slot). Formalized in `brand/architecture.md`.
+
+**v2:** the same rule covers Mikayla, Cleo and any apprentice. Each is credited by
+name on their own work; none gets chrome. Social: the studio account is
+**`@cathedral_tattoostudio`** (with an underscore), not `@cathedraltattoostudio`.

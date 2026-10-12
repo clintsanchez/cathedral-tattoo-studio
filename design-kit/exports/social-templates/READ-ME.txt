@@ -1,0 +1,27 @@
+Cathedral Tattoo Studio: social templates, ready to post
+Draft by BlakSheep Creative, version 0.1, 2026-10-12. Not reviewed or approved by the studio.
+
+99 PNG files at exact platform sizes, built from the Cathedral Tattoo Studio design system.
+captions-and-alt-text.csv has the caption and alt text for every file. Carousel captions sit on slide 01.
+
+Folders
+  feed-portrait-1080x1350   Instagram and Facebook feed (first priority)
+  feed-square-1080x1080     Instagram and Facebook feed
+  story-1080x1920           Instagram and Facebook stories
+  google-post-1200x900      Google Business Profile posts (no hashtags)
+  carousel-*                Post the slides in order, 01 first
+  video                     Reel cover and end frames
+  covers                    Facebook page covers and Instagram highlight covers
+
+Before posting
+  - Get the studio's sign-off. Nothing here has been approved.
+  - Re-read the Google profile. The rating card and review footers say 5.0 from 6 reviews, read October 11, 2026. Re-date or drop them if that changed.
+  - Check each review quote is still live on the profile.
+  - The hashtag set is a draft for the studio to confirm.
+  - Facebook covers: on desktop only the middle 1640 x 624 strip shows.
+
+Not included because they wait on the studio
+  Open dates (needs real dates), today's walk-in notice (needs artist and day), healed, process,
+  meet the artist (needs a cleared photo of Roger), aftercare (artist must confirm every step),
+  the closure notice, anything naming Mikayla or Cleo, and a cover-up photo post.
+  The Google cover and link preview are the supplied files in the design system's Logos group.

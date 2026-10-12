@@ -1,1 +1,5 @@
 .DS_Store
+
+# Another client's confidential kit, format reference only. Upload to Claude Design by hand.
+design-kit/assets/references/*.pdf
+.playwright-mcp/

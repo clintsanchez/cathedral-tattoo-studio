@@ -1,0 +1,75 @@
+/* Cathedral Tattoo Studio: design tokens
+ * Generated 2026-09-04 by BlakSheep Creative.
+ * INTERIM PALETTE. Sampled from the 1242px logo raster
+ *    (01-Brand-Assets/cathedral-tattoo-studio-logo.webp) because no vector
+ *    exists. The mark uses a metallic gradient, so these are gradient stops
+ *    read off a JPEG, not authored brand colours.
+ * Keep identical to DESIGN.md and brand/guidelines.md.
+ * Prefix for content-engine output: cts-
+ */
+
+:root {
+  /* Brand: gold on black. Black is the field, gold is the accent. */
+  --cts-gold-bright:   #EBC853;  /* 12.18:1 on ground, AA        */
+  --cts-primary:       #B99040;  /*  6.72:1 on ground, AA        */
+  --cts-gold-deep:     #825F2C;  /*  3.42:1 on ground, AA large  */
+
+  /* Surfaces */
+  --cts-bg-base:       #0A0A0A;
+  --cts-bg-surface:    #141414;
+  --cts-bg-elevated:   #1E1C19;
+
+  /* Text */
+  --cts-text-primary:  #E8E4DC;  /* 15.61:1 */
+  --cts-text-muted:    #A9A29A;  /*  7.85:1 */
+  --cts-border-subtle: rgba(185, 144, 64, 0.18);
+
+  /* Status */
+  --cts-success: #22A06B;
+  --cts-warning: #E8A33D;
+  --cts-error:   #D9534F;
+
+  /* Typography: agency recommendations, unconfirmed */
+  /* The blackletter in the logo is unidentified and exists only inside the logo
+     image. It is never set as live type, so there is no display font token. */
+  --cts-font-heading: "Cinzel", Georgia, serif;              /* H1, H2 only */
+  --cts-font-body:    "Source Sans 3", system-ui, sans-serif; /* H3, body, UI */
+  --cts-text-display: clamp(2.5rem, 5vw, 3.5rem);
+  --cts-text-h1: clamp(2rem, 4vw, 2.75rem);
+  --cts-text-h2: clamp(1.625rem, 3vw, 2.125rem);
+  --cts-text-h3: 1.5rem;
+  --cts-text-base: 1.125rem;
+  --cts-text-small: 0.875rem;
+  --cts-leading-body: 1.6;
+  --cts-leading-heading: 1.15;
+
+  /* Spacing */
+  --cts-space-1: 8px;
+  --cts-space-2: 16px;
+  --cts-space-3: 32px;
+  --cts-space-4: 64px;
+  --cts-space-5: 96px;
+  --cts-space-6: 128px;
+
+  /* Radius + layout */
+  --cts-radius-sm: 6px;
+  --cts-radius-md: 12px;
+  --cts-radius-lg: 20px;
+  --cts-container: 1200px;
+}
+
+/* Never set gold text on white: #B99040 on #FFFFFF is 2.95:1 and fails AA.
+   Solid-gold button with a black label is 6.72:1 and passes. */
+.cts-btn-primary {
+  background: var(--cts-primary);
+  color: var(--cts-bg-base);
+  border-radius: var(--cts-radius-sm);
+  min-height: 44px;
+}
+.cts-btn-secondary {
+  background: transparent;
+  color: var(--cts-primary);
+  border: 1px solid var(--cts-primary);
+  border-radius: var(--cts-radius-sm);
+  min-height: 44px;
+}

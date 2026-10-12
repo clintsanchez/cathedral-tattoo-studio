@@ -1,0 +1,453 @@
+{
+  "version": "0.1",
+  "date": "2026-10-12",
+  "client": "Cathedral Tattoo Studio",
+  "prepared_by": "BlakSheep Creative",
+  "status": "Input package prepared for Claude Design. Not yet run. Nothing in it is approved by anyone at the studio; the position, tagline, voice, colour roles, typefaces and every layout rule are BlakSheep Creative proposals awaiting sign-off.",
+  "note": "Several agents wrote this kit at the same time from one shared brief. Bytes and sha256 were taken from disk after all files were finished and cross-checked.",
+  "model": "Structure follows the Load and Geaux Portable Storage design kit of 2026-10-11. Nothing of that client's brand, facts or wording is carried over.",
+  "source_priority": [
+    "brand/context.md governs facts and the publishing guardrails",
+    "brand/guidelines.md (digital brand book v1.1) is the guideline of record",
+    "website/css-tokens.css governs every hex, font, size, space and radius value; design-kit/tokens/css-tokens.css is an identical copy"
+  ],
+  "sources": {
+    "0 - READ ME FIRST.md, README.md": [
+      "brand/context.md",
+      "HANDOFF.md",
+      "CLIENT-ASKS.md"
+    ],
+    "1 - MASTER PROMPT.md": [
+      "brand/*.md",
+      "DESIGN.md",
+      "website/css-tokens.css",
+      "06-Reports/logo-source-analysis.md"
+    ],
+    "2 - Brand Guidelines.md": [
+      "brand/positioning.md",
+      "brand/strategy.md",
+      "brand/audience.md",
+      "brand/rebrand.md"
+    ],
+    "3 - Visual Identity.md": [
+      "brand/identity.md",
+      "brand/guidelines.md",
+      "DESIGN.md",
+      "01-Brand-Assets/derived/README.md"
+    ],
+    "4 - Brand Voice.md": [
+      "brand/voice.md"
+    ],
+    "5 - Messaging.md": [
+      "brand/messaging.md",
+      "brand/copy-deck.md"
+    ],
+    "6 - Brand Context and Prices.md": [
+      "brand/context.md",
+      "brand/competitors.md",
+      "06-Reports/records-check.md",
+      "CLIENT-ASKS.md"
+    ],
+    "7 - SOCIAL TEMPLATE SYSTEM PROMPT.md": [
+      "brand/voice.md",
+      "brand/messaging.md",
+      "brand/architecture.md",
+      "04-Content-Library/social-graphics/"
+    ],
+    "8 - Asset Manifest and Production Rules.md": [
+      "design-kit/assets/",
+      "01-Brand-Assets/derived/README.md"
+    ],
+    "assets/logos/": [
+      "01-Brand-Assets/derived/",
+      "01-Brand-Assets/"
+    ],
+    "assets/photos/": [
+      "05-Photos/portfolio-roger-cazares/",
+      "05-Photos/portfolio-roger-cazares/from-prior-shop-2026-09/watermark-removed/",
+      "04-Content-Library/designs-and-flash/"
+    ],
+    "live facts": [
+      "Google Business Profile, read 2026-10-11: hours, 6 reviews at 5.0, owner responses"
+    ]
+  },
+  "provenance": {
+    "logos": "Cut and scaled from the studio's existing raster artwork on 2026-09-05. Nothing redrawn. No vector exists.",
+    "photos": "29 files chosen from 89 candidates on 2026-10-12. All work is by Roger Cazares. The at-work portrait was rejected because another business's sign is visible behind him. Cleaned copies whose patch touched the tattoo were rejected.",
+    "reference_pdf": "Another client's finished kit. Format reference only. Confidential. Not in version control; uploaded to Claude Design by hand."
+  },
+  "files": [
+    {
+      "path": "0 - READ ME FIRST.md",
+      "bytes": 13121,
+      "sha256": "a72458433e6dc96dcbf4a9a9f55eec3c1741e506eeaaaa7ae141730eff38cc8b",
+      "in_version_control": true
+    },
+    {
+      "path": "1 - MASTER PROMPT.md",
+      "bytes": 128365,
+      "sha256": "5e85c45379bc5365c43cdc1d85697cf3d85597542be14aeee3a016e71781eb02",
+      "in_version_control": true
+    },
+    {
+      "path": "2 - Brand Guidelines.md",
+      "bytes": 24992,
+      "sha256": "1b02165bacbf4858c30aa1405f0a0b3bc40cfa21e93749343610efbc687bccf1",
+      "in_version_control": true
+    },
+    {
+      "path": "3 - Visual Identity.md",
+      "bytes": 51766,
+      "sha256": "1740fb3c21c8887210da8a27f5d8a92c85047e057e66cdcff4108fe3fa07c9f6",
+      "in_version_control": true
+    },
+    {
+      "path": "4 - Brand Voice.md",
+      "bytes": 28902,
+      "sha256": "80a954b4db399381e303ebd9da403aa32b4a13b171cba4f0c489d64779e61410",
+      "in_version_control": true
+    },
+    {
+      "path": "5 - Messaging.md",
+      "bytes": 28257,
+      "sha256": "f4a1ec6bd6c6b3404eec8b66a536ba7e915256776d933f1a345a06e13cca7b4a",
+      "in_version_control": true
+    },
+    {
+      "path": "6 - Brand Context and Prices.md",
+      "bytes": 31603,
+      "sha256": "8749433690ffc3ff44038bc398d508e256c2a01f07efc38f5eae5a1ca4027b21",
+      "in_version_control": true
+    },
+    {
+      "path": "7 - SOCIAL TEMPLATE SYSTEM PROMPT.md",
+      "bytes": 80980,
+      "sha256": "d3c1d74f267c38445cbf36cd9553ba3ae9e429017a3ffc87a3065bd2688ee23e",
+      "in_version_control": true
+    },
+    {
+      "path": "8 - Asset Manifest and Production Rules.md",
+      "bytes": 42128,
+      "sha256": "9bccc86cd963228cd6a62ddc9b12aef00a9514410d865bbc41a53449ed301976",
+      "in_version_control": true
+    },
+    {
+      "path": "README.md",
+      "bytes": 13562,
+      "sha256": "50539358cdbae970c173156f25ad649e363153167658ece4883965f4076787d0",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/README.md",
+      "bytes": 10040,
+      "sha256": "cfd9dbc10d49902f8be0a6fd3426da0c6660b5c2ce5fa1fa7e5386570c981a78",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/apple-touch-icon-180.png",
+      "bytes": 12347,
+      "sha256": "6fb58c44a86d1b3df7b20b6fe1362471187c4d20e96d60010e76cd71c3fe76bb",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/artist-mark-rc/roger-cazares-rc-gold-gothic-monogram-artist-mark.jpg",
+      "bytes": 78771,
+      "sha256": "84a97ed97ecfcbfd2a5451f4b99e0827bf6646191a52ca8470af695692b38d2f",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/avatar-cross-512.png",
+      "bytes": 64938,
+      "sha256": "040f2cc9d6c62ce2e95214095045d8ca6525ee9d78f3bf468df134cea2754358",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/avatar-rose-512.png",
+      "bytes": 348460,
+      "sha256": "a82e0018aedb4891acfdbb93fae682a4b16ec78f2b15330812785c17b9b57233",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/cathedral-tattoo-studio-denham-springs-cover.jpg",
+      "bytes": 188044,
+      "sha256": "939e2829d124a24727e5bd9563e2d29ce8a5be94e1fdd67f8ec0c072d01cd6ae",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/favicon-16.png",
+      "bytes": 405,
+      "sha256": "46394c1f68b833de9e822ca562c3ce6e9779d6201dcc0aa07777ac4f5f8fa899",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/favicon-32.png",
+      "bytes": 950,
+      "sha256": "c13fc445f28b18a4a8e3d7cbf42095bde6f3bca8ad1609ae8949105a5970c8a1",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/favicon-48.png",
+      "bytes": 1651,
+      "sha256": "3b01758e44782d9307a6dd3fcb3a396295baebed4cdd80f6d47eb63353e843b2",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/favicon-64.png",
+      "bytes": 2499,
+      "sha256": "12014bb655fb28620fb3916502f16ec1702847141c87b61654f247eeb06db7a0",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/favicon.ico",
+      "bytes": 1481,
+      "sha256": "7a1ae9b849cf459a8158a4829ba790619cd4ed8347b47b315d5f9a307eba01da",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/lockup-1200-alpha-DARK-BACKGROUNDS-ONLY.png",
+      "bytes": 1792907,
+      "sha256": "e50933311cb3c0dbeefab736b220e309f78d23d5dcc06e72d485c1da3526351f",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/lockup-1200.png",
+      "bytes": 1527225,
+      "sha256": "7a1dc22a5e9e4bf4e308022dc895eccaced2e8f71766d966c790494972844025",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/lockup-600.png",
+      "bytes": 441592,
+      "sha256": "a96c013f5e3c807315e08e764bfe8e6ed8e623c08bdb35ba49e94462f8493d89",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/og-card-1200x630.png",
+      "bytes": 212846,
+      "sha256": "e17f38567a925f67915dd5ee865841cdf1269d1561e67e579471b69c6e0ef94b",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/social-square-1200.png",
+      "bytes": 649516,
+      "sha256": "7465c708b594b85bb3484ad3e9d45c232a15d0afe75440ffc845318d9b38dcb0",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/source/cathedral-tattoo-studio-denham-springs-cts-gold-gothic-monogram-badge.jpg",
+      "bytes": 134512,
+      "sha256": "e0066653567743aead130f606a64c8adaea4184ba7746d5f064bf86722f53850",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/source/cathedral-tattoo-studio-denham-springs-gold-gothic-logo-1242px-largest-available.jpg",
+      "bytes": 154323,
+      "sha256": "1842fbb495f531bf9e2baac716b07c4ca3bf7d497a680d274a5a50a996559cae",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/logos/source/cathedral-tattoo-studio-denham-springs-gold-gothic-logo-lockup-on-black.jpg",
+      "bytes": 206356,
+      "sha256": "abef4d83e77ec254cbe92cb43d222552a89a39fe535f8a46ac87eeef864121d1",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/01_portrait_memorial-forearm-black-and-grey.jpg",
+      "bytes": 192556,
+      "sha256": "f1e7104dde001c8f69598be861cc5164c06ffa5f30866d579312542232f5b6db",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/02_portrait_mother-and-child-floral-forearm-sleeve.jpg",
+      "bytes": 262382,
+      "sha256": "3c7b98fb8daca0a9748ea8ff21ff6811a87e19b5333aa316ec4ab11b78011b34",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/03_animal_dog-portrait-with-name-script-forearm.jpg",
+      "bytes": 276175,
+      "sha256": "13152d22756d0c8390f3cb8527d3af298a5bb1dcd1dda8fc12be965837ca5fb5",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/04_religious_christ-and-dove-forearm-black-and-grey.jpg",
+      "bytes": 219635,
+      "sha256": "58c5cb4c104420685fd6e8a950950c8e8dd51d946e5ee57d1b5a78e1a8c75084",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/05_religious_christ-crown-of-thorns-upper-arm-black-and-grey.jpg",
+      "bytes": 221484,
+      "sha256": "0d4cc7251c2a86404516aa7b08ac534305ac256eb34608fe4378d1171983bf9d",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/06_religious_cherubs-shoulder-blade-black-and-grey.webp",
+      "bytes": 110576,
+      "sha256": "d68ecc95df1192edafdd15052d02deaaa2883146ad28a2c1340395e887e58130",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/07_religious_eye-and-crown-of-thorns-calf-dotwork.jpg",
+      "bytes": 179192,
+      "sha256": "0b4061478262ed0056cc0043f9d1a1b54a01920b1d127eb1ee2fbcd315912f70",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/08_lettering_scripture-verse-script-thigh.jpg",
+      "bytes": 269074,
+      "sha256": "75e7b9ae1cc0d2036a1c26dd4371ad74c44e8b343b15e8af7c5579825dca39df",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/09_lettering_hope-with-hands-and-nail-forearm.jpg",
+      "bytes": 187485,
+      "sha256": "63c85ebfb028a8a149c301ccf35b0bdfa8da2b8c488b90965e9e2f897aca2784",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/10_fine-line_mother-and-baby-hands-with-flowers-forearm.jpg",
+      "bytes": 233957,
+      "sha256": "1f56de0758b1180544422d21545270ba9ffbced084ac4d6e34f75a58561eb17f",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/11_fine-line_dandelion-rib.jpg",
+      "bytes": 174915,
+      "sha256": "0c7a2c526ac4a2d40562b215cea5da21979a97f5f14c380c40314fabb4f214f0",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/12_fine-line_paintbrush-forearm-micro-realism.webp",
+      "bytes": 84694,
+      "sha256": "2b7bae9f729b6c3dc50625d61b00f280dfaf85d5ef6baeedfcbf41b394ac4812",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/13_dotwork_matching-lambs-thighs.jpg",
+      "bytes": 183575,
+      "sha256": "b22e39853943b35569b9920336b0d5c4d2da9c64acd87c220ac40aa55a0cfa62",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/14_dotwork_swan-and-cattails-thigh.jpg",
+      "bytes": 251737,
+      "sha256": "e44dcce654890ef118546ff157f75be4a0b9bea521986e538019acfda483af31",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/15_blackwork_butterfly-upper-arm.jpg",
+      "bytes": 303879,
+      "sha256": "01e021e6710f7055cc0ebaf42eca3276588292f45f1de069bc3f7d9b5fab9c9a",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/16_large-scale_pegasus-and-moon-half-sleeve-dotwork.jpg",
+      "bytes": 211412,
+      "sha256": "a89baf8f6f5cc94a27b132db81ec125ef3de87ca9f6fc25150434b706e77bb59",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/17_large-scale_wolf-pack-half-sleeve-black-and-grey.jpg",
+      "bytes": 214932,
+      "sha256": "221cda3929dbbd49f2dfec78c42502fab88fb05dea6da0c89e2da90f2d578e61",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/18_large-scale_owl-half-sleeve-black-and-grey.webp",
+      "bytes": 150030,
+      "sha256": "df19c117451f4264da98891818e9a0aa1c51baad1149f097b82837140d8b192a",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/19_large-scale_sword-spine-back-blackwork.jpg",
+      "bytes": 174495,
+      "sha256": "f033d17830cb2bd5702c804c0784ce74970e53b30d0a0f5dd0f209bd9bc7d020",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/20_animal_lion-above-knee-black-and-grey.webp",
+      "bytes": 114776,
+      "sha256": "1c5668082fcf8753f95b5fa0b5c6cad17ae88fc1a65e5596b7b115b98526e519",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/21_animal_tiger-forearm-black-and-grey.webp",
+      "bytes": 111598,
+      "sha256": "dd9418c844a96f2c979c28851131ec1f0be8a16c102fad98ead16b337ec50284",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/22_animal_big-cat-and-mandala-upper-arm.jpg",
+      "bytes": 211579,
+      "sha256": "0bffa6b2e99a958bddbc973045d429d57b9fa4351c010349c2817cf5713cc9ce",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/23_black-and-grey_medusa-calf.webp",
+      "bytes": 125890,
+      "sha256": "369b59e35904921f795c5648f55a7871491d9556802aa311f00a0e20ff8007dc",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/24_colour_moth-upper-back.jpg",
+      "bytes": 291782,
+      "sha256": "d136eeaec33192ed5171d93429351064e3b2d8a06d6eed60b91b66a0b027e47e",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/25_colour_hummingbird-forearm.jpg",
+      "bytes": 196028,
+      "sha256": "a687f15c2502441ced4efa6f56d226165e4862c17df111c663d6ddd94a2bf169",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/26_colour_heart-thistle-and-goldfinches-thigh.jpg",
+      "bytes": 297215,
+      "sha256": "35e1eefa0faf63a5692c99b7f2442d329d50d4409bde61b052c8075b2e5de9f9",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/27_colour_orchid-ankle.jpg",
+      "bytes": 212150,
+      "sha256": "1d9541d1787dd1cfc6f00a0ae90f6d7a74d93efc0d77fdc80e8dec6fb646c432",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/28_design_three-dobermans-with-lettering.jpg",
+      "bytes": 238068,
+      "sha256": "208b946f711bee4f8b6fcb5bdf47f12b96454933ad22d5c50c33a21d8817f5cf",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/29_design_burning-ship-and-skull.jpg",
+      "bytes": 207539,
+      "sha256": "a109b0f085c467d552b12ddbf26ce3372293efc5d727eccb6dc16901b92b625c",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/photos/PHOTO-MANIFEST.md",
+      "bytes": 29186,
+      "sha256": "572e2dabb710d104167b3a43159feee7b746bf3535bec1fb11367e90f03abee5",
+      "in_version_control": true
+    },
+    {
+      "path": "assets/references/reference-kit-format_REFERENCE-ONLY.pdf",
+      "bytes": 3970292,
+      "sha256": "5ab91e816b24a5fbe85408baa0a5adc58d82c2926386c5bbcdfb98dc871260e8",
+      "in_version_control": false
+    },
+    {
+      "path": "assets/references/social-prompt-universal-section-map.md",
+      "bytes": 3667,
+      "sha256": "94ffc09cffb76ecd97c00b381e119e2575274373da7c4aaa62786138c09bea01",
+      "in_version_control": true
+    },
+    {
+      "path": "tokens/css-tokens.css",
+      "bytes": 2508,
+      "sha256": "7c789e11433572d905243e78ea63be159d436a9ca7b74ff5a33f7d4393320284",
+      "in_version_control": true
+    }
+  ]
+}

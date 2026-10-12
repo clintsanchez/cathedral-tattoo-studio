@@ -40,6 +40,8 @@ brand doc is written to be true under either answer.
 - **Claude Code spinner mod**: preview generated at
   `brand/mod/cathedral-tattoo-studio-spinner/preview.html`. **Not approved, not
   installed** (B-08).
+- **Claude Design kit** (`design-kit/`, 2026-10-12): files 0 to 8, both prompts, 29
+  photos, tokens. Not yet run in Claude Design.
 - Asset library, logo decision (ships as-is), derived digital set, records check:
   unchanged from September.
 

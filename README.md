@@ -125,6 +125,14 @@ volume* · `@rc_tattoos` leads social while the studio account grows.
 Still blocked and deliberately not invented: the brand story, and vision/mission/values
 (`strategy.md` §§02–04). Both need 15 minutes with Roger.
 
+## Claude Design kit (`design-kit/`)
+Built 2026-10-12. The input package for Claude Design, on the same pattern as the
+other clients' kits: `README.md` (import steps), files `0` to `8` including the two
+prompts (`1 - MASTER PROMPT.md`, `7 - SOCIAL TEMPLATE SYSTEM PROMPT.md`), the logo
+set, 29 chosen photographs with a manifest, and the tokens. **Feed Claude Design this
+folder, not the whole repo.** The reference PDF is another client's kit and is kept
+out of git; upload it by hand.
+
 ## Repo layout
 
 This repo is the client's working project **and** the asset library. The docs

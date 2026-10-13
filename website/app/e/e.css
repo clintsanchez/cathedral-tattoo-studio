@@ -1,0 +1,76 @@
+/* ---------- Direction E: The artifact (after Pierce the Emperor and Bee) ---------- */
+
+.dir-e {
+  background: #0a0a0a;
+}
+.e-display {
+  font-family: var(--font-e), "Times New Roman", serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.8;
+  letter-spacing: -0.02em;
+}
+.e-serif {
+  font-family: var(--font-e), "Times New Roman", serif;
+  font-weight: 400;
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+}
+/* Wide-set capitals for a section title, as in the Bee template's second state. */
+.e-wide {
+  font-family: var(--font-e), "Times New Roman", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.34em;
+  margin-right: -0.34em;
+  line-height: 1.1;
+}
+
+/* A studio backdrop: light falls on the middle of the wall behind the object. */
+.e-stage {
+  background: radial-gradient(ellipse 62% 58% at 50% 46%, #2a251b 0%, #15130f 42%, #0a0a0a 78%);
+}
+/* The two giant lines sit behind the logo. They are sized to the screen width. */
+.e-line {
+  font-size: 15.6vw;
+}
+@media (max-width: 767px) {
+  .e-line {
+    font-size: 17.4vw;
+  }
+}
+.e-shadow {
+  background: radial-gradient(closest-side, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.e-gold {
+  background: linear-gradient(180deg, #ebc853 0%, #b99040 100%);
+  color: #0a0a0a;
+  transition: filter 0.2s ease;
+}
+.e-gold:hover {
+  filter: brightness(1.12);
+}
+
+.e-glass {
+  border-radius: 22px;
+  background: linear-gradient(150deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.03));
+  -webkit-backdrop-filter: blur(18px);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+/* The row of pieces that turns to face you. */
+.e-flow {
+  perspective: 1500px;
+}
+.e-flow-item {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: var(--fw);
+  margin-left: calc(var(--fw) / -2);
+  transition:
+    transform 1s var(--ease),
+    opacity 0.7s var(--ease);
+  will-change: transform;
+}

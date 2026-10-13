@@ -1,0 +1,53 @@
+/* ---------- Direction I: The interior (after the Yugen template) ---------- */
+
+.dir-i {
+  background: #000;
+}
+.i-display {
+  font-family: var(--font-i), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 1.04;
+  letter-spacing: 0;
+}
+.i-serif {
+  font-family: var(--font-i), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.08;
+}
+
+/* The name, standing in the room: a solid white word with depth drawn behind it, one step at a time. */
+.i-word {
+  font-family: var(--font-i), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 17.2vw;
+  line-height: 0.86;
+  letter-spacing: -0.035em;
+  color: #f2f0ea;
+  text-shadow:
+    1px 1px 0 #c9c6bf, 2px 2px 0 #c2bfb8, 3px 3px 0 #bbb8b1, 4px 4px 0 #b3b0a9, 5px 5px 0 #aba8a1, 6px 6px 0 #a3a099,
+    7px 7px 0 #9b9891, 8px 8px 0 #93908a, 9px 9px 0 #8b8882, 10px 10px 0 #83807a, 11px 11px 0 #7b7872, 12px 12px 0 #73706b,
+    13px 13px 0 #6b6863, 14px 14px 0 #63605c, 15px 15px 0 #5b5854, 16px 16px 0 #53504d, 17px 17px 0 #4b4845, 18px 18px 0 #43403e,
+    26px 30px 40px rgba(0, 0, 0, 0.8);
+}
+/* Mist over the foot of the word and the floor. */
+.i-mist {
+  background: linear-gradient(to top, #000 0%, rgba(0, 0, 0, 0.92) 22%, rgba(0, 0, 0, 0.55) 55%, rgba(0, 0, 0, 0) 100%);
+}
+.i-glow {
+  background: radial-gradient(ellipse 70% 100% at 50% 100%, rgba(150, 40, 30, 0.34), rgba(150, 40, 30, 0));
+}
+.i-ghost {
+  font-family: var(--font-i), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 700;
+  font-size: 34vw;
+  line-height: 0.8;
+  letter-spacing: -0.04em;
+  color: rgba(255, 255, 255, 0.07);
+}
+.i-blade img {
+  transition: transform 1.4s var(--ease);
+}
+.i-blade:hover img {
+  transform: scale(1.04);
+}

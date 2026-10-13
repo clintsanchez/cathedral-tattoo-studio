@@ -1,0 +1,26 @@
+name: cathedral-tattoo-studio
+
+# Dedicated container for this project. Run from this folder:
+#   docker compose up -d --build     dev server on http://localhost:3061
+#   docker compose logs -f           dev server logs
+#   docker compose down              stop
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    image: cathedral-tattoo-studio
+    container_name: cathedral-tattoo-studio
+    ports:
+      - "${PORT:-3061}:3000"
+    environment:
+      WATCHPACK_POLLING: "true"
+    volumes:
+      # Live edits from this folder; dependencies and build cache stay inside Docker.
+      - .:/app
+      - node_modules:/app/node_modules
+      - next:/app/.next
+
+volumes:
+  node_modules:
+  next:

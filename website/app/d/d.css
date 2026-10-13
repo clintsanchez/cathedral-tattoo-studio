@@ -1,0 +1,89 @@
+/* ---------- Direction D: Noir (after the Ophidia template) ---------- */
+
+.dir-d {
+  background: #000;
+}
+.d-display {
+  font-family: var(--font-d), "Bodoni MT", Didot, serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.92;
+  letter-spacing: -0.012em;
+}
+.d-serif {
+  font-family: var(--font-d), "Bodoni MT", Didot, serif;
+  font-weight: 400;
+  line-height: 1.02;
+  letter-spacing: -0.015em;
+}
+
+/* The hero photograph melts into the black on its left and bottom edges. */
+.d-plate {
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 34%), linear-gradient(to top, transparent 0%, #000 34%);
+  -webkit-mask-composite: source-in;
+  mask-image: linear-gradient(to right, transparent 0%, #000 34%), linear-gradient(to top, transparent 0%, #000 34%);
+  mask-composite: intersect;
+}
+@media (max-width: 767px) {
+  .d-plate {
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0%, #000 26%, #000 70%, transparent 98%);
+    -webkit-mask-composite: source-over;
+    mask-image: linear-gradient(to bottom, transparent 0%, #000 26%, #000 70%, transparent 98%);
+    mask-composite: add;
+  }
+}
+
+/* The wordmark across the foot of the hero: nine letters spread edge to edge. */
+.d-wordmark {
+  font-family: var(--font-d), "Bodoni MT", Didot, serif;
+  font-weight: 400;
+  font-size: 13.4vw;
+  line-height: 0.76;
+}
+
+.d-glass {
+  background: linear-gradient(140deg, rgba(40, 38, 34, 0.82), rgba(18, 17, 15, 0.7));
+  -webkit-backdrop-filter: blur(22px);
+  backdrop-filter: blur(22px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+/* The three tall cards: a rounded panel with a second edge showing behind its top, as in the template. */
+.d-card {
+  position: relative;
+  border-radius: 30px;
+  background: #15140f;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  transition:
+    transform 0.9s var(--ease),
+    border-color 0.3s ease;
+}
+.d-card::before {
+  content: "";
+  position: absolute;
+  inset: -14px 0 auto 0;
+  height: 60px;
+  border-radius: 30px 30px 0 0;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-bottom: 0;
+  z-index: -1;
+}
+.d-card:hover {
+  transform: translateY(-10px);
+  border-color: rgba(185, 144, 64, 0.7);
+}
+.d-card img {
+  transition: transform 1.4s var(--ease);
+}
+.d-card:hover img {
+  transform: scale(1.045);
+}
+
+/* The ghost word behind the visit block. */
+.d-ghost {
+  font-family: var(--font-d), "Bodoni MT", Didot, serif;
+  font-size: 30vw;
+  line-height: 0.8;
+  color: rgba(255, 255, 255, 0.045);
+}

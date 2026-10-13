@@ -1,0 +1,158 @@
+/* ---------- Direction A: the nave ---------- */
+
+/* Larger than the kit's display size. Still Cinzel 600, capitals, letterspaced. */
+.a-display {
+  font-family: var(--font-heading), Georgia, serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.08;
+  font-size: clamp(2.25rem, 6.4vw, 5rem);
+}
+
+/* The scene is measured in units of --u. The drawing is 2600 x 1500 units: a nave arch with an aisle
+   arch on each side. On a phone the nave fills the width and the aisles fall off the edges. */
+.nave-scene {
+  container-type: size;
+}
+.nave-stage {
+  --u: min(0.1cqw, 0.08cqh, 0.8px);
+  /* Where a photograph hangs, in units from the left, and how wide. Phones: inside the nave. */
+  --hx-l: 1030;
+  --hx-r: 1570;
+  --hw: 300;
+  --hy: 600;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: calc(2600 * var(--u));
+  height: calc(1500 * var(--u));
+  margin-left: calc(-1300 * var(--u));
+  perspective: 1100px;
+  /* Eye level, and the centre of the window at the far end. */
+  perspective-origin: 50% 53.333%;
+}
+@container (min-aspect-ratio: 5 / 4) {
+  /* Wide screens: the photographs hang by the piers, in front of the aisles. */
+  .nave-stage {
+    --hx-l: 650;
+    --hx-r: 1950;
+    --hw: 360;
+    --hy: 700;
+  }
+}
+.nave-world,
+.nave-world > * {
+  position: absolute;
+  inset: 0;
+}
+.nave-world {
+  transform-style: preserve-3d;
+}
+.nave-arch svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+/* The floor: one plane lying flat, running away from the viewer. Joints every half bay. */
+.nave-world > .nave-floor {
+  inset: auto;
+  left: calc(380 * var(--u));
+  bottom: 0;
+  width: calc(1840 * var(--u));
+  height: 6470px;
+  transform-origin: 50% 100%;
+  transform: rotateX(90deg);
+  background:
+    radial-gradient(ellipse 40% 1100px at 50% 1150px, rgba(235, 200, 83, 0.2), rgba(235, 200, 83, 0)),
+    linear-gradient(90deg, rgba(185, 144, 64, 0) calc(29.35% - 1px), rgba(185, 144, 64, 0.42) 29.35%, rgba(185, 144, 64, 0) calc(29.35% + 2px)),
+    linear-gradient(90deg, rgba(185, 144, 64, 0) calc(50% - 1px), rgba(185, 144, 64, 0.22) 50%, rgba(185, 144, 64, 0) calc(50% + 2px)),
+    linear-gradient(90deg, rgba(185, 144, 64, 0) calc(70.65% - 1px), rgba(185, 144, 64, 0.42) 70.65%, rgba(185, 144, 64, 0) calc(70.65% + 2px)),
+    repeating-linear-gradient(to top, rgba(185, 144, 64, 0.36) 0 3px, rgba(185, 144, 64, 0) 3px 425px);
+}
+.nave-world > .nave-hang {
+  inset: auto;
+  top: calc(var(--hy) * var(--u));
+  left: calc((var(--hx) - var(--hw) / 2) * var(--u));
+  width: calc(var(--hw) * var(--u));
+}
+.nave-hang.l {
+  --hx: var(--hx-l);
+}
+.nave-hang.r {
+  --hx: var(--hx-r);
+}
+.nave-hang figcaption {
+  margin-top: calc(22 * var(--u));
+  font-size: calc(30 * var(--u));
+  line-height: 1.35;
+  color: #a9a29a;
+}
+/* Distance: the far end of the nave sinks into the dark, so the window reads as the only light. */
+.nave-fog {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(
+    ellipse calc(330 * var(--u)) calc(420 * var(--u)) at 50% 53.333%,
+    #0a0a0a 0%,
+    rgba(10, 10, 10, 0.86) 48%,
+    rgba(10, 10, 10, 0) 100%
+  );
+}
+.nave-world > .nave-window {
+  inset: auto;
+  left: calc(1020 * var(--u));
+  top: calc(480 * var(--u));
+  width: calc(560 * var(--u));
+  height: calc(560 * var(--u));
+}
+.nave-window .glow {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 500%;
+  height: 500%;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, rgba(235, 200, 83, 0.26) 0%, rgba(185, 144, 64, 0.1) 24%, rgba(185, 144, 64, 0) 58%);
+}
+.nave-window svg {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+/* ---------- The turning wall ---------- */
+.ring-stage {
+  --w: min(clamp(210px, 58vw, 400px), 46svh);
+  --r: calc(var(--w) * 1.28);
+  perspective: 1500px;
+  perspective-origin: 50% 42%;
+}
+.ring-hub {
+  transform-style: preserve-3d;
+  transform: translateZ(calc(var(--r) * -1));
+}
+.ring-turn {
+  position: relative;
+  width: var(--w);
+  transform-style: preserve-3d;
+}
+.ring-panel {
+  position: absolute;
+  inset: 0 0 auto 0;
+  backface-visibility: hidden;
+}
+.ring-panel:first-child {
+  position: relative;
+}
+
+/* The big numerals on the stacking cards. */
+.a-numeral {
+  font-family: var(--font-heading), Georgia, serif;
+  font-weight: 600;
+  line-height: 0.85;
+  font-size: clamp(6rem, 21vw, 16rem);
+}

@@ -1,0 +1,75 @@
+/* ---------- Direction F: Manifesto (after Mythos and Silver Order) ---------- */
+
+.dir-f {
+  background: #08090b;
+}
+.f-display {
+  font-family: var(--font-f), Garamond, serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 0.84;
+  letter-spacing: -0.02em;
+}
+.f-display i,
+.f-wide i {
+  font-style: italic;
+}
+.f-serif {
+  font-family: var(--font-f), Garamond, serif;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+/* A word spread across the full width, one letter at a time. */
+.f-wide {
+  font-family: var(--font-f), Garamond, serif;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  line-height: 1;
+}
+
+/* Thin vertical rules behind everything, as in Silver Order. */
+.f-rules {
+  background-image: linear-gradient(90deg, rgba(255, 255, 255, 0.07) 1px, transparent 1px);
+  background-size: 20% 100%;
+  background-position: 10% 0;
+}
+.f-haze {
+  background: radial-gradient(closest-side, rgba(185, 144, 64, 0.3), rgba(185, 144, 64, 0.08) 55%, rgba(185, 144, 64, 0));
+}
+
+/* A gold initial, three lines deep. */
+.f-drop::first-letter {
+  float: left;
+  font-family: var(--font-f), Garamond, serif;
+  font-weight: 300;
+  font-size: 4.6em;
+  line-height: 0.78;
+  padding: 0.06em 0.1em 0 0;
+  color: #b99040;
+}
+
+/* The pale cards: the one light surface on the page. */
+.f-card {
+  border-radius: 26px;
+  background: linear-gradient(160deg, #f1eee7 0%, #d9d5cc 100%);
+  color: #0a0a0a;
+  transition: transform 0.9s var(--ease);
+}
+.f-card:hover {
+  transform: translateY(-12px) rotate(0deg) !important;
+}
+
+.f-circle {
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition:
+    border-color 0.3s ease,
+    background-color 0.6s var(--ease);
+}
+.f-circle:hover {
+  border-color: #b99040;
+  background-color: rgba(185, 144, 64, 0.1);
+}

@@ -1,0 +1,40 @@
+/* ---------- Direction G: The machine (after the Ferrari 296 GTB template) ---------- */
+
+.dir-g {
+  background: #000;
+}
+.g-display {
+  font-family: var(--font-g), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+.g-display i {
+  font-style: italic;
+}
+.g-serif {
+  font-family: var(--font-g), "Helvetica Neue", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.05;
+  letter-spacing: -0.015em;
+}
+
+/* The spec tiles in the corner of the hero. */
+.g-tile {
+  background: rgba(28, 28, 28, 0.82);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+}
+
+/* The second screen turns from black to gold, as the template turns from black to pink. */
+.g-gold {
+  background: linear-gradient(180deg, #c79d47 0%, #b3883a 100%);
+  color: #0a0a0a;
+}
+.g-card img {
+  transition: transform 1.4s var(--ease);
+}
+.g-card:hover img {
+  transform: scale(1.05);
+}

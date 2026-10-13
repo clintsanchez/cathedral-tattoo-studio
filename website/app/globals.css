@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Shared by all three directions. Tokens mirror website/css-tokens.css.
+   A direction's own styles live in app/<letter>/<letter>.css, loaded by its layout. */
+:root {
+  /* One easing curve for everything that moves. */
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+html {
+  background: #0a0a0a;
+  scroll-padding-top: 96px;
+}
+
+body {
+  @apply bg-ground font-sans text-text antialiased;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+:focus-visible {
+  outline: 3px solid #ebc853;
+  outline-offset: 2px;
+}
+
+@layer components {
+  .wrap {
+    @apply mx-auto w-full max-w-site px-4 sm:px-8;
+  }
+
+  /* Cinzel is for H1 and H2 only: capitals, letterspaced, short lines. Written in sentence case in
+     the source so a screen reader hears a sentence. */
+  .h1,
+  .h2 {
+    @apply font-heading font-semibold uppercase text-text;
+    line-height: 1.15;
+  }
+  .h1 {
+    font-size: clamp(2rem, 4vw, 2.75rem);
+    letter-spacing: 0.06em;
+  }
+  .h2 {
+    font-size: clamp(1.625rem, 3vw, 2.125rem);
+    letter-spacing: 0.08em;
+  }
+  .h3 {
+    @apply text-2xl font-semibold leading-tight text-text;
+  }
+  .lead {
+    @apply text-[1.3125rem] leading-normal text-text;
+  }
+  .label {
+    @apply text-sm font-semibold uppercase leading-tight tracking-[0.08em] text-gold;
+  }
+  .small {
+    @apply text-sm leading-normal text-muted;
+  }
+
+  /* The one graphic device: 64px of gold, above an eyebrow or a heading. One per view. */
+  .hairline {
+    @apply mb-4 block h-px w-16 bg-gold;
+  }
+
+  .btn {
+    @apply inline-flex min-h-[48px] items-center justify-center gap-2 rounded-btn whitespace-nowrap px-5 text-center text-[1.0625rem] font-semibold leading-none;
+    transition:
+      background-color 0.15s ease-out,
+      border-color 0.15s ease-out,
+      color 0.15s ease-out;
+  }
+  .btn-primary {
+    @apply bg-gold text-ground hover:bg-bright;
+  }
+  .btn-secondary {
+    @apply border border-gold bg-transparent text-gold hover:bg-gold/10;
+  }
+  /* Two buttons together: equal width, stacked on phones, capped at 520px for the pair. Primary first. */
+  .btn-pair {
+    @apply grid w-full max-w-[600px] grid-cols-1 gap-3 sm:grid-cols-2;
+  }
+  .link {
+    @apply text-gold underline decoration-1 underline-offset-[3px] hover:text-bright;
+  }
+
+  /* A photograph that does not exist yet. Says what is needed; never filled with anything else. */
+  .slot {
+    @apply flex items-center justify-center border border-dashed border-deep bg-surface p-6 text-center text-sm text-muted;
+  }
+}
+
+/* Small spaced capitals, used by the second-round directions (D, E, F). */
+.r2-caps {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

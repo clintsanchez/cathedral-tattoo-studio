@@ -1,0 +1,67 @@
+/* ---------- Direction H: The knight (after the Silent Shogun template) ---------- */
+
+.dir-h {
+  background: #000;
+}
+.h-display {
+  font-family: var(--font-h), "Arial Black", Arial, sans-serif;
+  font-weight: 800;
+  font-stretch: 125%;
+  text-transform: uppercase;
+  line-height: 0.86;
+  letter-spacing: -0.02em;
+}
+.h-serif {
+  font-family: var(--font-h), Arial, sans-serif;
+  font-weight: 700;
+  font-stretch: 112%;
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+}
+
+/* The picture is 16:9 and always covers the screen. Everything that must line up with the sun is
+   placed inside this box, in percentages of it. */
+.h-stage {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: max(100vw, 177.78svh);
+  aspect-ratio: 16 / 9;
+  transform: translate(-50%, -50%);
+}
+.h-word {
+  position: absolute;
+  top: 38.5%;
+  font-size: 4.4cqw;
+  color: #e8e4dc;
+}
+.h-ring {
+  position: absolute;
+  left: 50%;
+  top: 44.5%;
+  width: 49%;
+  aspect-ratio: 1;
+  transform: translate(-50%, -50%);
+}
+@keyframes h-turn {
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+/* The pale cards with one notched corner, as in the template. */
+.h-card {
+  background: #f1eee7;
+  color: #0a0a0a;
+  border-radius: 22px;
+  clip-path: polygon(0 0, 100% 0, 100% 62%, 78% 62%, 78% 100%, 0 100%);
+}
+.h-tile {
+  background: #f1eee7;
+  color: #0a0a0a;
+  border-radius: 22px;
+  transition: transform 0.9s var(--ease);
+}
+.h-tile:hover {
+  transform: translateY(-10px);
+}

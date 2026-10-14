@@ -30,6 +30,12 @@ beside it in a client repo, and at the root of the studio repo.
 
 ## Hosting
 
+- **Deploying a preview is a push.** Commit, then push the working branch: Railway rebuilds on its own when the
+  push changes something under `website/`. Then confirm it: `railway deployment list --service web --json` from
+  `website/` (run `railway link -p <client>-preview -s web` there once if the CLI says it is not linked) until the
+  newest entry shows `SUCCESS` for the pushed commit, and open the preview address. A push that only touches
+  files outside `website/` does not redeploy.
+
 - Previews are on Railway: project `<client>-preview`, one service `web`, root directory `/website`, watch path
   `/website/**`, connected to the working branch so a push redeploys. Closed to search engines until launch.
 - `railway environment edit --service-config` does not apply on CLI 5.44; set root directory, commands and watch

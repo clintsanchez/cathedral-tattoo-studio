@@ -46,6 +46,21 @@ Three, named by customers in Google reviews: **Roger Cazares**, **Mikayla Paul**
   holds the publishing guardrails and is read first by every brand skill.
 - `CONTENT-ENGINE-CONTRACT.md` — what stage ③ needs before fulfilment starts.
 
+## Website
+All work on the first site happens in this repo; the studio repo holds only a pointer.
+- **Code:** `website/` (Next.js 14). Branch `website-directions`, not merged to `main`, not launched. Nine design
+  directions at `/a/` to `/i/` with a chooser at `/`; no direction chosen yet.
+- **Run:** from `website/`, `docker compose up -d --build`, then http://localhost:3061.
+- **Preview:** https://web-production-bfd74.up.railway.app, Railway project `cathedral-tattoo-studio-preview`,
+  connected to `website-directions`, so a push redeploys. Closed to search engines.
+- **Read first:** `website/README.md` (what each direction is, and which pictures are generated), then `HANDOFF.md`.
+- **No harvest:** the studio has no website to rebuild from.
+- **Studio docs in `studio/`:** the house rules (imported below), the build workflow, and the design references
+  (Figma template pack, Notion design guides). Copies of the masters in the studio repo; refresh them with
+  `scripts/sync-studio-docs.sh` there rather than editing them here.
+
+@studio/SITE-HOUSE-RULES.md
+
 ## Brand
 Gothic cathedral facade with rose window and cross, blackletter "Cathedral" over
 "· Tattoo Studio ·", gold on flat black. Sampled from the 720px FB profile

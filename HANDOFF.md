@@ -1,12 +1,13 @@
 # Cathedral Tattoo Studio — Handoff
 
-*Last updated 2026-10-11. Read this first when resuming. Rewritten in full on that
+*Last updated 2026-10-14 (website section added). Read this first when resuming. Rewritten in full on that
 date: the previous version was dated 2026-09-04 and contradicted itself.*
 
 ## Status: brand package at v2, one decision blocks site copy
 
 All 16 `cofoundy/brand-skills` were re-run on 2026-10-11 against the **live Google
-Business Profile**. The package is current. The site is not started.
+Business Profile**. The package is current. **The site has nine design directions up for review;
+none chosen** (see Website, below).
 
 🚨 **B-05 is the blocker, and it is Clint's.** The September package positioned
 Cathedral as premium, selective and appointment-led. The live shop is a walk-in shop
@@ -45,9 +46,21 @@ brand doc is written to be true under either answer.
 - Asset library, logo decision (ships as-is), derived digital set, records check:
   unchanged from September.
 
+## Website (2026-10-12 to 2026-10-14)
+
+- **Nine design directions** in `website/` (Next.js 14), branch `website-directions`, each with a home page and
+  Roger's artist page. Preview: **https://web-production-bfd74.up.railway.app** (Railway
+  `cathedral-tattoo-studio-preview`; a push to the branch redeploys; closed to search engines). The chooser at `/` is written for Roger.
+- **Clint's steer (2026-10-12):** breaking the design kit is fine; he did not love A's scroll-driven nave and asked
+  for template-led directions, so D to I follow the GRIGOLETTO Figma templates. G, H and I use three generated hero
+  pictures (a branded tattoo machine, a knight, a cathedral interior), labelled as generated in
+  `website/README.md`. Nobody at the studio has seen any of it.
+- **Not decided:** which direction; "Work worth carrying" is still unseen by Roger. Not sent to Roger yet.
+- How to run it, and the house rules: `CLAUDE.md` → Website, and `studio/`.
+
 ## Not done
 
-- Site, design system beyond `DESIGN.md` and `website/css-tokens.css`.
+- Choose a direction and build it out; design system beyond `DESIGN.md` and `website/css-tokens.css`.
 - Brand story, vision, mission, values: still Roger's to state (R-13, R-14).
 - Artist pages for Mikayla and Cleo: nothing on file (R-09, R-33).
 - AiB vault entry, Trello board.

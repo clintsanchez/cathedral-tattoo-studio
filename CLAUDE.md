@@ -34,8 +34,8 @@ then, write copy that is true either way: **considered work, and a room that is 
 to walk into.**
 
 ## Artists
-Three, named by customers in Google reviews: **Roger Cazares**, **Mikayla Paul**,
-**Cleo** (surname unknown). All portfolio photos on file are Roger's (R-09, R-33).
+Two, named by customers in Google reviews: **Roger Cazares** and **Mikayla Paul**. Cleo no longer works at Cathedral (Clint, 2026-10-15):
+never name her or quote the review that names her. All portfolio photos on file are Roger's (R-09, R-33).
 
 ## Source of truth
 - `README.md` — every fact tiered by source. Read first.

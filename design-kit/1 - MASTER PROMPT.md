@@ -144,7 +144,7 @@ This is **not a rebrand.** The name, the logo and gold on black stay. Do not pro
 | **Website** | None. No domain is registered. No URL appears anywhere. Any URL slot is `CONFIRM BEFORE PUBLISHING` |
 | **Hours** | Monday to Thursday 10am to 6pm. Friday and Saturday 10am to 7pm. Closed Sunday |
 | **Booking** | Walk-ins and booked work, both. The approved wording is "Walk in, or book ahead." |
-| **Artists** | Roger Cazares may be named. Mikayla Paul and Cleo are named by customers in reviews, but neither has agreed to be named in marketing and Cleo's surname is unknown: every use of either name is `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio" |
+| **Artists** | Roger Cazares may be named. Mikayla Paul is named by a customer in a review, but has not agreed to be named in marketing: every use of either name is `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio" |
 | **Instagram** | Studio: @cathedral_tattoostudio (with the underscore). Roger Cazares: @rc_tattoos |
 | **Google rating** | Always written with its date: "5.0 on Google from 6 reviews (October 11, 2026)". Re-check the figure before any use |
 | **Primary market** | Denham Springs. "Denham Springs and the Baton Rouge area" is the only wider wording |
@@ -300,7 +300,7 @@ Naming rules:
 | **The credit line under a piece** | "[piece], [placement]. [Artist's name]." For example: "Memorial portrait, forearm. Roger Cazares." Sentence case, full stops, no "by", no "tattoo by", no handle, no hashtag |
 | **Where the credit sits** | Directly beneath the photograph, in Small, Text muted. Never on the photograph. On social, in the first line of the caption and on the graphic's credit bar |
 | **Who may be credited today** | Roger Cazares only. All work on file is his |
-| **Mikayla Paul and Cleo** | Each has a card, a credit line and a page **as a slot only**, with the badge: "`CONFIRM BEFORE PUBLISHING`: this artist's agreement to be named, the spelling of the name, and photographs of the work." Cleo's surname is unknown: the slot reads "Cleo [surname]". Their names are never typed into a headline, a caption, an alt text or a sample post as if settled |
+| **Mikayla Paul** | She has a card, a credit line and a page **as a slot only**, with the badge: "`CONFIRM BEFORE PUBLISHING`: this artist's agreement to be named, the spelling of the name, and photographs of the work." Her name is never typed into a headline, a caption, an alt text or a sample post as if settled. Cleo has left the studio: no card, no slot, no mention |
 | **An unnamed artist** | There is no such thing in a credit line. If the artist cannot be named, the photograph is not used |
 | **Instagram handles** | Typed as text: "@rc_tattoos" on Roger's card only; "@cathedral_tattoostudio" for the studio. A handle is never the credit and never replaces the name |
 | **The RC monogram** | Roger Cazares's signature, which already sits on his own photographs. It stays where it is. It is never removed, never cropped out on purpose, never cropped in as a feature, and never added to a photograph that lacks it. It is never a logo, avatar, favicon, header or footer (section 5.6) |
@@ -743,7 +743,6 @@ Verbatim from public Google reviews read on 2026-10-11. Set each exactly as writ
 | You are listened to first | "He took my ideas and brought them to life even better than I imagined." | Keely | Clear to use. "He" is Roger Cazares |
 | Easy to walk into | "He was professional, patient, and made the whole experience comfortable from start to finish." | Keely | Clear to use. "He" is Roger Cazares |
 | Easy to walk into | "I am an anxious person so that's a big deal for me" | Alesha | `CONFIRM BEFORE PUBLISHING`: in context the review names Mikayla. No full stop is added |
-| A named artist, and a client who returns | "i strictly go to Cleo for all my tattoos!!" | Kameryn | `CONFIRM BEFORE PUBLISHING`: the quote names Cleo. The lower-case "i" and both exclamation marks stay |
 | The work | "Quality is unreal" | Tyler | Clear to use. No full stop is added |
 
 **Not used, ever:** any quote from the reviewer "hailey paul", who shares a surname with a member of the studio · the phrase "price friendly" from any review · the phrase "Best tattoos you can ever get" from any review · any amount a reviewer says they paid · any review sentence about cleanliness, used as the brand's proof of hygiene.
@@ -763,7 +762,6 @@ Build each as a visible, editable field with the badge and the note. None may be
 | Both typefaces, Cinzel and Source Sans 3 | The studio's agreement |
 | Every colour value and every colour role | The studio's agreement. The values are interim |
 | The name "Mikayla Paul" in any marketing use | Her agreement to be named, and how she wants to be credited |
-| The name "Cleo" in any marketing use, and Cleo's surname | Cleo's agreement to be named, and the surname |
 | The full list of artists working at the studio | The studio's list |
 | Any title beyond "Tattoo artist at Cathedral Tattoo Studio" | The studio's confirmation, in writing |
 | Any URL: a website address, a booking link, the Google Business Profile link, a map link, an Instagram or Facebook link, a review link | No domain is registered. Each link is set at build from a confirmed source |
@@ -1178,7 +1176,7 @@ Run this checklist before marking anything complete. A failed line is fixed, not
 - [ ] No religious framing in the brand's own words and no cross drawn as an icon.
 - [ ] No category cliche from register item 13, no grief language from item 14, and no liturgical word from item 15.
 - [ ] Every item in section 10.4 is a visible, editable `CONFIRM BEFORE PUBLISHING` field, and none is filled.
-- [ ] Mikayla Paul and Cleo appear only inside badged slots and in the two badged quotes. Neither name is in a headline, a caption, an alt text or a sample post.
+- [ ] Mikayla Paul appears only inside badged slots and the badged quote. Her name is not in a headline, a caption, an alt text or a sample post. Cleo, who has left, appears nowhere.
 - [ ] No URL and no email address appears anywhere.
 
 **Reviews and proof**

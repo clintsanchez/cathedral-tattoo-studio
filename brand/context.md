@@ -10,7 +10,9 @@ Google Business Profile. Read first by every other brand skill.*
 > - **Six-day hours are published:** Mon–Thu 10 AM–6 PM, Fri–Sat 10 AM–7 PM, Sun closed.
 > - **Walk-ins are live** (guardrail 6, lifted 2026-09-19) and the studio describes
 >   itself as "a walk-in shop".
-> - **Three artists are named by customers:** Roger, Mikayla and Cleo.
+> - **Three artists were named by customers:** Roger, Mikayla and Cleo. **Cleo has since left the studio
+>   (Clint, 2026-10-15).** Never name her, give her a slot, or quote the review that names her. Other
+>   documents in `brand/` that list her are out of date on this point.
 > - **Owner posts run on the GBP** in the plain register `voice.md` sets (latest
 >   2026-10-06, on cover-ups).
 > - Still **no website**: the GBP shows "Add website", and `cathedraltattoostudio.com`
@@ -92,7 +94,7 @@ event, not a style problem.
 - **Booking model** ①②: walk-ins **and** appointments. Roger's words: "we are a walk-in
   shop". A reviewer was told to call "for a tattoo consultation"
 - **Artists** ① (named by customers in Google reviews): **Roger Cazares**, **Mikayla
-  Paul**, **Cleo** (surname unknown). The studio Instagram bio also mentions an
+  Paul**, ~~Cleo~~ (left, 2026-10-15). The studio Instagram bio also mentions an
   apprentice. Roster unconfirmed (R-09)
 - **Website**: none. GBP still prompts "Add website" ①. `cathedraltattoostudio.com`
   still unregistered by whois, 2026-10-11 ①
@@ -118,8 +120,8 @@ event, not a style problem.
   "made the whole experience comfortable from start to finish" · "I am an anxious
   person so that's a big deal for me" · "Got my first ever tattoo here" · "kind, funny,
   and welcoming" · "attention to detail, line work, shading" · "took my ideas and
-  brought them to life even better than I imagined" · "i strictly go to Cleo for all my
-  tattoos" · "incredibly talented respectful, & price friendly" · "Quality is unreal".
+  brought them to life even better than I imagined" · ~~"i strictly go to Cleo for all my
+  tattoos"~~ (names an artist who has left; do not use) · "incredibly talented respectful, & price friendly" · "Quality is unreal".
   **The recurring theme is comfort, not gravity.** Three of five readable reviews are
   about being put at ease. None mentions a memorial, a portrait or religious work.
   Two reviewers disclosed spend: **$450–500** and **$500+** (the second for fine line).
@@ -284,7 +286,7 @@ event, not a style problem.
 - ⚠️ 60 prior-shop photos carry a competitor's burned-in watermark; 54 cleaned, the
   rest are in `QUARANTINE-still-watermarked/` and are unpublishable. See
   `WATERMARK-REMOVAL.md`.
-- ⚠️ **All 97 portfolio photos are Roger's.** Nothing is on file for Mikayla or Cleo.
+- ⚠️ **All 97 portfolio photos are Roger's.** Nothing is on file for Mikayla.
 - ⚠️ Two quarantined folders under `99-Reference/` — licensed characters and family
   photos. Never publish either.
 
@@ -294,6 +296,6 @@ interchangeable: the Cathedral lockup (primary), the CTS gold badge (secondary),
 Roger's RC gothic monogram (artist attribution on portfolio work only — never site
 chrome, favicon, or a logo slot). Formalized in `brand/architecture.md`.
 
-**v2:** the same rule covers Mikayla, Cleo and any apprentice. Each is credited by
+**v2:** the same rule covers Mikayla and any apprentice (Cleo has left). Each is credited by
 name on their own work; none gets chrome. Social: the studio account is
 **`@cathedral_tattoostudio`** (with an underscore), not `@cathedraltattoostudio`.

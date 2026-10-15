@@ -39,7 +39,6 @@ Each fact was read from a public source or a record. The Google Business Profile
 |---|---|---|---|
 | Roger Cazares | May be named | All work on file is his | "Roger Cazares, tattoo artist at Cathedral Tattoo Studio". Instagram @rc_tattoos. He signs his work with the RC monogram, which stays where it sits on his photographs |
 | Mikayla Paul | `CONFIRM BEFORE PUBLISHING`: named by a customer in a review; has not agreed to be named in marketing | None | The same title, once she agrees: "Tattoo artist at Cathedral Tattoo Studio". Until then a labelled slot |
-| Cleo | `CONFIRM BEFORE PUBLISHING`: named by a customer in a review; surname unknown; has not agreed to be named in marketing | None | The same title, once she agrees and gives the name she uses. Until then a labelled slot |
 | Anyone else | Unknown | None | The studio's Instagram bio has mentioned an apprentice. Nobody else is named, counted or implied |
 
 Name rules: the title for anyone is "Tattoo artist at Cathedral Tattoo Studio". No other title exists. Never "our team", "our artists", "our talented artists", "three artists" or any count. No artist's previous shop is mentioned.
@@ -88,7 +87,7 @@ One studio, one list. No style has a colour, an icon set or a layout of its own.
 | 6 | Memorial and portrait work | Photographs | Never sold with grief language |
 | 7 | Large-scale sleeves and back pieces | Photographs | Work that takes more than one sitting |
 
-All seven are evidenced by the work of one artist, Roger Cazares. What Mikayla Paul and Cleo tattoo is not on file: `CONFIRM BEFORE PUBLISHING`. No line implies the list belongs to every artist.
+All seven are evidenced by the work of one artist, Roger Cazares. What Mikayla Paul tattoos is not on file: `CONFIRM BEFORE PUBLISHING`. No line implies the list belongs to every artist.
 
 ### 4.2 Naming rules
 
@@ -182,8 +181,8 @@ Each of these is `CONFIRM BEFORE PUBLISHING`. Nothing is stated, implied or draw
 |---|---|---|
 | Piercing | Whether piercing is offered now | Any piercing line, icon, template or category |
 | The move | Whether the move announced in August 2026 is still happening, when, and to where | Any mention of a location change. Interior photography. Signage. The address stays the one in section 1 |
-| The roster | Who tattoos at the studio; Cleo's full name; whether there is an apprentice; whether each person agrees to be named; their Instagram handles | Artist cards for anyone but Roger Cazares; any "meet the artists" layout; quotes 3 and 4 in file 5 |
-| Work by Mikayla Paul and Cleo | Photographs of their work and a portrait of each | Their photo slots. Any statement about what they tattoo |
+| The roster | Who tattoos at the studio; whether there is an apprentice; whether each person agrees to be named; their Instagram handles | Artist cards for anyone but Roger Cazares; any "meet the artists" layout; quotes 3 and 4 in file 5 |
+| Work by Mikayla Paul | Photographs of her work and a portrait of her | Their photo slots. Any statement about what they tattoo |
 | Licences | The facility permit and each artist's registration, in writing. Louisiana has no public registry to check | Any licence, permit, certification, training, hygiene or compliance statement. None appears in any output |
 | A website | Whether a domain will be registered, and its address | Every URL slot, every "visit our site" line, every QR code that would point to a site |
 | How roles are described | What title, if any, each person wants beyond "tattoo artist" | Any other title. Ownership stays undescribed |
@@ -305,7 +304,6 @@ Each is `CONFIRM BEFORE PUBLISHING`. It may be set into a template with the mark
 | "Book ahead for larger pieces" | That this is how the studio wants large work to arrive |
 | "Text us a photo" | That photos may be texted to the number |
 | The name Mikayla Paul in any marketing | Her agreement |
-| The name Cleo in any marketing | Her agreement, and the name she uses |
 | Quote 3 (Alesha) and quote 4 (Kameryn) in file 5 | The agreement of the artist each one names |
 | What any artist other than Roger Cazares tattoos | Their work, on file |
 | Any URL, QR code to a site, or "visit our site" | A registered domain and a live site |
@@ -338,7 +336,7 @@ Never, in any output, in any wording. This is the register of record.
 | 14 | Category cliches: "ink" as a noun, "inked", "get inked", "parlor", "body art", "bring your vision to life", "your body is a canvas", "no regrets", "journey", "transform", "wearable art", "all styles" | The category's dead language |
 | 15 | Grief: "honour your loved one", "keep their memory alive", "gone but not forgotten", a before and after on a memorial piece, a customer's loss told as content | The work is shown; the grief is not sold |
 | 16 | Outcome: any guarantee, "pain-free", "painless", "perfect", a promise of likeness, "heals perfectly", any healing time | Nobody promises what has not been looked at |
-| 17 | People: "our team", "our talented artists", a count of artists, the names Mikayla Paul or Cleo as approved, any title other than "Tattoo artist at Cathedral Tattoo Studio" | The roster is unconfirmed and two of three have not agreed to be named |
+| 17 | People: "our team", "our talented artists", a count of artists, the name Mikayla Paul as approved, any title other than "Tattoo artist at Cathedral Tattoo Studio" | The roster is unconfirmed and two of three have not agreed to be named |
 | 18 | The logo: redrawn, traced, vectorised, re-lettered, recoloured, outlined, given effects, AI-generated, set in live type, placed on a light ground, repeated in a view, or shown below its size floor; the RC monogram as a logo, avatar, favicon, header or footer | The logo is the supplied raster only, on dark |
 | 19 | Images: stock photography; AI-generated tattoos, skin, people, rooms or logos; generative fill; a retouched tattoo; a licensed character; any image not listed in `PHOTO-MANIFEST.md` | Real photographs only |
 | 20 | Contact: a web address, an email address, any address other than 1318 Florida Ave SW, a home address | There is no website, and the email is not printed |

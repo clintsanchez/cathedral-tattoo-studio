@@ -88,7 +88,7 @@ What it means: the artist who did the work is named, every time, by real name. N
 - **Do:** "Sleeve by Roger Cazares."
 - **Don't:** "Another one from the Cathedral team."
 
-Roger Cazares may be named. `CONFIRM BEFORE PUBLISHING`: every use of the names Mikayla Paul and Cleo. Neither has agreed to be named in marketing, and Cleo's surname is unknown.
+Roger Cazares may be named. `CONFIRM BEFORE PUBLISHING`: every use of the name Mikayla Paul, who has not agreed to be named in marketing. Never name Cleo, who has left the studio (2026-10-15).
 
 ## Tone by situation
 
@@ -301,7 +301,7 @@ From the studio's replies to Google reviews, read on 2026-10-11. These are the s
 
 > Thanks Kameryn. We'll pass this on to Cleo. Somebody coming back for every piece says more than anything we could put on a page.
 
-The second is live on the Google profile as a reply. `CONFIRM BEFORE PUBLISHING` before it is reused anywhere else, because it names Cleo.
+The second is live on the Google profile as a reply. It names Cleo, who has since left the studio (2026-10-15): keep it as an example of the register only, and never reuse it.
 
 ### Off brand
 

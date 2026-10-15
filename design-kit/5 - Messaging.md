@@ -9,7 +9,7 @@ Cathedral Tattoo Studio. 2026-10-12. Version 0.1, draft. Prepared by BlakSheep C
 - The open decision B-05 (premium held or released) is carried, not resolved. Every line here is written to be true under either answer. See file 2.
 - Review quotes are verbatim, the customer's own spelling and punctuation included, as read on the Google Business Profile on 2026-10-11. Each is attributed by first name with "Google review".
 - No review count is published. Six reviews is the whole base. The only number that appears is the dated rating line.
-- All work on file is by Roger Cazares, and he may be named. Mikayla Paul and Cleo are named by customers in reviews; neither has agreed to be named in marketing, so every use of either name is `CONFIRM BEFORE PUBLISHING`.
+- All work on file is by Roger Cazares, and he may be named. Mikayla Paul is named by a customer in a review and has not agreed to be named in marketing, so every use of her name is `CONFIRM BEFORE PUBLISHING`. Cleo, also named in a review, has left the studio: never name her.
 - Nobody is described as an owner or a founder. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio".
 - A line marked `CONFIRM BEFORE PUBLISHING` may be set into a template. It is not published until the studio answers.
 
@@ -123,7 +123,7 @@ No claim travels without its proof. Each pillar is shown with a photograph, a ve
 - Captions in the fixed form: "[piece], [placement]. Roger Cazares."
 - "Quality is unreal" Tyler, Google review
 
-**Strength of proof: strong for one artist, absent for the others.** Every photograph on file is Roger Cazares's work. Nothing is on file for Mikayla Paul or Cleo. Their work appears only as labelled photo slots, and no line implies the range shown belongs to all three.
+**Strength of proof: strong for one artist, absent for the others.** Every photograph on file is Roger Cazares's work. Nothing is on file for Mikayla Paul. Her work appears only as labelled photo slots, and no line implies the range shown belongs to every artist.
 
 **Useful headlines:**
 
@@ -260,7 +260,6 @@ Five quotes, verbatim, from the studio's Google reviews as read on 2026-10-11. A
 | 1 | "He took my ideas and brought them to life even better than I imagined." | Keely | Listened to first | May be used |
 | 2 | "He was professional, patient, and made the whole experience comfortable from start to finish." | Keely | Easy to walk into | May be used |
 | 3 | "I am an anxious person so that's a big deal for me" | Alesha | Easy to walk into | `CONFIRM BEFORE PUBLISHING`: in context it names Mikayla |
-| 4 | "i strictly go to Cleo for all my tattoos!!" | Kameryn | A customer who returns to one artist | `CONFIRM BEFORE PUBLISHING`: names Cleo |
 | 5 | "Quality is unreal" | Tyler | The work | May be used |
 
 Notes on use:
@@ -309,7 +308,7 @@ Bring the clearest photo you have. Face-on is best. `CONFIRM BEFORE PUBLISHING`:
 ### "Can I choose my artist?"
 
 Response:
-Every piece shown is credited to the artist who made it. Today that is Roger Cazares, tattoo artist at Cathedral Tattoo Studio, on Instagram at @rc_tattoos. Any line naming Mikayla Paul or Cleo is `CONFIRM BEFORE PUBLISHING`. Never "our team" and never a number of artists.
+Every piece shown is credited to the artist who made it. Today that is Roger Cazares, tattoo artist at Cathedral Tattoo Studio, on Instagram at @rc_tattoos. Any line naming Mikayla Paul is `CONFIRM BEFORE PUBLISHING`. Never "our team" and never a number of artists.
 
 ### "Are you licensed? Is it clean?"
 
@@ -430,4 +429,4 @@ Not a theme. A plain card for hours, address and phone, used sparingly: "Monday 
 
 ### Themes that are not to be built
 
-A price, offer, flash sale, giveaway or discount theme. A "walk-ins today" urgency theme. A "meet the owner" or founder theme. A "meet the artists" theme for Mikayla Paul or Cleo, until each agrees to be named (`CONFIRM BEFORE PUBLISHING`). A new location, moving or bigger space theme. A piercing theme. A comparison theme. A faith, scripture or Sunday theme. A memorial before and after, or any post that tells a customer's loss as content. A "years of experience" theme. A hygiene or "how we keep it clean" theme. A licensed-character or pop-culture theme.
+A price, offer, flash sale, giveaway or discount theme. A "walk-ins today" urgency theme. A "meet the owner" or founder theme. A "meet the artists" theme for Mikayla Paul, until she agrees to be named (`CONFIRM BEFORE PUBLISHING`). Anything naming Cleo, who has left. A new location, moving or bigger space theme. A piercing theme. A comparison theme. A faith, scripture or Sunday theme. A memorial before and after, or any post that tells a customer's loss as content. A "years of experience" theme. A hygiene or "how we keep it clean" theme. A licensed-character or pop-culture theme.

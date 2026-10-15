@@ -138,7 +138,7 @@ Do not build, draw, trace or generate any of these inside a layout. Where one is
 | An embroidery file | Nothing. Embroidery needs flat colour and the artwork has 129,764 colours |
 | A flat, authored value for the gold | The interim tokens. Never sample a gold from the logo or a photograph |
 | The blackletter font; any font file beyond Google Fonts | Cinzel and Source Sans 3 from Google Fonts. Blackletter is never live type |
-| Work by Mikayla Paul or Cleo, their portraits, their handles, Cleo's surname, and their agreement to be named | A labelled photo slot. Every use of either name is `CONFIRM BEFORE PUBLISHING` |
+| Work by Mikayla Paul, her portrait, her handle, and her agreement to be named | A labelled photo slot. Every use of her name is `CONFIRM BEFORE PUBLISHING` |
 | Any photograph of the studio, inside or out | A labelled photo slot |
 | A publishable portrait of an artist at work | A labelled photo slot. The one on file shows another shop's sign and was left out of the kit |
 | A client's face with consent; a process shot; a healed and fresh pair; a piece recorded as a cover-up; any landscape photograph | A labelled photo slot. No caption says "healed", "fresh" or "cover-up" |
@@ -192,7 +192,7 @@ Do not build, draw, trace or generate any of these inside a layout. Where one is
 
 A photo slot is a flat Surface `#141414` rectangle at the slot's ratio, with a 1 px Text muted `#A9A29A` border, a line image icon in Text muted, and a label in Small that names the missing picture and what it takes to get it: "The front room at 1318 Florida Ave SW. `CONFIRM BEFORE PUBLISHING`: photograph needed from the studio." It is a kit component, clearly unfinished, and is never shipped in a public piece.
 
-Slots this kit needs: work by Mikayla Paul; work by Cleo; a portrait of each artist at work; the room; a client at ease; a process shot; a cover-up; a landscape image for any wide placement.
+Slots this kit needs: work by Mikayla Paul; a portrait of each artist at work; the room; a client at ease; a process shot; a cover-up; a landscape image for any wide placement.
 
 ### The `CONFIRM BEFORE PUBLISHING` badge
 
@@ -331,7 +331,7 @@ Run on every page, template, graphic, post and export. One "no" stops it.
 **Names and people**
 
 - [ ] The name is "Cathedral Tattoo Studio" or "Cathedral". Never "CTS" in text. The legal entity is not printed.
-- [ ] Roger Cazares is named in full at first mention. Every use of the names Mikayla Paul and Cleo carries `CONFIRM BEFORE PUBLISHING`.
+- [ ] Roger Cazares is named in full at first mention. Every use of the name Mikayla Paul carries `CONFIRM BEFORE PUBLISHING`.
 - [ ] The only title for anyone is "Tattoo artist at Cathedral Tattoo Studio". Never "the team" where a name belongs.
 - [ ] Instagram handles are exact: `@cathedral_tattoostudio` and `@rc_tattoos`.
 
@@ -380,7 +380,7 @@ Review this kit:
 
 - When the studio answers any open item in file 0. Remove the matching `CONFIRM BEFORE PUBLISHING` markers and no others.
 - **When open decision B-05 is ruled on** (the premium position against a walk-in studio with no minimum). Files 2 and 5 change first, then the layout rule that commissioned work leads.
-- When Mikayla Paul or Cleo agrees to be named, or declines, and when their work arrives: add each photograph to the photo manifest with its caption and cautions, and replace the matching photo slot.
+- When Mikayla Paul agrees to be named, or declines, and when her work arrives: add each photograph to the photo manifest with its caption and cautions, and replace the matching photo slot.
 - When photographs of the room, of an artist at work, or of a client with written consent arrive: the same.
 - When the artist supplies unwatermarked originals: replace the six cleaned copies, and consider the strong pieces that were left out.
 - When the Google rating changes: update the two numbers and the date together.

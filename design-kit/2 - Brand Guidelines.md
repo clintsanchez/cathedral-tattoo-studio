@@ -267,7 +267,7 @@ Under all five pillars: "5.0 on Google from 6 reviews (October 11, 2026)". It su
 - Use the RC monogram as a logo, avatar, favicon, header or footer. Remove it from a photograph, or add it to one.
 - Use a stock photo, an AI-generated tattoo, skin, person, room or logo, generative fill, or a retouched tattoo. Show a licensed character.
 - Caption a piece as "healed" or "fresh" unless the photo manifest says so. Caption any piece with an artist other than the one who made it.
-- Name Mikayla Paul or Cleo in marketing as approved. Both are `CONFIRM BEFORE PUBLISHING`. Never write "our team", "our talented artists" or a count of artists.
+- Name Mikayla Paul in marketing as approved; her name is `CONFIRM BEFORE PUBLISHING`. Never name Cleo, who has left the studio. Never write "our team", "our talented artists" or a count of artists.
 - Write "owner", "founder", "owned and operated" or "family-owned" about anyone.
 - State a year, a number of years, "since", "established", "experienced" or "veteran". Mention any artist's previous shop.
 - Write "licensed", "certified", "sterile", "clean", "safe", "hospital-grade" or "health department approved" in the brand's own voice. A customer's review may contain such a word; the brand does not repeat it.

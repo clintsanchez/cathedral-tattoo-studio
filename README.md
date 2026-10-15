@@ -37,7 +37,7 @@ I'm available for WALK-INS! Also we are a walk-in shop..."* They began taking wa
 the existing shop without announcing it on the business page. See guardrail 6 in
 `brand/context.md`.
 
-## Artists — THREE, not two (updated 2026-09-19)
+## Artists — two named, roster unconfirmed (updated 2026-10-15)
 
 Named by customers in their own Google reviews, which is the strongest kind of source:
 they are naming the person who actually tattooed them.
@@ -46,14 +46,16 @@ they are naming the person who actually tattooed them.
 |---|---|
 | **Roger Cazares** | IG `@rc_tattoos` (2,033 posts, 6,663 followers) · FB `roger.cazares.54` (6.9K) · named by Keely, 5★ |
 | **Mikayla Paul** | sole member on the LLC filing · named by Alesha, 5★, who has had "a few tattoos" from her |
-| **Cleo** | 🆕 named by Kameryn, 5★: *"i strictly go to Cleo for all my tattoos!!"* |
+| ~~Cleo~~ | **No longer works at Cathedral (Clint, 2026-10-15).** Named by Kameryn, 5★, in a Google review |
 
-🩸 **Cleo was missing from every internal document until 2026-09-19.** Surname unknown,
+**Cleo has left the studio (Clint, 2026-10-15).** Do not name her anywhere, do not give her a slot, and do not quote Kameryn's review, which names her. The history below is kept for the record.
+
+🩸 *(History)* **Cleo was missing from every internal document until 2026-09-19.** Surname unknown,
 no handle on file, not mentioned in the brief, the brand docs or the records check. A
 client with a repeat customer who comes back specifically for her is not a minor omission.
 
-**Ask Roger for:** Cleo's full name, her Instagram handle, and whether she wants to be
-named publicly. The same for any other artist working there. `voice.md` requires artists
+**Ask Roger for:** who tattoos there now, each artist's Instagram handle, and whether
+each wants to be named publicly. `voice.md` requires artists
 be named people rather than "our team of talented artists", so we cannot write about the
 shop properly while we only know two thirds of the roster.
 
@@ -172,8 +174,8 @@ marketing campaigns around them.
 3. ✅ Email on file — preferred booking route still open
 4. Unwatermarked originals of the prior-shop portfolio (vector logo closed: ships as-is)
 5. Service list; is piercing live; will he set a minimum and deposits (R-30)
-6. 🚨 **Artist roster: Cleo's surname, handles, the apprentice, and photos of
-   Mikayla's and Cleo's work** (R-09, R-33)
+6. 🚨 **Artist roster: who works there now, handles, the apprentice, and photos of
+   Mikayla's work** (R-09, R-33). Cleo has left (2026-10-15)
 7. Louisiana shop/artist license numbers
 8. ✅ Instagram handles known — TikTok still unverified
 9. Domain — cathedraltattoostudio.com still unregistered 2026-10-11 (B-06)

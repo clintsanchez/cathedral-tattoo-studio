@@ -92,8 +92,8 @@ export const roger = {
   instagram: { handle: "@rc_tattoos", url: "https://www.instagram.com/rc_tattoos/" },
 };
 
-// Named by customers in Google reviews. Nothing is on file for either: no page is written.
-export const otherArtists = ["Mikayla Paul", "Cleo"];
+// Named by a customer in a Google review. Nothing is on file: no page is written. Cleo no longer works at Cathedral (Clint, 2026-10-15).
+export const otherArtists = ["Mikayla Paul"];
 
 export type Photo = {
   src: string;

@@ -76,7 +76,7 @@ simply gains the studio connection:
 2–4. Three strongest pieces, one per style: portrait, fine line, large blackwork.
 5. Process: stencil on skin, before the first line.
 6. The space.
-7. Each artist at work, credited by name: Roger, Mikayla, Cleo. ⚠️ Needs R-09.
+7. Each artist at work, credited by name: Roger, Mikayla. ⚠️ Needs R-09. (Cleo has left, 2026-10-15.)
 8. Healed work, captioned as healed. Nobody local does this.
 9. This month's open dates.
 
@@ -167,9 +167,9 @@ nobody a reason to follow it.
 
 ⚠️ When R-03 clears, this is the first page to revisit.
 
-**Mikayla Paul · Cleo** — ⛔ **not written.** No surname for Cleo, no handles, no work
-on file, and no word on whether either wants to be named publicly (R-09). Same
-ownership-safe form when they are: *Tattoo artist at Cathedral Tattoo Studio.*
+**Mikayla Paul** — ⛔ **not written.** (Cleo has left the studio, 2026-10-15: no page.) No handle, no work
+on file, and no word on whether she wants to be named publicly (R-09). Same
+ownership-safe form when she is: *Tattoo artist at Cathedral Tattoo Studio.*
 ⚠️ Applies to Mikayla especially, as the LLC's member of record (guardrail 1).
 
 ---

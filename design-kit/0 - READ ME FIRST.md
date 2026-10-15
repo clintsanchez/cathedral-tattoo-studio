@@ -47,7 +47,7 @@ Do not describe this kit as the client's approved brand in any output. Build the
 | **Website** | None, and no domain is registered. No URL appears in any output. A URL slot is `CONFIRM BEFORE PUBLISHING` |
 | **Hours** | Monday to Thursday 10am to 6pm. Friday and Saturday 10am to 7pm. Closed Sunday |
 | **Booking** | Walk-ins and booked work. The wording is "Walk in, or book ahead." |
-| **Artists** | Roger Cazares, who may be named. Mikayla Paul and Cleo are named by customers in reviews; neither has agreed to be named in marketing and Cleo's surname is unknown, so every use of their names is `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio" |
+| **Artists** | Roger Cazares, who may be named. Mikayla Paul is named by a customer in a review and has not agreed to be named in marketing, so every use of her name is `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio" |
 | **Ownership** | Not described in any output. No "owner", no "founder" |
 | **Instagram** | Studio `@cathedral_tattoostudio`, with the underscore. Roger Cazares `@rc_tattoos`, which is his own |
 | **Google rating** | 5.0 on Google from 6 reviews on 2026-10-11. Always quoted with the date |
@@ -127,8 +127,8 @@ All are `CONFIRM BEFORE PUBLISHING`. None has been answered by the studio. The i
 | R-18 | Approve the position | The studio, after B-05 | Mark as draft wherever shown | Brand foundation pages |
 | R-19 | Approve the tagline "Work worth carrying" | The studio | Show as draft, near the logo and never inside the artwork. Nothing permanent carries it | Covers, heroes, social cards |
 | R-03 | How each person's role may be described | The studio | "Tattoo artist at Cathedral Tattoo Studio" for everyone. No ownership wording | Artist cards, about layouts, captions |
-| R-09 | The roster: Cleo's surname, each artist's handle, whether an apprentice works there, and whether each agrees to be named | The studio | Roger Cazares named. Every other name is a marked slot | Artist cards, credit lines, "meet the artist" posts |
-| R-33 | Photographs of work by Mikayla and Cleo, and a portrait of each | The studio | Labelled photo slots. Never fill one with Roger Cazares's work | Artist pages, the portfolio, the social feed |
+| R-09 | The roster: who tattoos there now, each artist's handle, whether an apprentice works there, and whether each agrees to be named | The studio | Roger Cazares named. Every other name is a marked slot | Artist cards, credit lines, "meet the artist" posts |
+| R-33 | Photographs of work by Mikayla, and a portrait of her | The studio | Labelled photo slots. Never fill one with Roger Cazares's work | Artist pages, the portfolio, the social feed |
 | R-32 | Whether the announced move is still happening, and when the present room is finished | The studio | One address. No mention of a move. Interior photographs are labelled slots | Location layouts, interior photography |
 | R-11 | A domain and a website address | Clint | No URL anywhere | Footers, link fields, business card |
 | R-04 | Facility permit and artist registration numbers | The studio | No licence, hygiene or safety claim | Trust rows |

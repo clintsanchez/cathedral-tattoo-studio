@@ -65,7 +65,7 @@ Rules for the token layer:
 | Website | None. No domain is registered. No URL appears anywhere. Any URL slot is `CONFIRM BEFORE PUBLISHING` |
 | Hours | Monday to Thursday 10am to 6pm. Friday and Saturday 10am to 7pm. Closed Sunday |
 | Booking | Walk-ins and booked work. Approved wording: "Walk in, or book ahead." |
-| Artists | Roger Cazares may be named; his Instagram is `@rc_tattoos`. Mikayla Paul and Cleo are named by customers in reviews, but neither has agreed to be named in marketing and Cleo's surname is unknown: every use of either name is `CONFIRM BEFORE PUBLISHING`. Title for anyone: "Tattoo artist at Cathedral Tattoo Studio" |
+| Artists | Roger Cazares may be named; his Instagram is `@rc_tattoos`. Mikayla Paul is named by a customer in a review, but has not agreed to be named in marketing: every use of either name is `CONFIRM BEFORE PUBLISHING`. Title for anyone: "Tattoo artist at Cathedral Tattoo Studio" |
 | Rating line | Always exactly: "5.0 on Google from 6 reviews (October 11, 2026)". Re-read the profile and re-date it before every use |
 | Market | Denham Springs. "Denham Springs and the Baton Rouge area" is the only wider wording |
 | Prices | None. There is no shop minimum and no published price. No figure appears in any template |
@@ -247,7 +247,7 @@ Build component slots only for what exists.
 | The RC monogram, where it already sits on his photographs | Patterns, textures, paper or stone effects |
 | The monthly open-dates calendar as a format | Gradients or metallic effects |
 | The hairline and the keyline | A second logo, a stacked or horizontal lockup, a monogram for the studio |
-| | An interior photograph, healed-work photographs, process photographs, and any work by Mikayla or Cleo: labelled photo slots until the manifest lists real files |
+| | An interior photograph, healed-work photographs, process photographs, and any work by Mikayla: labelled photo slots until the manifest lists real files |
 
 Icons: none by default. Steps carry numerals and checklists carry a text marker. If an icon is unavoidable in a profile highlight or a UI label, it is a line icon with a 2 px stroke, round caps, no fill, in Text or Gold primary, from one set (Lucide is proposed), always with a text label. No needle, machine, skull, cross, church, drop, flame or star icons.
 
@@ -257,7 +257,7 @@ Icons: none by default. Steps carry numerals and checklists carry a text marker.
 
 **The supplied real photographs only**, from `assets/photos/`, as listed in `assets/photos/PHOTO-MANIFEST.md`. The manifest is the list of record for which file may be used, where, at what crop and with what caution; this prompt does not repeat it. No stock, no AI-generated tattoo, skin, person, room or logo, no mock-up, no other studio's work.
 
-What is on file, in summary: finished work by Roger Cazares only. It covers black and grey portraits and animals, dotwork, fine line, lettering and script, colour, blackwork, and half-sleeve and back work. No work is on file for Mikayla or Cleo. There is no interior photograph. Unless the manifest lists them, there are no healed-work and no process photographs. Each of those is a labelled `Photo slot`, never a stand-in image.
+What is on file, in summary: finished work by Roger Cazares only. It covers black and grey portraits and animals, dotwork, fine line, lettering and script, colour, blackwork, and half-sleeve and back work. No work is on file for Mikayla. There is no interior photograph. Unless the manifest lists them, there are no healed-work and no process photographs. Each of those is a labelled `Photo slot`, never a stand-in image.
 
 Treatment rules:
 
@@ -384,7 +384,7 @@ The first three families are the feed. The rest support it. In a specimen grid o
 - **Caption:** "Black and grey wolf pack, half sleeve. By Roger Cazares, @rc_tattoos. Walk in, or book ahead. Call or text (225) 301-9527."
 - **Carousel variant:** one piece per slide, three to five slides, one artist per carousel, the credit on every slide.
 - **Never** an adjective about the work in the brand's own voice ("stunning", "insane", "flawless"), a price, the time it took unless the artist supplies it (`CONFIRM BEFORE PUBLISHING`), the client's name without permission, or a story about why the client chose the piece.
-- **Slots:** "Work by Mikayla Paul" and "Work by Cleo" exist as `Photo slot` variants with the artist field flagged `CONFIRM BEFORE PUBLISHING`: no work is on file, neither has agreed to be named, and Cleo's surname is unknown.
+- **Slots:** "Work by Mikayla Paul" exists as a `Photo slot` variant with the artist field flagged `CONFIRM BEFORE PUBLISHING`: no work is on file and she has not agreed to be named. There is no slot for Cleo, who has left.
 
 ## 9.2 Healed work, captioned as healed
 - **Layout:** as 9.1, with the eyebrow "Healed" above the credit.
@@ -406,7 +406,7 @@ The studio's own format, kept and restyled.
 - **Copy:** eyebrow "Open dates" · headline "[Month]" · artist "Roger Cazares" · line "Open: [dates]." · footer "Call or text (225) 301-9527".
 - **Caption:** "Open dates for [month] are up. First come, first served. Call or text (225) 301-9527."
 - **Calls to action**, where the format has room: "Check open dates" and "Call or text (225) 301-9527".
-- **Fields:** the month, the year and every open date are `CONFIRM BEFORE PUBLISHING`, supplied by the artist each month. The specimen ships with the grid for the month drawn and no date ringed. One calendar per artist; calendars for Mikayla and Cleo are slots flagged `CONFIRM BEFORE PUBLISHING`.
+- **Fields:** the month, the year and every open date are `CONFIRM BEFORE PUBLISHING`, supplied by the artist each month. The specimen ships with the grid for the month drawn and no date ringed. One calendar per artist; the calendar for Mikayla is a slot flagged `CONFIRM BEFORE PUBLISHING`.
 - **Never** "Now booking", "Limited", "Filling fast", "Last spots", a countdown, a struck-through date used as pressure, red, a monogram or photograph behind the grid, or blackletter for the month.
 - **Story variant:** the same grid between the safe-zone bands. **Google post variant:** the month and the open dates in words on the right, the grid on the left.
 
@@ -456,7 +456,7 @@ Instructional and unambiguous. Numbered steps. No personality.
 - **Layout:** `split`. A photograph of the artist at work on one side; on Ground, the name in Cinzel, the title in the credit style, two sentences, the handle.
 - **Copy:** headline "Roger Cazares" · title "Tattoo artist at Cathedral Tattoo Studio" · body "Roger works mostly in black and grey: portraits, fine line and dotwork, lettering, and large-scale sleeve and back pieces. He also does colour and cover-ups." · "He signs his work with the RC monogram you'll see on most of his photos." · "Instagram: @rc_tattoos"
 - **Carousel variant:** the artist slide, then three of his pieces, one per slide, each credited.
-- **Slots:** identical templates for "Mikayla Paul" and "Cleo [surname]", every field flagged `CONFIRM BEFORE PUBLISHING`: neither has agreed to be named, no photograph or work is on file, no handle is known, and Cleo's surname is unknown. Do not fill them with sample text.
+- **Slot:** an identical template for "Mikayla Paul", every field flagged `CONFIRM BEFORE PUBLISHING`: she has not agreed to be named, no photograph or work is on file, and no handle is known. None for Cleo, who has left. Do not fill them with sample text.
 - **Never** "owner", "founder", any number of years, "experienced", "award-winning", "licensed", where he worked before, or a quote he has not given.
 
 ## 9.11 Review card
@@ -538,7 +538,6 @@ Six reviews exist. They are the only thing customers have put in writing about t
 | "He was professional, patient, and made the whole experience comfortable from start to finish." | Keely | At ease | Usable |
 | "Quality is unreal" | Tyler | The work | Usable |
 | "I am an anxious person so that's a big deal for me" | Alesha | At ease | `CONFIRM BEFORE PUBLISHING`: in context it names Mikayla |
-| "i strictly go to Cleo for all my tattoos!!" | Kameryn | A named artist | `CONFIRM BEFORE PUBLISHING`: it names Cleo |
 
 **Not used, in any form:** any quote from the reviewer "hailey paul", who shares a surname with a member of the studio; "price friendly"; "Best tattoos you can ever get".
 
@@ -745,7 +744,7 @@ Before any template is marked complete, verify:
 - Photographs are supplied files listed in the manifest, with the tattoo untouched. No stock, no AI image, no licensed character. No text on a tattoo, on skin or on a face.
 - Every piece is credited "[piece], [placement]. [artist]." on the canvas, in the caption and in the alt text.
 - Nothing is built for `@rc_tattoos`. The studio feed specimen is not a copy of an artist's feed, and at least five of nine posts are work.
-- Mikayla Paul and Cleo appear only in flagged slots.
+- Mikayla Paul appears only in flagged slots.
 
 **Claims**
 - No ownership, tenure, licensing or hygiene claim. No premium word. No superlative.

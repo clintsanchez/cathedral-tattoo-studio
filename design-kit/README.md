@@ -41,7 +41,7 @@ The files in this folder are the source of truth. Claude Design is a viewer and 
 | The RC monogram | It appears only where it already sits on Roger Cazares's photographs | If it is used as a logo, avatar or header, remove it |
 | Photos | Every photograph is a file from `assets/photos/`, in true colour | If a stock photo, an AI-generated tattoo, person or room, or a retouched tattoo appears, replace it with a supplied photo or a labelled photo slot |
 | Credits | Every piece of work carries the artist's name. Work on file is credited to Roger Cazares | If a credit is missing or says "the team", add the name |
-| Other artists | Mikayla and Cleo appear only in slots marked `CONFIRM BEFORE PUBLISHING` | Restore the marker. Never fill their slots with Roger Cazares's work |
+| Other artists | Mikayla appears only in slots marked `CONFIRM BEFORE PUBLISHING` | Restore the marker. Never fill their slots with Roger Cazares's work |
 | Claims | No banned claim anywhere: see the prohibited list at the end of `6 - Brand Context and Prices.md` | Delete the line. Do not soften it |
 | Booking | The wording is "Walk in, or book ahead." | If "by appointment" or "appointment only" appears, replace it |
 | Colour | Gold is `#B99040` and stays under about 15 per cent of any layout. No gold text on white. No hue outside `tokens/css-tokens.css` | Point Claude Design at the token file |
@@ -104,7 +104,7 @@ Read `7 - SOCIAL TEMPLATE SYSTEM PROMPT.md` in the attached folder in full and c
 - The RC monogram is Roger Cazares's signature on his own photographs. It is never a logo, avatar, favicon, header or footer.
 - Real photos only, from `assets/photos/`. No stock, no AI-generated tattoos, skin, people or rooms, no retouching of a tattoo, no generative fill. No licensed characters.
 - Every piece of work is credited by name to the artist who made it.
-- Roger Cazares may be named. Mikayla Paul and Cleo are named only in slots marked `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio".
+- Roger Cazares may be named. Mikayla Paul is named only in slots marked `CONFIRM BEFORE PUBLISHING`. The title for anyone is "Tattoo artist at Cathedral Tattoo Studio".
 - No "owner", "founder" or "family-owned". No years in business, "since", "established" or "experienced".
 - No "licensed", "certified", "sterile", "clean" or "safe" in the brand's own voice.
 - No "premium", "luxury", "high-end", "exclusive" or "bespoke". No "premier", "best", "top-rated", "#1" or "award-winning".
@@ -127,7 +127,7 @@ Read `7 - SOCIAL TEMPLATE SYSTEM PROMPT.md` in the attached folder in full and c
 - A vector logo, a light-background version, a one-colour version, and print-ready, embroidery or signage artwork. None can be derived from the existing raster.
 - The name of the blackletter typeface in the logo.
 - Final colour values. The present ones are sampled from a JPEG gradient.
-- Any work by Mikayla or Cleo, a portrait of either, Cleo's surname, and their agreement to be named.
+- Any work by Mikayla, a portrait of her, and her agreement to be named.
 - Photographs of the room, of the process, and of healed work identified as healed.
 - A publishable portrait of Roger Cazares. The one on file shows another business's sign behind him and is not in the kit.
 - A website address. No domain is registered.

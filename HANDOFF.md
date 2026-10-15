@@ -24,7 +24,7 @@ brand doc is written to be true under either answer.
 | Hours | Mon–Thu 10 AM–6 PM · Fri–Sat 10 AM–7 PM · Sun closed |
 | Booking | Walk-ins **and** appointments. Never write "by appointment" |
 | Google reviews | **6, 5.0 average**, every one answered in the brand voice |
-| Artists | Roger Cazares, Mikayla Paul, Cleo (surname unknown). Possibly an apprentice |
+| Artists | Roger Cazares, Mikayla Paul. Possibly an apprentice. Cleo has left (Clint, 2026-10-15) |
 | Instagram | Studio `@cathedral_tattoostudio` (underscore) 242 · Roger `@rc_tattoos` 6,663. Read 2026-09-19; could not be refreshed |
 | Email | `cathedraltattoostudio25@gmail.com` |
 | Website | None. `cathedraltattoostudio.com` **still unregistered** |
@@ -62,7 +62,7 @@ brand doc is written to be true under either answer.
 
 - Choose a direction and build it out; design system beyond `DESIGN.md` and `website/css-tokens.css`.
 - Brand story, vision, mission, values: still Roger's to state (R-13, R-14).
-- Artist pages for Mikayla and Cleo: nothing on file (R-09, R-33).
+- Artist page for Mikayla: nothing on file (R-09, R-33). Cleo has left; no page for her.
 - AiB vault entry, Trello board.
 - `06-Reports/client-asks-email-draft.md` predates v2. Regenerate from
   `CLIENT-ASKS.md` before sending.

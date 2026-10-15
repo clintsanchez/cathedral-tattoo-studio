@@ -6,7 +6,7 @@ Cathedral Tattoo Studio. Version 0.1, 2026-10-12. Prepared by BlakSheep Creative
 
 Read this before designing any layout. None of the following is in this folder, and none may be drawn, generated, borrowed or implied.
 
-- **No work by Mikayla Paul or Cleo.** Every photograph here is Roger Cazares's work. An artist layout for anyone else is a labelled photo slot.
+- **No work by Mikayla Paul.** Every photograph here is Roger Cazares's work. An artist layout for anyone else is a labelled photo slot.
 - **No interior or exterior of the studio.** No photograph of the room, the chair, the front desk, the door or the building at 1318 Florida Ave SW.
 - **No at-work portrait that can be published.** The one portrait on file was rejected: see "Deliberately left out".
 - **No healed-versus-fresh pairs.** No photograph is identified as healed or as fresh, so no caption says either word.
@@ -133,7 +133,7 @@ Artist: Roger Cazares, in every row. Monogram: where the RC monogram sits in the
 
 In order of value. Until each arrives, the layout uses a labelled photo slot (file 8, section 3).
 
-1. Work by Mikayla Paul and Cleo, with each artist's agreement to be named.
+1. Work by Mikayla Paul, with her agreement to be named.
 2. The room at 1318 Florida Ave SW: the door, the front room, a chair, in warm directional light.
 3. Roger Cazares at work in that room, landscape as well as portrait.
 4. The unwatermarked originals of the rejected cleaned copies.

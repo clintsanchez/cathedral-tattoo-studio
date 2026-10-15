@@ -130,7 +130,7 @@ rules.
 
 Shown as labelled slots on the pages, not filled in:
 
-- Photographs of the room, of anyone at work in it, and any work by Mikayla Paul or Cleo.
+- Photographs of the room, of anyone at work in it, and any work by Mikayla Paul.
 - This month's open dates.
 - The tagline "Work worth carrying" is the agency's proposal and is the headline in all three. Roger has not seen it.
 
